@@ -1,10 +1,11 @@
-﻿using CsvHelper;
-using System.Globalization;
+﻿using System.Globalization;
+using CsvHelper;
 
 namespace Magic
 {
     public static class ReadmeHandler
     {
+        private const string Scryfall = "https://scryfall.com/card/";
         private static int _cardsAmount;
         private static float _priceAmount;
 
@@ -46,8 +47,9 @@ namespace Magic
                 var finish = record.Finish;
                 var id = record.Id;
 
+                var link = Scryfall + "/" + setCode + "/" + collectorNumber;
                 var message =
-                    $" <li> {price} <b>{name}</b>({quantity}) <em>{setCode}/{collectorNumber},{rarity},{finish}</em> - {id}</li>";
+                    $" <li> {price} <b>{name}</b>({quantity}) <em>{setCode}/{collectorNumber},{rarity},{finish}</em> - <a href=\"{link}\">{id}</a></li>";
                 lines.Add(message);
             }
         }
