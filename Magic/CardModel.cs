@@ -17,7 +17,7 @@ namespace Magic
         public string? SetName { get; set; }
 
         [Name("COLLECTOR NUMBER")]
-        public string? ColletorNumber { get; set; }
+        public string? CollectorNumber { get; set; }
 
         [Name("FINISH")]
         public string? Finish { get; set; }

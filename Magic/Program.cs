@@ -1,19 +1,20 @@
-﻿using Magic;
-using System.Globalization;
+﻿using System.Globalization;
 
-internal class Program
+namespace Magic;
+
+public static class Program
 {
-    private static readonly string _rootPath = @"..\..\..\..\";
-    private static readonly string _inputDataPath = _rootPath + "Data";
-    private static readonly string _outputDataPath = _rootPath + "TopDecked.csv";
-    private static readonly string _readmePath = _rootPath + @"README.md";
-    private static List<CardModel> _records = new();
+    private const string RootPath = @"..\..\..\..\";
+    private const string InputDataPath = RootPath + "Data";
+    private const string OutputDataPath = RootPath + "TopDecked.csv";
+    private const string ReadmePath = RootPath + "README.md";
+    private static readonly List<CardModel> Records = new();
 
-    private static void Main(string[] args)
+    private static void Main()
     {
         CultureInfo.CurrentCulture = CultureInfo.GetCultureInfo("en-US");
-        CsvHeandler.Read(_inputDataPath, _records);
-        CsvHeandler.Write(_outputDataPath, _records);
-        ReadmeHandler.Print(_outputDataPath, _readmePath);
+        CsvHandler.Read(InputDataPath, Records);
+        CsvHandler.Write(OutputDataPath, Records);
+        ReadmeHandler.Print(OutputDataPath, ReadmePath);
     }
 }

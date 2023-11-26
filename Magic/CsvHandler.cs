@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace Magic
 {
-    public static class CsvHeandler
+    public static class CsvHandler
     {
         public static void Read(string path, List<CardModel> list)
         {
