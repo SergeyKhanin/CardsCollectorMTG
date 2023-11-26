@@ -43,13 +43,9 @@ namespace Magic
                 var setCode = record.SetCode;
                 var collectorNumber = record.CollectorNumber;
                 var price = record.Price;
-                var rarity = record.Rarity;
-                var finish = record.Finish;
-                var id = record.Id;
 
                 var link = Scryfall + "/" + setCode + "/" + collectorNumber;
-                var message =
-                    $" <li> {price} <b>{name}</b>({quantity}) <em>{setCode}/{collectorNumber},{rarity},{finish}</em> - <a href=\"{link}\">{id}</a></li>";
+                var message = $" <li> {price} <a href=\"{link}\">{name}</a> ({quantity})</li>";
                 lines.Add(message);
             }
         }
