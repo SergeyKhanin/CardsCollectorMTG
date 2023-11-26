@@ -68,6 +68,8 @@ namespace Magic
                 _cardsAmount += quantityConverted;
                 _priceAmount += priceConverted * quantityConverted;
             }
+
+            _priceAmount = (float)Math.Round(_priceAmount, 2);
         }
     }
 }
