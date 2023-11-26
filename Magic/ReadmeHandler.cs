@@ -44,8 +44,9 @@ namespace Magic
                 var collectorNumber = record.CollectorNumber;
                 var price = record.Price;
                 var finish = record.Finish;
+                var lang = record.Lang;
 
-                var link = Scryfall + "/" + setCode + "/" + collectorNumber;
+                var link = Scryfall + "/" + setCode + "/" + collectorNumber + "/" + lang;
                 var message =
                     $" <li> {price} <a href=\"{link}\">{name}</a> - {finish} ({quantity})</li>";
                 lines.Add(message);

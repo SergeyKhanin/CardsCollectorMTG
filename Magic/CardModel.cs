@@ -33,5 +33,11 @@ namespace Magic
 
         [Name("ACQUIRED DATE")]
         public string? AcquiredDate { get; set; }
+
+        [Name("ACQUIRED PRICE")]
+        public string? AcquiredPrice { get; set; }
+
+        [Name("LANG")]
+        public string? Lang { get; set; }
     }
 }
