@@ -1,7 +1,7 @@
 Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.
 
 > [!NOTE]
-> Total cards is <b>371</b>, their price is <b>$216.34999</b>
+> Total cards is <b>371</b>, their price is <b>$216.35</b>
 
 <details>
   <summary><b>Cards list</b></summary>
