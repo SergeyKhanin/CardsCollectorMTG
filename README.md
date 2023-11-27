@@ -1,7 +1,7 @@
 Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.
 
 > [!NOTE]
-> Total cards is <b>369</b>, their price is <b>$204</b>
+> Total cards is <b>371</b>, their price is <b>$204.18</b>
 
 <details>
   <summary><b>Cards list</b></summary>
@@ -288,7 +288,7 @@ Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.
  <li> $0.10 <a href="https://scryfall.com/card/khm/148/ru">Rune of Speed</a> - nonfoil (1)</li>
  <li> $0.50 <a href="https://scryfall.com/card/thb/80/en">Wavebreak Hippocamp</a> - nonfoil (1)</li>
  <li> $0.05 <a href="https://scryfall.com/card/stx/24/ru">Professor of Symbology</a> - nonfoil (1)</li>
- <li> $0.43 <a href="https://scryfall.com/card/mid/51/ru">Fading Hope</a> - nonfoil (1)</li>
+ <li> $0.43 <a href="https://scryfall.com/card/mid/51/ru">Fading Hope</a> - nonfoil (2)</li>
  <li> $0.31 <a href="https://scryfall.com/card/mid/223/ru">Florian, Voldaren Scion</a> - nonfoil (1)</li>
  <li> $0.08 <a href="https://scryfall.com/card/stx/246/ru">Venerable Warsinger</a> - nonfoil (1)</li>
  <li> $0.42 <a href="https://scryfall.com/card/ddr/53/en">Indulgent Tormentor</a> - nonfoil (1)</li>
@@ -342,11 +342,12 @@ Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.
  <li> $0.04 <a href="https://scryfall.com/card/afr/111/ru">Lightfoot Rogue</a> - nonfoil (1)</li>
  <li> $0.05 <a href="https://scryfall.com/card/sta/23/ru">Whirlwind Denial</a> - nonfoil (2)</li>
  <li> $0.07 <a href="https://scryfall.com/card/mom/30/en">Phyrexian Awakening</a> - nonfoil (1)</li>
+ <li> $2.96 <a href="https://scryfall.com/card/plist/475/en">Noxious Ghoul</a> - nonfoil (1)</li>
+ <li> $0.08 <a href="https://scryfall.com/card/plist/520/en">Toils of Night and Day</a> - nonfoil (1)</li>
  <li> $5.59 <a href="https://scryfall.com/card/mom/12/en">Elesh Norn // The Argent Etchings</a> - nonfoil (1)</li>
  <li> $19.08 <a href="https://scryfall.com/card/thb/259/en">Heliod, Sun-Crowned</a> - foil (1)</li>
  <li> $17.96 <a href="https://scryfall.com/card/thb/236/en">Shadowspear</a> - nonfoil (1)</li>
  <li> $5.31 <a href="https://scryfall.com/card/thb/24/en">Idyllic Tutor</a> - nonfoil (1)</li>
- <li> $3.29 <a href="https://scryfall.com/card/lgn/77/en">Noxious Ghoul</a> - nonfoil (1)</li>
  <li> $4.56 <a href="https://scryfall.com/card/afr/87/ru">Acererak the Archlich</a> - foil (1)</li>
  <li> $10.92 <a href="https://scryfall.com/card/stx/282/ru">Beledros Witherbloom</a> - nonfoil (1)</li>
  <li> $28.04 <a href="https://scryfall.com/card/mid/112/ru">The Meathook Massacre</a> - nonfoil (1)</li>
