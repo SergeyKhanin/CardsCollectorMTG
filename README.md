@@ -1,7 +1,7 @@
 Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.
 
 > [!NOTE]
-> Total cards is <b>370</b>, their price is <b>$204.11</b>
+> Total cards is <b>369</b>, their price is <b>$204</b>
 
 <details>
   <summary><b>Cards list</b></summary>
@@ -117,7 +117,6 @@ Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.
  <li> $0.05 <a href="https://scryfall.com/card/afr/12/ru">Divine Smite</a> - nonfoil (1)</li>
  <li> $0.03 <a href="https://scryfall.com/card/thb/239/en">Thundering Chariot</a> - nonfoil (1)</li>
  <li> $0.03 <a href="https://scryfall.com/card/stx/107/ru">Igneous Inspiration</a> - nonfoil (1)</li>
- <li> $0.11 <a href="https://scryfall.com/card/ddr/19/en">Scythe Leopard</a> - nonfoil (1)</li>
  <li> $0.11 <a href="https://scryfall.com/card/ddr/19/en">Scythe Leopard</a> - nonfoil (2)</li>
  <li> $0.11 <a href="https://scryfall.com/card/khm/201/ru">Arni Slays the Troll</a> - nonfoil (1)</li>
  <li> $1.12 <a href="https://scryfall.com/card/stx/86/ru">Sedgemoor Witch</a> - nonfoil (1)</li>
