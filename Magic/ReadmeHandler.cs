@@ -5,7 +5,7 @@ namespace Magic
 {
     public static class ReadmeHandler
     {
-        private const string Scryfall = "https://scryfall.com/card/";
+        private const string Scryfall = "https://scryfall.com/card";
         private static int _cardsAmount;
         private static float _priceAmount;
 
