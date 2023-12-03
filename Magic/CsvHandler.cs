@@ -3,9 +3,9 @@ using System.Globalization;
 
 namespace Magic
 {
-    public static class CsvHandler
+    public class CsvHandler
     {
-        public static void Read(string path, List<CardModel> list)
+        public void Read(string path, List<CardModel> list)
         {
             var files = Directory.GetFiles(path, "*.csv");
 
@@ -20,7 +20,7 @@ namespace Magic
             }
         }
 
-        public static void Write(string path, List<CardModel> list)
+        public void Write(string path, List<CardModel> list)
         {
             using var writer = new StreamWriter(path);
             using var csv = new CsvWriter(writer, CultureInfo.InvariantCulture);

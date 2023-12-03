@@ -3,13 +3,13 @@ using CsvHelper;
 
 namespace Magic
 {
-    public static class ReadmeHandler
+    public class ReadmeHandler
     {
         private const string Scryfall = "https://scryfall.com/card";
-        private static int _cardsAmount;
-        private static float _priceAmount;
+        private int _cardsAmount;
+        private float _priceAmount;
 
-        public static void Print(string outputDataPath, string markdownPath)
+        public void Print(string outputDataPath, string markdownPath)
         {
             List<string> lines = File.ReadAllLines(markdownPath).ToList();
             Counter(outputDataPath);
@@ -30,7 +30,7 @@ namespace Magic
             File.WriteAllLines(markdownPath, lines);
         }
 
-        private static void Message(string path, List<string> lines)
+        private void Message(string path, List<string> lines)
         {
             using var reader = new StreamReader(path);
             using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
@@ -53,7 +53,7 @@ namespace Magic
             }
         }
 
-        private static void Counter(string path)
+        private void Counter(string path)
         {
             using var reader = new StreamReader(path);
             using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
@@ -70,7 +70,7 @@ namespace Magic
                 _priceAmount += priceConverted * quantityConverted;
             }
 
-            _priceAmount = (float)Math.Round(_priceAmount, 2);
+            _priceAmount = (float) Math.Round(_priceAmount, 2);
         }
     }
 }

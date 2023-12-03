@@ -1,4 +1,4 @@
-﻿using System.Globalization;
+﻿using static System.Globalization.CultureInfo;
 
 namespace Magic;
 
@@ -12,9 +12,12 @@ public static class Program
 
     private static void Main()
     {
-        CultureInfo.CurrentCulture = CultureInfo.GetCultureInfo("en-US");
-        CsvHandler.Read(InputDataPath, Records);
-        CsvHandler.Write(OutputDataPath, Records);
-        ReadmeHandler.Print(OutputDataPath, ReadmePath);
+        CurrentCulture = GetCultureInfo("en-US");
+        var csvHandler = new CsvHandler();
+        var readmeHandler = new ReadmeHandler();
+        
+        csvHandler.Read(InputDataPath, Records);
+        csvHandler.Write(OutputDataPath, Records);
+        readmeHandler.Print(OutputDataPath, ReadmePath);
     }
 }
