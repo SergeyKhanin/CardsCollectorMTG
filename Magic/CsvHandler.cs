@@ -5,9 +5,9 @@ namespace Magic
 {
     public class CsvHandler
     {
-        private string _inputDataPath;
-        private string _outputDataPath;
-        private List<CardModel> _records;
+        private readonly string _inputDataPath;
+        private readonly string _outputDataPath;
+        private readonly List<CardModel> _records;
 
         public CsvHandler(string inputDataPath, string outputDataPath, List<CardModel> records)
         {

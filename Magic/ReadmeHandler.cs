@@ -5,11 +5,11 @@ namespace Magic
 {
     public class ReadmeHandler
     {
-        private const string Scryfall = "https://scryfall.com/card";
+        private const string PagePath = "https://scryfall.com/card";
         private int _cardsAmount;
         private float _priceAmount;
-        private string _outputDataPath;
-        private string _readmePath;
+        private readonly string _outputDataPath;
+        private readonly string _readmePath;
 
         public ReadmeHandler(string outputDataPath, string readmePath)
         {
@@ -54,7 +54,7 @@ namespace Magic
                 var finish = record.Finish;
                 var lang = record.Lang;
 
-                var link = Scryfall + "/" + setCode + "/" + collectorNumber + "/" + lang;
+                var link = PagePath + "/" + setCode + "/" + collectorNumber + "/" + lang;
                 var message =
                     $" <li> {price} <a href=\"{link}\">{name}</a> - {finish} ({quantity})</li>";
                 lines.Add(message);
