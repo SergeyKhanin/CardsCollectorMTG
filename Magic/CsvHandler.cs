@@ -1,13 +1,24 @@
-﻿using CsvHelper;
-using System.Globalization;
+﻿using System.Globalization;
+using CsvHelper;
 
 namespace Magic
 {
     public class CsvHandler
     {
-        public void Read(string path, List<CardModel> list)
+        private string _inputDataPath;
+        private string _outputDataPath;
+        private List<CardModel> _records;
+
+        public CsvHandler(string inputDataPath, string outputDataPath, List<CardModel> records)
         {
-            var files = Directory.GetFiles(path, "*.csv");
+            _inputDataPath = inputDataPath;
+            _outputDataPath = outputDataPath;
+            _records = records;
+        }
+
+        public void Read()
+        {
+            var files = Directory.GetFiles(_inputDataPath, "*.csv");
 
             foreach (var file in files)
             {
@@ -16,16 +27,16 @@ namespace Magic
                 var records = csv.GetRecords<CardModel>();
 
                 foreach (var record in records)
-                    list.Add(record);
+                    _records.Add(record);
             }
         }
 
-        public void Write(string path, List<CardModel> list)
+        public void Write()
         {
-            using var writer = new StreamWriter(path);
+            using var writer = new StreamWriter(_outputDataPath);
             using var csv = new CsvWriter(writer, CultureInfo.InvariantCulture);
 
-            csv.WriteRecords(list);
+            csv.WriteRecords(_records);
         }
     }
 }

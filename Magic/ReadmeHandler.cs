@@ -8,11 +8,19 @@ namespace Magic
         private const string Scryfall = "https://scryfall.com/card";
         private int _cardsAmount;
         private float _priceAmount;
+        private string _outputDataPath;
+        private string _readmePath;
 
-        public void Print(string outputDataPath, string markdownPath)
+        public ReadmeHandler(string outputDataPath, string readmePath)
         {
-            List<string> lines = File.ReadAllLines(markdownPath).ToList();
-            Counter(outputDataPath);
+            _outputDataPath = outputDataPath;
+            _readmePath = readmePath;
+        }
+
+        public void Print()
+        {
+            List<string> lines = File.ReadAllLines(_readmePath).ToList();
+            Counter(_outputDataPath);
             lines.Clear();
             lines.Add(
                 "Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.\n"
@@ -24,10 +32,10 @@ namespace Magic
             lines.Add("<details>");
             lines.Add("  <summary><b>Cards list</b></summary>\n");
             lines.Add("<ul>");
-            Message(outputDataPath, lines);
+            Message(_outputDataPath, lines);
             lines.Add("</ul>");
             lines.Add("\n</details>");
-            File.WriteAllLines(markdownPath, lines);
+            File.WriteAllLines(_readmePath, lines);
         }
 
         private void Message(string path, List<string> lines)
@@ -70,7 +78,7 @@ namespace Magic
                 _priceAmount += priceConverted * quantityConverted;
             }
 
-            _priceAmount = (float) Math.Round(_priceAmount, 2);
+            _priceAmount = (float)Math.Round(_priceAmount, 2);
         }
     }
 }

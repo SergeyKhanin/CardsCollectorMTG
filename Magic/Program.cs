@@ -8,16 +8,17 @@ public static class Program
     private const string InputDataPath = RootPath + "Data";
     private const string OutputDataPath = RootPath + "TopDecked.csv";
     private const string ReadmePath = RootPath + "README.md";
-    private static readonly List<CardModel> Records = new();
 
     private static void Main()
     {
         CurrentCulture = GetCultureInfo("en-US");
-        var csvHandler = new CsvHandler();
-        var readmeHandler = new ReadmeHandler();
-        
-        csvHandler.Read(InputDataPath, Records);
-        csvHandler.Write(OutputDataPath, Records);
-        readmeHandler.Print(OutputDataPath, ReadmePath);
+
+        var records = new List<CardModel>();
+        var csvHandler = new CsvHandler(InputDataPath, OutputDataPath, records);
+        var readmeHandler = new ReadmeHandler(OutputDataPath, ReadmePath);
+
+        csvHandler.Read();
+        csvHandler.Write();
+        readmeHandler.Print();
     }
 }
