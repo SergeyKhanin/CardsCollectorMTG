@@ -19,26 +19,31 @@ namespace Magic
 
         public void Print()
         {
-            List<string> lines = File.ReadAllLines(_readmePath).ToList();
-            Counter(_outputDataPath);
-            lines.Clear();
-            lines.Add(
-                "Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.\n"
-            );
-            lines.Add($"> [!NOTE]");
-            lines.Add(
-                $"> Total cards is <b>{_cardsAmount}</b>, their price is <b>${_priceAmount}</b>\n"
-            );
-            lines.Add("<details>");
-            lines.Add("  <summary><b>Cards list</b></summary>\n");
-            lines.Add("<ul>");
-            Message(_outputDataPath, lines);
-            lines.Add("</ul>");
-            lines.Add("\n</details>");
-            File.WriteAllLines(_readmePath, lines);
+            List<string> linesList = File.ReadAllLines(_readmePath).ToList();
+            PrepareLinesToPrint(linesList);
+            File.WriteAllLines(_readmePath, linesList);
         }
 
-        private void Message(string path, List<string> lines)
+        private void PrepareLinesToPrint(List<string> linesList)
+        {
+            CalculateCardsPrice(_outputDataPath);
+            linesList.Clear();
+            linesList.Add(
+                "Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.\n"
+            );
+            linesList.Add($"> [!NOTE]");
+            linesList.Add(
+                $"> Total cards is <b>{_cardsAmount}</b>, their price is <b>${_priceAmount}</b>\n"
+            );
+            linesList.Add("<details>");
+            linesList.Add("  <summary><b>Cards list</b></summary>\n");
+            linesList.Add("<ul>");
+            AddCardInfoToLines(_outputDataPath, linesList);
+            linesList.Add("</ul>");
+            linesList.Add("\n</details>");
+        }
+
+        private void AddCardInfoToLines(string path, List<string> linesList)
         {
             using var reader = new StreamReader(path);
             using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
@@ -54,14 +59,14 @@ namespace Magic
                 var finish = record.Finish;
                 var lang = record.Lang;
 
-                var link = PagePath + "/" + setCode + "/" + collectorNumber + "/" + lang;
+                var link = $"{PagePath}/{setCode}/{collectorNumber}/{lang}";
                 var message =
-                    $" <li> {price} <a href=\"{link}\">{name}</a> - {finish} ({quantity})</li>";
-                lines.Add(message);
+                    $" <li> {price} <a href=\"{link}\">{name}</a> <b>{setCode}</b> - {finish} ({quantity})</li>";
+                linesList.Add(message);
             }
         }
 
-        private void Counter(string path)
+        private void CalculateCardsPrice(string path)
         {
             using var reader = new StreamReader(path);
             using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
