@@ -22,21 +22,35 @@ namespace Magic
 
             foreach (var file in files)
             {
-                using var reader = new StreamReader(file);
-                using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
-                var records = csv.GetRecords<CardModel>();
+                if (File.Exists(file))
+                {
+                    using var reader = new StreamReader(file);
+                    using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
+                    var records = csv.GetRecords<CardModel>();
 
-                foreach (var record in records)
-                    _records.Add(record);
+                    foreach (var record in records)
+                        _records.Add(record);
+                }
+                else
+                {
+                    Console.WriteLine($"File not found: {file}");
+                }
             }
         }
 
         public void Write()
         {
-            using var writer = new StreamWriter(_outputDataPath);
-            using var csv = new CsvWriter(writer, CultureInfo.InvariantCulture);
+            if (_records.Count > 0)
+            {
+                using var writer = new StreamWriter(_outputDataPath);
+                using var csv = new CsvWriter(writer, CultureInfo.InvariantCulture);
 
-            csv.WriteRecords(_records);
+                csv.WriteRecords(_records);
+            }
+            else
+            {
+                Console.WriteLine("No records to write.");
+            }
         }
     }
 }
