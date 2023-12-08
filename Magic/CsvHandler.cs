@@ -7,7 +7,7 @@ namespace Magic
     {
         private readonly string _inputDataPath;
         private readonly string _outputDataPath;
-        private readonly List<CardModel> _records;
+        private List<CardModel> _records;
 
         public CsvHandler(string inputDataPath, string outputDataPath, List<CardModel> records)
         {
@@ -40,7 +40,7 @@ namespace Magic
 
         public void SortByName()
         {
-            _records.Sort((x, y) => string.Compare(x.Name, y.Name, StringComparison.Ordinal));
+            _records = _records.OrderBy(record => record.Name, StringComparer.Ordinal).ToList();
         }
 
         public void Write()

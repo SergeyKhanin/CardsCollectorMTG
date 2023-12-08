@@ -5,11 +5,11 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 1,Acererak the Archlich,afr,Adventures in the Forgotten Realms,87,foil,$4.38,mythic,dd52d0bd-3abd-401c-9f56-ee911613da3b,2023-11-22T06:51:12.669Z,,ru
 1,Acolyte of Affliction,thb,Theros Beyond Death,206,nonfoil,$0.09,uncommon,a14afed6-ca42-442d-ba86-621179e6957c,2023-11-24T13:34:38.249Z,,en
 1,Adventurous Impulse,sta,Strixhaven Mystical Archive,49,nonfoil,$0.07,uncommon,e7b44893-e6d1-48d0-ba69-06b9569e1e38,2023-11-24T13:34:38.249Z,,ru
-1,"Aegar, the Freezing Flame",khm,Kaldheim,200,nonfoil,$0.02,uncommon,68011f60-6202-48f4-8255-fb94764e2951,2023-11-24T13:34:38.249Z,,ru
 1,"Aegar, the Freezing Flame",khm,Kaldheim,321,foil,$0.13,uncommon,edac3fd7-8124-4614-ae50-651608d45adb,2023-11-22T06:48:24.771Z,,ru
+1,"Aegar, the Freezing Flame",khm,Kaldheim,200,nonfoil,$0.02,uncommon,68011f60-6202-48f4-8255-fb94764e2951,2023-11-24T13:34:38.249Z,,ru
 1,Aether Helix,stx,Strixhaven: School of Mages,162,nonfoil,$0.02,uncommon,7d1c653e-f629-4105-a52c-379c5cd78208,2023-11-24T13:34:38.249Z,,ru
-1,Agonizing Remorse,sta,Strixhaven Mystical Archive,24,nonfoil,$0.03,uncommon,57b7f7bd-6db3-4716-b1c3-015b0a6d37e3,2023-11-24T13:34:38.249Z,,ru
 1,Agonizing Remorse,thb,Theros Beyond Death,83,nonfoil,$0.04,uncommon,09270c65-546e-4737-a6b7-402cbb87917a,2023-11-24T13:34:38.249Z,,en
+1,Agonizing Remorse,sta,Strixhaven Mystical Archive,24,nonfoil,$0.03,uncommon,57b7f7bd-6db3-4716-b1c3-015b0a6d37e3,2023-11-24T13:34:38.249Z,,ru
 1,Air-Cult Elemental,afr,Adventures in the Forgotten Realms,45,foil,$0.02,common,fba82564-a9a9-4ded-a5fa-0e5fab2a3faa,2023-11-22T06:48:24.771Z,,ru
 1,Ambition's Cost,ddr,Duel Decks: Nissa vs. Ob Nixilis,38,nonfoil,$0.47,uncommon,baed5a5d-ea54-4cf7-873e-627e2c728547,2023-11-24T13:34:38.249Z,,en
 1,Ambitious Farmhand // Seasoned Cathar,mid,Innistrad: Midnight Hunt,2,nonfoil,$0.25,uncommon,54d4e7c3-294d-4900-8b70-faafda17cc33,2023-11-24T13:34:38.249Z,,ru
@@ -35,8 +35,8 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 1,Brood Weaver,mid,Innistrad: Midnight Hunt,173,nonfoil,$0.10,uncommon,e24e2f49-70f9-445f-af03-2ef43798004a,2023-11-24T13:34:38.249Z,,ru
 1,Bruenor Battlehammer,afr,Adventures in the Forgotten Realms,337,nonfoil,$0.18,uncommon,c620e7d7-60f8-452b-9563-5624791ae893,2023-11-24T13:34:38.249Z,,ru
 1,Brutal Cathar // Moonrage Brute,mid,Innistrad: Midnight Hunt,7,nonfoil,$1.73,rare,0dbac7ce-a6fa-466e-b6ba-173cf2dec98e,2023-11-24T13:34:38.249Z,,ru
-2,Burly Breaker // Dire-Strain Demolisher,mid,Innistrad: Midnight Hunt,299,nonfoil,$0.06,uncommon,1b50c98e-6c3b-4129-ae93-10c0bf9270fc,2023-11-24T13:34:38.249Z,,ru
 1,Burly Breaker // Dire-Strain Demolisher,mid,Innistrad: Midnight Hunt,299,foil,$0.08,uncommon,1b50c98e-6c3b-4129-ae93-10c0bf9270fc,2023-11-22T06:48:24.771Z,,ru
+2,Burly Breaker // Dire-Strain Demolisher,mid,Innistrad: Midnight Hunt,299,nonfoil,$0.06,uncommon,1b50c98e-6c3b-4129-ae93-10c0bf9270fc,2023-11-24T13:34:38.249Z,,ru
 1,Burn the Accursed,mid,Innistrad: Midnight Hunt,132,foil,$0.01,common,ff4d4e6b-564d-46da-8e32-09ed08c8ddc5,2023-11-22T06:48:24.771Z,,ru
 1,Burning Hands,afr,Adventures in the Forgotten Realms,135,nonfoil,$0.06,uncommon,66e2d723-3fa0-4411-8f98-e4e6b3a5e6df,2023-11-24T13:34:38.249Z,,ru
 2,Carrier Thrall,ddr,Duel Decks: Nissa vs. Ob Nixilis,42,nonfoil,$0.07,uncommon,c5e4de63-820f-4a22-8725-814a220cfdd2,2023-11-24T13:34:38.249Z,,en
@@ -107,10 +107,10 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 1,Forest,thb,Theros Beyond Death,287,foil,$0.19,common,6af0c659-f182-4ad4-bca7-e6c3377f808d,2023-11-23T18:13:49.183Z,,en
 1,Forest,afr,Adventures in the Forgotten Realms,279,foil,$0.13,common,aab1cc13-8959-4914-afe8-58daf9529f61,2023-11-22T06:48:24.771Z,,ru
 1,Forest,afr,Adventures in the Forgotten Realms,278,foil,$0.12,common,b6a46b11-3225-45aa-b54e-4d19d81b51cf,2023-11-22T06:48:24.770Z,,ru
+1,Forest,mid,Innistrad: Midnight Hunt,384,foil,$0.10,common,ec8de02c-7954-4424-8b95-a21d8e104bd4,2023-11-22T06:48:24.771Z,,ru
 1,Forest,khm,Kaldheim,398,foil,$0.73,common,771e307c-b2e3-47ac-aac2-59f0c3542fa6,2023-11-22T06:48:24.771Z,,ru
 1,Forest,afr,Adventures in the Forgotten Realms,281,foil,$0.16,common,ee856e7a-37ee-435c-80e8-d0ac6f15892f,2023-11-22T06:48:24.771Z,,ru
 1,Forest,afr,Adventures in the Forgotten Realms,280,foil,$0.12,common,6cdc5ca9-6d01-4ee3-8117-3c1e74320553,2023-11-22T06:48:24.770Z,,ru
-1,Forest,mid,Innistrad: Midnight Hunt,384,foil,$0.10,common,ec8de02c-7954-4424-8b95-a21d8e104bd4,2023-11-22T06:48:24.771Z,,ru
 1,Forest,thb,Theros Beyond Death,286,foil,$0.08,common,c4be31c4-9cb3-4a07-865b-5621127df660,2023-11-23T18:13:49.183Z,,en
 1,Forsworn Paladin,afr,Adventures in the Forgotten Realms,375,foil,$0.41,rare,caa3a489-5fa3-421e-9655-755f31414f3d,2023-11-22T06:48:24.771Z,,ru
 1,Fortifying Draught,stx,Strixhaven: School of Mages,132,nonfoil,$0.05,uncommon,6789b717-a000-464a-a39b-32c1aeefe560,2023-11-24T13:34:38.249Z,,ru
@@ -137,8 +137,8 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 1,Heroes of the Revel,thb,Theros Beyond Death,138,nonfoil,$0.03,uncommon,dfdfb481-3446-42f4-a1c3-a88b69f2189a,2023-11-24T13:34:38.249Z,,en
 1,Hobgoblin Bandit Lord,afr,Adventures in the Forgotten Realms,147,nonfoil,$1.09,rare,09e9dc36-f2d8-4384-98cb-e44c00b02433,2023-11-24T13:34:38.249Z,,ru
 2,Honor Troll,stx,Strixhaven: School of Mages,134,nonfoil,$0.06,uncommon,a9c6a6b9-f00c-46a5-8dab-796483e3a262,2023-11-24T13:34:38.249Z,,ru
-1,Hound Tamer // Untamed Pup,mid,Innistrad: Midnight Hunt,302,nonfoil,$0.05,uncommon,83218607-240e-4473-8b0b-6b4670b010e6,2023-11-24T13:34:38.249Z,,ru
 1,Hound Tamer // Untamed Pup,mid,Innistrad: Midnight Hunt,187,nonfoil,$0.12,uncommon,28e2119b-ed78-4b98-a956-f2b453d0b164,2023-11-24T13:34:38.249Z,,ru
+1,Hound Tamer // Untamed Pup,mid,Innistrad: Midnight Hunt,302,nonfoil,$0.05,uncommon,83218607-240e-4473-8b0b-6b4670b010e6,2023-11-24T13:34:38.249Z,,ru
 1,Hulking Bugbear,afr,Adventures in the Forgotten Realms,149,nonfoil,$0.04,uncommon,f55d43d4-5f63-45c3-b8f8-0aebd23750a5,2023-11-24T13:34:38.249Z,,ru
 1,Hullbreaker Horror,vow,Innistrad: Crimson Vow,63,nonfoil,$1.82,rare,4b546bcf-2e86-42af-bf32-81c7fd36ef8c,2023-11-24T13:34:38.249Z,,en
 1,Idyllic Tutor,thb,Theros Beyond Death,24,nonfoil,$5.15,rare,f06edd53-f3ac-44b0-a087-5670ba8f0fa5,2023-11-23T18:32:29.324Z,,en
@@ -151,14 +151,14 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 1,Invasion of Moag // Bloomwielder Dryads,mom,March of the Machine,237,nonfoil,$0.04,uncommon,e454bf31-5aa0-4109-a3f5-c3f9cc838682,2023-11-24T13:34:38.249Z,,en
 1,Iridescent Blademaster,mom,March of the Machine,195,foil,$0.02,common,3fee189f-539f-48fa-b217-4b2599375364,2023-11-23T18:13:49.183Z,,en
 1,Iron Golem,afr,Adventures in the Forgotten Realms,247,nonfoil,$0.02,uncommon,5ae24ef5-b12c-48ee-935a-00e048fb8d0f,2023-11-24T13:34:38.249Z,,ru
-1,Island,afr,Adventures in the Forgotten Realms,267,foil,$0.10,common,29d575fc-037b-421a-a205-12d492e9361e,2023-11-22T06:48:24.771Z,,ru
 1,Island,thb,Theros Beyond Death,280,foil,$0.19,common,92daaa39-cd2f-4c03-8f41-92d99d0a3366,2023-11-23T18:13:49.183Z,,en
 1,Island,afr,Adventures in the Forgotten Realms,268,foil,$0.11,common,8d04a06f-06a7-410d-a714-3b8b96ee3319,2023-11-22T06:48:24.771Z,,ru
-1,Island,khm,Kaldheim,395,foil,$0.63,common,1a25a714-c7f3-4697-8b69-8f966b4d370a,2023-11-22T06:48:24.771Z,,ru
 1,Island,mid,Innistrad: Midnight Hunt,381,foil,$0.09,common,60e6b919-e7c0-4844-a65c-d8b83b3e5287,2023-11-22T06:48:24.771Z,,ru
+1,Island,khm,Kaldheim,395,foil,$0.63,common,1a25a714-c7f3-4697-8b69-8f966b4d370a,2023-11-22T06:48:24.771Z,,ru
 1,Island,afr,Adventures in the Forgotten Realms,269,foil,$0.08,common,1afa60b6-cd0d-4c23-af81-88049ea45475,2023-11-22T06:48:24.771Z,,ru
-1,Island,thb,Theros Beyond Death,281,foil,$0.19,common,b82c12c2-2ebf-470b-b0d2-92ccc5faa056,2023-11-23T18:13:49.183Z,,ru
 1,Island,afr,Adventures in the Forgotten Realms,266,foil,$0.13,common,9e70c602-cb80-472b-9c8d-9625de084fe7,2023-11-22T06:48:24.771Z,,ru
+1,Island,thb,Theros Beyond Death,281,foil,$0.19,common,b82c12c2-2ebf-470b-b0d2-92ccc5faa056,2023-11-23T18:13:49.183Z,,ru
+1,Island,afr,Adventures in the Forgotten Realms,267,foil,$0.10,common,29d575fc-037b-421a-a205-12d492e9361e,2023-11-22T06:48:24.771Z,,ru
 1,"Iymrith, Desert Doom",afr,Adventures in the Forgotten Realms,290,nonfoil,$3.67,mythic,fd111eb2-cce5-413d-816a-f821771a1fa6,2023-11-24T13:34:38.249Z,,ru
 2,Jaddi Lifestrider,ddr,Duel Decks: Nissa vs. Ob Nixilis,12,nonfoil,$0.08,uncommon,2dff438a-925c-4fca-a2e3-3e9519b7afed,2023-11-24T13:34:38.249Z,,en
 1,Karok Wrangler,stx,Strixhaven: School of Mages,135,nonfoil,$0.02,uncommon,74729320-f6ee-4176-9463-397d6e477d7a,2023-11-24T13:34:38.249Z,,ru
@@ -187,14 +187,14 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 1,Morbid Opportunist,mid,Innistrad: Midnight Hunt,113,nonfoil,$1.54,uncommon,5a53982e-3d66-4808-bcb5-46ff40567872,2023-11-24T13:34:38.249Z,,ru
 1,Mortality Spear,stx,Strixhaven: School of Mages,207,nonfoil,$0.17,uncommon,f1f39fe7-dc12-49c9-80ac-4135dc1f8f08,2023-11-24T13:34:38.249Z,,ru
 1,Mosswort Bridge,ddr,Duel Decks: Nissa vs. Ob Nixilis,29,nonfoil,$0.45,rare,f61cf774-f821-4393-9c68-bdab2e2a88d3,2023-11-24T13:34:38.249Z,,en
-1,Mountain,afr,Adventures in the Forgotten Realms,276,foil,$0.11,common,87d1c48f-1ca3-43ea-8109-964b29bb2d50,2023-11-22T06:48:24.771Z,,ru
+1,Mountain,khm,Kaldheim,397,foil,$0.72,common,69419307-53d5-40d7-82da-cab2e7bfbda4,2023-11-22T06:48:24.771Z,,ru
+1,Mountain,thb,Theros Beyond Death,284,foil,$0.15,common,dc3f4154-9347-4ceb-8744-9f1ace90d33f,2023-11-23T18:13:49.184Z,,en
 1,Mountain,afr,Adventures in the Forgotten Realms,275,foil,$0.14,common,e10e313f-ba75-4324-b1ac-f2bbae99f7ab,2023-11-22T06:48:24.771Z,,ru
 1,Mountain,thb,Theros Beyond Death,285,foil,$0.17,common,d10d759b-db5b-4a59-840c-05bcbf2381f3,2023-11-23T18:13:49.183Z,,en
-1,Mountain,khm,Kaldheim,397,foil,$0.72,common,69419307-53d5-40d7-82da-cab2e7bfbda4,2023-11-22T06:48:24.771Z,,ru
 1,Mountain,afr,Adventures in the Forgotten Realms,274,foil,$0.11,common,edabc558-2c54-4c7b-a6fa-1e75ddcf12f9,2023-11-22T06:48:24.771Z,,ru
 1,Mountain,mid,Innistrad: Midnight Hunt,383,foil,$0.15,common,f92e9e94-e5e9-4b2c-b9e5-35de42ca7b8e,2023-11-22T06:48:24.771Z,,ru
-1,Mountain,thb,Theros Beyond Death,284,foil,$0.15,common,dc3f4154-9347-4ceb-8744-9f1ace90d33f,2023-11-23T18:13:49.184Z,,en
 1,Mountain,afr,Adventures in the Forgotten Realms,277,foil,$0.08,common,cf9095db-44ad-444b-bd9d-4a06102fe230,2023-11-22T06:48:24.771Z,,ru
+1,Mountain,afr,Adventures in the Forgotten Realms,276,foil,$0.11,common,87d1c48f-1ca3-43ea-8109-964b29bb2d50,2023-11-22T06:48:24.771Z,,ru
 1,Mysterious Tome // Chilling Chronicle,mid,Innistrad: Midnight Hunt,63,foil,$0.13,uncommon,caa57b63-bb11-45e8-8795-de92ca61f4f1,2023-11-22T06:48:24.771Z,,ru
 1,Mystic Reflection,khm,Kaldheim,69,nonfoil,$0.87,rare,f7b877e2-60eb-46cd-acd7-8555b9e7e993,2023-11-24T13:34:38.249Z,,ru
 1,"Narfi, Betrayer King",khm,Kaldheim,224,nonfoil,$0.08,uncommon,421376e4-a4ad-427c-bc9c-d315308dcf68,2023-11-24T13:34:38.249Z,,ru
@@ -221,14 +221,14 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 1,Pharika's Spawn,thb,Theros Beyond Death,112,nonfoil,$0.02,uncommon,a2c8244b-7d86-4dff-9419-3945beb2a7b7,2023-11-24T13:34:38.249Z,,en
 1,Pheres-Band Brawler,thb,Theros Beyond Death,193,nonfoil,$0.03,uncommon,10ac20a9-6b10-4165-ad81-a47587b64d1e,2023-11-24T13:34:38.249Z,,en
 1,Phyrexian Awakening,mom,March of the Machine,30,nonfoil,$0.10,uncommon,6b9ed068-b6bb-4c9e-a8c9-56aa9b62037a,2023-11-24T13:34:38.249Z,,en
+1,Plains,afr,Adventures in the Forgotten Realms,265,foil,$0.13,common,86626d69-78e0-42b9-81ed-fef46e3a89f7,2023-11-22T06:48:24.771Z,,ru
 1,Plains,afr,Adventures in the Forgotten Realms,263,foil,$0.09,common,fb4f4abf-841b-4fae-9a53-505a2f8dc1ff,2023-11-22T06:48:24.771Z,,ru
 1,Plains,afr,Adventures in the Forgotten Realms,262,foil,$0.10,common,879f7f54-25a3-440b-848d-0e780277a681,2023-11-22T06:48:24.770Z,,ru
 1,Plains,afr,Adventures in the Forgotten Realms,264,foil,$0.08,common,e0d1a81e-6710-4922-ba0a-510966c39449,2023-11-22T06:48:24.771Z,,ru
-1,Plains,afr,Adventures in the Forgotten Realms,265,foil,$0.13,common,86626d69-78e0-42b9-81ed-fef46e3a89f7,2023-11-22T06:48:24.771Z,,ru
-1,Plains,khm,Kaldheim,394,foil,$0.32,common,5cbfbafa-f58f-40b2-a374-68ac35b77d89,2023-11-22T06:48:24.771Z,,ru
-1,Plains,mid,Innistrad: Midnight Hunt,380,foil,$0.09,common,46b94de4-099e-43d7-8f24-d5450b09f1f1,2023-11-22T06:48:24.771Z,,ru
-1,Plains,thb,Theros Beyond Death,278,foil,$0.20,common,40aca5ca-a37b-4919-aef6-2510b4779161,2023-11-23T18:13:49.184Z,,en
 1,Plains,thb,Theros Beyond Death,279,foil,$0.22,common,db68b6a3-10e5-42d1-9325-94a4a821782a,2023-11-23T18:13:49.184Z,,en
+1,Plains,thb,Theros Beyond Death,278,foil,$0.20,common,40aca5ca-a37b-4919-aef6-2510b4779161,2023-11-23T18:13:49.184Z,,en
+1,Plains,mid,Innistrad: Midnight Hunt,380,foil,$0.09,common,46b94de4-099e-43d7-8f24-d5450b09f1f1,2023-11-22T06:48:24.771Z,,ru
+1,Plains,khm,Kaldheim,394,foil,$0.32,common,5cbfbafa-f58f-40b2-a374-68ac35b77d89,2023-11-22T06:48:24.771Z,,ru
 1,Plate Armor,afr,Adventures in the Forgotten Realms,32,nonfoil,$0.13,uncommon,ad447e50-cfb1-40df-ae01-a65c46f2f572,2023-11-24T13:34:38.249Z,,ru
 1,Plumb the Forbidden,stx,Strixhaven: School of Mages,81,nonfoil,$2.07,uncommon,5034227f-3b8a-45bf-917c-c2cbd98f2192,2023-11-24T13:34:38.249Z,,ru
 1,Port of Karfell,khm,Kaldheim,265,nonfoil,$0.15,uncommon,bb9465a6-d009-4ecd-9fd1-d046547de902,2023-11-24T13:34:38.249Z,,ru
@@ -287,16 +287,16 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 1,Storm Herald,thb,Theros Beyond Death,156,nonfoil,$0.15,rare,e0594aa2-1c53-4271-a0d0-9002c07f3697,2023-11-24T13:34:38.249Z,,en
 1,Sudden Insight,afr,Adventures in the Forgotten Realms,77,nonfoil,$0.02,uncommon,06ec3c87-d5aa-4f8a-a9bf-ef4e38e21ad1,2023-11-24T13:34:38.249Z,,ru
 1,Sunrise Cavalier,mid,Innistrad: Midnight Hunt,244,foil,$0.11,uncommon,3d0081b1-40fd-44ad-b154-efe2f27fed6b,2023-11-22T06:48:24.771Z,,ru
+1,Swamp,mid,Innistrad: Midnight Hunt,382,foil,$0.13,common,2f4b9030-f04a-4f42-8dd8-2eae0ce7e420,2023-11-22T06:48:24.771Z,,ru
 1,Swamp,thb,Theros Beyond Death,282,foil,$0.12,common,66bb5192-58bc-4efe-a145-2e804fd3483d,2023-11-23T18:13:49.184Z,,en
 1,Swamp,afr,Adventures in the Forgotten Realms,270,foil,$0.10,common,ab950987-d88c-4326-98f4-1b1195788921,2023-11-22T06:48:24.771Z,,ru
-1,Swamp,mid,Innistrad: Midnight Hunt,382,foil,$0.13,common,2f4b9030-f04a-4f42-8dd8-2eae0ce7e420,2023-11-22T06:48:24.771Z,,ru
-1,Swamp,thb,Theros Beyond Death,283,foil,$0.19,common,e54a44f2-70bf-4782-bd13-9d03e109d60d,2023-11-23T18:13:49.184Z,,en
-1,Swamp,khm,Kaldheim,396,foil,$0.46,common,9f9e61c0-b185-4704-913f-9284ed0ce250,2023-11-22T06:48:24.771Z,,ru
 1,Swamp,afr,Adventures in the Forgotten Realms,272,foil,$0.12,common,76f8def9-ee46-4abf-9059-7d1ec6f24951,2023-11-22T06:48:24.771Z,,ru
-1,Swamp,thb,Theros Beyond Death,252,foil,$2.00,common,02cb5cfd-018e-4c5e-bef1-166262aa5f1d,2023-11-23T18:13:49.184Z,,en
 1,Swamp,mid,Innistrad: Midnight Hunt,273,foil,$0.89,common,38fef662-993c-4522-8b3f-7c1d3bb1d946,2023-11-22T06:48:24.771Z,,ru
-1,Swamp,afr,Adventures in the Forgotten Realms,271,foil,$0.12,common,ea640731-b367-4ece-934e-6d86634fc1c8,2023-11-22T06:48:24.771Z,,ru
+1,Swamp,thb,Theros Beyond Death,283,foil,$0.19,common,e54a44f2-70bf-4782-bd13-9d03e109d60d,2023-11-23T18:13:49.184Z,,en
+1,Swamp,thb,Theros Beyond Death,252,foil,$2.00,common,02cb5cfd-018e-4c5e-bef1-166262aa5f1d,2023-11-23T18:13:49.184Z,,en
+1,Swamp,khm,Kaldheim,396,foil,$0.46,common,9f9e61c0-b185-4704-913f-9284ed0ce250,2023-11-22T06:48:24.771Z,,ru
 1,Swamp,afr,Adventures in the Forgotten Realms,273,foil,$0.13,common,166fc328-20d1-4158-bcb6-3cebcf788ef5,2023-11-22T06:48:24.771Z,,ru
+1,Swamp,afr,Adventures in the Forgotten Realms,271,foil,$0.12,common,ea640731-b367-4ece-934e-6d86634fc1c8,2023-11-22T06:48:24.771Z,,ru
 1,Symmetry Sage,stx,Strixhaven: School of Mages,56,nonfoil,$0.05,uncommon,3e726fc7-36cf-405c-9b7c-d1e41cd6c68f,2023-11-24T13:34:38.249Z,,ru
 2,"Targ Nar, Demon-Fang Gnoll",afr,Adventures in the Forgotten Realms,234,nonfoil,$0.05,uncommon,5fe57856-9d35-470e-9138-360b02ac0c90,2023-11-24T13:34:38.249Z,,ru
 1,Teachings of the Archaics,stx,Strixhaven: School of Mages,57,nonfoil,$0.09,rare,967148b1-2bb6-4bc0-95e6-c45fcf99afd2,2023-11-24T13:34:38.249Z,,ru
