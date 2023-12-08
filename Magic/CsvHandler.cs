@@ -18,7 +18,7 @@ namespace Magic
 
         public void Read()
         {
-            var files = Directory.GetFiles(_inputDataPath, "*.csv");
+            var files = Directory.EnumerateFiles(_inputDataPath, "*.csv");
 
             foreach (var file in files)
             {
@@ -36,6 +36,11 @@ namespace Magic
                     Console.WriteLine($"File not found: {file}");
                 }
             }
+        }
+
+        public void SortByName()
+        {
+            _records.Sort((x, y) => string.Compare(x.Name, y.Name, StringComparison.Ordinal));
         }
 
         public void Write()
