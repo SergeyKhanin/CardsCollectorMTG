@@ -61,7 +61,7 @@ namespace Magic
 
                 var link = $"{PagePath}/{setCode}/{collectorNumber}/{lang}";
                 var message =
-                    $" <li> {price} <a href=\"{link}\">{name}</a> <b>{setCode}</b> - {finish} ({quantity})</li>";
+                    $" <li> {price} <b><a href=\"{link}\">{name}</a></b> {setCode} - {finish} ({quantity})</li>";
                 linesList.Add(message);
             }
         }
