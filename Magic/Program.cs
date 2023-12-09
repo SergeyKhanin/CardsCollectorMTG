@@ -18,7 +18,7 @@ public static class Program
         var readmeHandler = new ReadmeHandler(OutputDataPath, ReadmePath);
 
         csvHandler.Read();
-        csvHandler.SortByName();
+        csvHandler.Sort(SortFilter.Set);
         csvHandler.Write();
         readmeHandler.Print();
     }

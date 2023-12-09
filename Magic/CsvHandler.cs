@@ -38,9 +38,30 @@ namespace Magic
             }
         }
 
+        public void Sort(SortFilter sortFilter)
+        {
+            switch (sortFilter)
+            {
+                case SortFilter.Name:
+                    SortByName();
+                    break;
+                case SortFilter.Set:
+                    SortBySet();
+                    break;
+                default:
+                    Console.WriteLine("No filter selected");
+                    break;
+            }
+        }
+
         public void SortByName()
         {
             _records = _records.OrderBy(record => record.Name, StringComparer.Ordinal).ToList();
+        }
+
+        public void SortBySet()
+        {
+            _records = _records.OrderBy(record => record.SetCode, StringComparer.Ordinal).ToList();
         }
 
         public void Write()
