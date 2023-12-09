@@ -5,7 +5,6 @@ namespace Magic
 {
     public class ReadmeHandler
     {
-        private const string PagePath = "https://scryfall.com/card";
         private int _cardsAmount;
         private float _priceAmount;
         private readonly string _outputDataPath;
@@ -59,7 +58,7 @@ namespace Magic
                 var finish = record.Finish;
                 var lang = record.Lang;
 
-                var link = $"{PagePath}/{setCode}/{collectorNumber}/{lang}";
+                var link = $"{Paths.PagePath}/{setCode}/{collectorNumber}/{lang}";
                 var message =
                     $" <li> {price} <b><a href=\"{link}\">{name}</a></b> {setCode} - {finish} ({quantity})</li>";
                 linesList.Add(message);
@@ -83,7 +82,7 @@ namespace Magic
                 _priceAmount += priceConverted * quantityConverted;
             }
 
-            _priceAmount = (float)Math.Round(_priceAmount, 2);
+            _priceAmount = (float) Math.Round(_priceAmount, 2);
         }
     }
 }

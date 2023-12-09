@@ -4,5 +4,6 @@ public enum SortFilter
 {
     None = 0,
     Name = 1,
-    Set = 2,
+    SetCode = 2,
+    Price= 3,
 }

@@ -45,23 +45,34 @@ namespace Magic
                 case SortFilter.Name:
                     SortByName();
                     break;
-                case SortFilter.Set:
-                    SortBySet();
+                case SortFilter.SetCode:
+                    SortBySetCode();
+                    break;
+                case SortFilter.Price:
+                    SortByPrice();
+                    break;
+                case SortFilter.None:
+                    Console.WriteLine("Dont sort");
                     break;
                 default:
-                    Console.WriteLine("No filter selected");
+                    Console.WriteLine("No sorting filter selected");
                     break;
             }
         }
 
-        public void SortByName()
+        private void SortByName()
         {
             _records = _records.OrderBy(record => record.Name, StringComparer.Ordinal).ToList();
         }
 
-        public void SortBySet()
+        private void SortBySetCode()
         {
             _records = _records.OrderBy(record => record.SetCode, StringComparer.Ordinal).ToList();
+        }
+
+        private void SortByPrice()
+        {
+            _records = _records.OrderBy(record => record.Price, StringComparer.Ordinal).ToList();
         }
 
         public void Write()
@@ -72,6 +83,7 @@ namespace Magic
                 using var csv = new CsvWriter(writer, CultureInfo.InvariantCulture);
 
                 csv.WriteRecords(_records);
+                writer.Flush();
             }
             else
             {
