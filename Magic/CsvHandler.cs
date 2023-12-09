@@ -7,13 +7,14 @@ namespace Magic
     {
         private readonly string _inputDataPath;
         private readonly string _outputDataPath;
-        private List<CardModel> _records;
+        private readonly Filter _filter;
+        private List<CardModel> _records = new();
 
-        public CsvHandler(string inputDataPath, string outputDataPath, List<CardModel> records)
+        public CsvHandler(string inputDataPath, string outputDataPath, Filter filter)
         {
             _inputDataPath = inputDataPath;
             _outputDataPath = outputDataPath;
-            _records = records;
+            _filter = filter;
         }
 
         public void Read()
@@ -38,21 +39,37 @@ namespace Magic
             }
         }
 
-        public void Sort(SortFilter sortFilter)
+        public void Write()
         {
-            switch (sortFilter)
+            if (_records.Count > 0)
             {
-                case SortFilter.Name:
+                using var writer = new StreamWriter(_outputDataPath);
+                using var csv = new CsvWriter(writer, CultureInfo.InvariantCulture);
+
+                csv.WriteRecords(_records);
+                writer.Flush();
+            }
+            else
+            {
+                Console.WriteLine("No records to write.");
+            }
+        }
+
+        public void Sort()
+        {
+            switch (_filter)
+            {
+                case Filter.Name:
                     SortByName();
                     break;
-                case SortFilter.SetCode:
+                case Filter.SetCode:
                     SortBySetCode();
                     break;
-                case SortFilter.Price:
+                case Filter.Price:
                     SortByPrice();
                     break;
-                case SortFilter.None:
-                    Console.WriteLine("Dont sort");
+                case Filter.None:
+                    Console.WriteLine("Do not sort");
                     break;
                 default:
                     Console.WriteLine("No sorting filter selected");
@@ -73,22 +90,6 @@ namespace Magic
         private void SortByPrice()
         {
             _records = _records.OrderBy(record => record.Price, StringComparer.Ordinal).ToList();
-        }
-
-        public void Write()
-        {
-            if (_records.Count > 0)
-            {
-                using var writer = new StreamWriter(_outputDataPath);
-                using var csv = new CsvWriter(writer, CultureInfo.InvariantCulture);
-
-                csv.WriteRecords(_records);
-                writer.Flush();
-            }
-            else
-            {
-                Console.WriteLine("No records to write.");
-            }
         }
     }
 }

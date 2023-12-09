@@ -8,12 +8,11 @@ public static class Program
     {
         CurrentCulture = GetCultureInfo("en-US");
 
-        var records = new List<CardModel>();
-        var csvHandler = new CsvHandler(Paths.InputDataPath, Paths.OutputDataPath, records);
+        var csvHandler = new CsvHandler(Paths.InputDataPath, Paths.OutputDataPath, Filter.SetCode);
         var readmeHandler = new ReadmeHandler(Paths.OutputDataPath, Paths.ReadmePath);
 
         csvHandler.Read();
-        csvHandler.Sort(SortFilter.SetCode);
+        csvHandler.Sort();
         csvHandler.Write();
         readmeHandler.Print();
     }
