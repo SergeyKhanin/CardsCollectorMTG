@@ -32,12 +32,10 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 1,Gelatinous Cube,afr,Adventures in the Forgotten Realms,105,nonfoil,$0.10,rare,1c472e70-300c-4881-86e7-c5ca690ab9b6,2023-11-24T13:34:38.249Z,,ru
 1,Bruenor Battlehammer,afr,Adventures in the Forgotten Realms,337,nonfoil,$0.18,uncommon,c620e7d7-60f8-452b-9563-5624791ae893,2023-11-24T13:34:38.249Z,,ru
 1,"Shessra, Death's Whisper",afr,Adventures in the Forgotten Realms,231,nonfoil,$0.04,uncommon,60ca5fef-af21-4e2b-9efa-61e08a638a1f,2023-11-24T13:34:38.249Z,,ru
-1,Yuan-Ti Malison,afr,Adventures in the Forgotten Realms,371,nonfoil,$0.23,rare,9043519d-c9d8-4d08-b4a9-feaf792bc7a4,2023-11-24T13:34:38.249Z,,ru
 1,Critical Hit,afr,Adventures in the Forgotten Realms,137,nonfoil,$0.07,uncommon,d2e9aaaf-0b51-4721-b75c-923892a41743,2023-11-24T13:34:38.249Z,,ru
 1,Iron Golem,afr,Adventures in the Forgotten Realms,247,nonfoil,$0.02,uncommon,5ae24ef5-b12c-48ee-935a-00e048fb8d0f,2023-11-24T13:34:38.249Z,,ru
 1,Druid Class,afr,Adventures in the Forgotten Realms,180,nonfoil,$0.60,uncommon,09278e95-eaae-4cd4-a0d8-a2d15b0abb58,2023-11-24T13:34:38.249Z,,ru
 1,Fifty Feet of Rope,afr,Adventures in the Forgotten Realms,244,nonfoil,$0.03,uncommon,ba7ebe7b-732f-4245-a194-e087c3878f61,2023-11-24T13:34:38.249Z,,ru
-1,"Iymrith, Desert Doom",afr,Adventures in the Forgotten Realms,290,nonfoil,$3.39,mythic,fd111eb2-cce5-413d-816a-f821771a1fa6,2023-11-24T13:34:38.249Z,,ru
 1,Ingenious Smith,afr,Adventures in the Forgotten Realms,21,nonfoil,$0.11,uncommon,2ad29773-7c1b-410d-9f69-7aa751f6ebca,2023-11-24T13:34:38.249Z,,ru
 1,Paladin Class,afr,Adventures in the Forgotten Realms,29,nonfoil,$0.20,rare,5bf81fb1-7992-4ae9-b1a8-80c31579a2bf,2023-11-24T13:34:38.249Z,,ru
 1,"Delina, Wild Mage",afr,Adventures in the Forgotten Realms,138,nonfoil,$4.60,rare,e87459aa-af8f-4bd2-a310-151353083a2e,2023-11-24T13:34:38.249Z,,ru
@@ -72,6 +70,8 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 1,Purple Worm,afr,Adventures in the Forgotten Realms,201,nonfoil,$0.03,uncommon,e419d58b-6241-4892-9080-f6894ac7ba89,2023-11-24T13:34:38.249Z,,ru
 1,Temple of the Dragon Queen,afr,Adventures in the Forgotten Realms,260,nonfoil,$0.33,uncommon,0c79b3c6-ccbe-48ae-a1f7-ddfd37ecdbf5,2023-11-24T13:34:38.249Z,,ru
 2,Eccentric Apprentice,afr,Adventures in the Forgotten Realms,57,nonfoil,$0.06,uncommon,3baa08ac-9a94-4e22-91bb-c6966cd0a0de,2023-11-24T13:34:38.249Z,,ru
+1,Yuan-Ti Malison,afr,Adventures in the Forgotten Realms,86,nonfoil,$0.18,rare,0f51afd9-7093-4aa3-ad5b-7383684d6285,2023-11-24T13:34:38.249Z,,ru
+1,"Iymrith, Desert Doom",afr,Adventures in the Forgotten Realms,62,nonfoil,$0.81,mythic,c3e6025d-d273-4ae4-9929-5e588612f1b3,2023-11-24T13:34:38.249Z,,ru
 1,Acererak the Archlich,afr,Adventures in the Forgotten Realms,87,foil,$4.47,mythic,dd52d0bd-3abd-401c-9f56-ee911613da3b,2023-11-22T06:51:12.669Z,,ru
 1,"Nissa, Voice of Zendikar",ddr,Duel Decks: Nissa vs. Ob Nixilis,1,foil,$2.65,mythic,6de97cf1-49b6-40b2-ab7f-1c8eb98f92af,2023-11-22T06:48:24.771Z,,en
 1,Ob Nixilis Reignited,ddr,Duel Decks: Nissa vs. Ob Nixilis,36,foil,$0.61,mythic,6bb7a4bd-0e74-4b1b-bf23-55c06442881e,2023-11-22T06:48:24.771Z,,en
@@ -262,7 +262,7 @@ QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED D
 3,Eyetwitch,stx,Strixhaven: School of Mages,70,nonfoil,$0.09,uncommon,1f4d1bb6-cb8f-4d01-9879-0b3a0585cbf4,2023-12-10T14:21:31.934Z,,ru
 2,Lorehold Excavation,stx,Strixhaven: School of Mages,200,nonfoil,$0.02,uncommon,43105beb-46f3-4914-8222-4907bd76d48f,2023-11-24T13:34:38.249Z,,ru
 1,Plumb the Forbidden,stx,Strixhaven: School of Mages,81,nonfoil,$2.38,uncommon,5034227f-3b8a-45bf-917c-c2cbd98f2192,2023-11-24T13:34:38.249Z,,ru
-1,Plumb the Forbidden,stx,Strixhaven: School of Mages,81,nonfoil,$2.38,uncommon,5034227f-3b8a-45bf-917c-c2cbd98f2192,2023-12-10T14:23:50.094Z,,ru
+2,Plumb the Forbidden,stx,Strixhaven: School of Mages,81,nonfoil,$2.38,uncommon,5034227f-3b8a-45bf-917c-c2cbd98f2192,2023-12-10T14:23:50.094Z,,ru
 1,Aether Helix,stx,Strixhaven: School of Mages,162,nonfoil,$0.02,uncommon,7d1c653e-f629-4105-a52c-379c5cd78208,2023-11-24T13:34:38.249Z,,ru
 1,"Quintorius, Field Historian",stx,Strixhaven: School of Mages,220,nonfoil,$0.07,uncommon,06c55ef1-8e62-4d43-bd4c-b2c3c5203338,2023-11-24T13:34:38.249Z,,ru
 1,Mortality Spear,stx,Strixhaven: School of Mages,207,nonfoil,$0.16,uncommon,f1f39fe7-dc12-49c9-80ac-4135dc1f8f08,2023-11-24T13:34:38.249Z,,ru

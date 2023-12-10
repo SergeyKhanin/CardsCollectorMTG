@@ -1,7 +1,7 @@
 Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.
 
 > [!NOTE]
-> Total cards is <b>401</b>, their price is <b>$222.65</b>
+> Total cards is <b>402</b>, their price is <b>$222.4</b>
 
 <details>
   <summary><b>Cards list</b></summary>
@@ -40,12 +40,10 @@ Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.
  <li> $0.10 <b><a href="https://scryfall.com/card/afr/105/ru">Gelatinous Cube</a></b> afr - nonfoil (1)</li>
  <li> $0.18 <b><a href="https://scryfall.com/card/afr/337/ru">Bruenor Battlehammer</a></b> afr - nonfoil (1)</li>
  <li> $0.04 <b><a href="https://scryfall.com/card/afr/231/ru">Shessra, Death's Whisper</a></b> afr - nonfoil (1)</li>
- <li> $0.23 <b><a href="https://scryfall.com/card/afr/371/ru">Yuan-Ti Malison</a></b> afr - nonfoil (1)</li>
  <li> $0.07 <b><a href="https://scryfall.com/card/afr/137/ru">Critical Hit</a></b> afr - nonfoil (1)</li>
  <li> $0.02 <b><a href="https://scryfall.com/card/afr/247/ru">Iron Golem</a></b> afr - nonfoil (1)</li>
  <li> $0.60 <b><a href="https://scryfall.com/card/afr/180/ru">Druid Class</a></b> afr - nonfoil (1)</li>
  <li> $0.03 <b><a href="https://scryfall.com/card/afr/244/ru">Fifty Feet of Rope</a></b> afr - nonfoil (1)</li>
- <li> $3.39 <b><a href="https://scryfall.com/card/afr/290/ru">Iymrith, Desert Doom</a></b> afr - nonfoil (1)</li>
  <li> $0.11 <b><a href="https://scryfall.com/card/afr/21/ru">Ingenious Smith</a></b> afr - nonfoil (1)</li>
  <li> $0.20 <b><a href="https://scryfall.com/card/afr/29/ru">Paladin Class</a></b> afr - nonfoil (1)</li>
  <li> $4.60 <b><a href="https://scryfall.com/card/afr/138/ru">Delina, Wild Mage</a></b> afr - nonfoil (1)</li>
@@ -80,6 +78,8 @@ Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.
  <li> $0.03 <b><a href="https://scryfall.com/card/afr/201/ru">Purple Worm</a></b> afr - nonfoil (1)</li>
  <li> $0.33 <b><a href="https://scryfall.com/card/afr/260/ru">Temple of the Dragon Queen</a></b> afr - nonfoil (1)</li>
  <li> $0.06 <b><a href="https://scryfall.com/card/afr/57/ru">Eccentric Apprentice</a></b> afr - nonfoil (2)</li>
+ <li> $0.18 <b><a href="https://scryfall.com/card/afr/86/ru">Yuan-Ti Malison</a></b> afr - nonfoil (1)</li>
+ <li> $0.81 <b><a href="https://scryfall.com/card/afr/62/ru">Iymrith, Desert Doom</a></b> afr - nonfoil (1)</li>
  <li> $4.47 <b><a href="https://scryfall.com/card/afr/87/ru">Acererak the Archlich</a></b> afr - foil (1)</li>
  <li> $2.65 <b><a href="https://scryfall.com/card/ddr/1/en">Nissa, Voice of Zendikar</a></b> ddr - foil (1)</li>
  <li> $0.61 <b><a href="https://scryfall.com/card/ddr/36/en">Ob Nixilis Reignited</a></b> ddr - foil (1)</li>
@@ -270,7 +270,7 @@ Move <b>csv</b> files```topdecked csv preset```to <b>Data</b> folder, and start.
  <li> $0.09 <b><a href="https://scryfall.com/card/stx/70/ru">Eyetwitch</a></b> stx - nonfoil (3)</li>
  <li> $0.02 <b><a href="https://scryfall.com/card/stx/200/ru">Lorehold Excavation</a></b> stx - nonfoil (2)</li>
  <li> $2.38 <b><a href="https://scryfall.com/card/stx/81/ru">Plumb the Forbidden</a></b> stx - nonfoil (1)</li>
- <li> $2.38 <b><a href="https://scryfall.com/card/stx/81/ru">Plumb the Forbidden</a></b> stx - nonfoil (1)</li>
+ <li> $2.38 <b><a href="https://scryfall.com/card/stx/81/ru">Plumb the Forbidden</a></b> stx - nonfoil (2)</li>
  <li> $0.02 <b><a href="https://scryfall.com/card/stx/162/ru">Aether Helix</a></b> stx - nonfoil (1)</li>
  <li> $0.07 <b><a href="https://scryfall.com/card/stx/220/ru">Quintorius, Field Historian</a></b> stx - nonfoil (1)</li>
  <li> $0.16 <b><a href="https://scryfall.com/card/stx/207/ru">Mortality Spear</a></b> stx - nonfoil (1)</li>

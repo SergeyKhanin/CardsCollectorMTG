@@ -21,7 +21,6 @@ QUANTITY,"NAME",SETCODE,"SETNAME","COLLECTOR NUMBER",FINISH,PRICE,RARITY,ID,ACQU
 1,"Indulgent Tormentor",ddr,"Duel Decks: Nissa vs. Ob Nixilis",53,nonfoil,$0.42,rare,a0bb89e2-0d28-4483-b5a7-fddf83d5eac3,2023-11-24T13:34:38.249Z,,en
 1,"Stonebinder's Familiar",stx,"Strixhaven: School of Mages",31,nonfoil,$0.02,uncommon,21de4a01-98d3-4af3-9c6e-29e16d2c1767,2023-11-24T13:34:38.249Z,,ru
 1,"Shessra, Death's Whisper",afr,"Adventures in the Forgotten Realms",231,nonfoil,$0.04,uncommon,60ca5fef-af21-4e2b-9efa-61e08a638a1f,2023-11-24T13:34:38.249Z,,ru
-1,"Yuan-Ti Malison",afr,"Adventures in the Forgotten Realms",371,nonfoil,$0.23,rare,9043519d-c9d8-4d08-b4a9-feaf792bc7a4,2023-11-24T13:34:38.249Z,,ru
 2,"Draconic Intervention",stx,"Strixhaven: School of Mages",96,nonfoil,$0.13,rare,657de246-b9fc-47b1-b932-091e9500bb82,2023-11-24T13:34:38.249Z,,ru
 1,"Stoke the Flames",mom,"March of the Machine",166,nonfoil,$0.05,uncommon,04113b3c-cc8f-4b15-9091-f82ea3df2e7c,2023-11-24T13:34:38.249Z,,en
 1,"Faithful Mending",mid,"Innistrad: Midnight Hunt",221,nonfoil,$0.34,uncommon,50752ca9-ea85-4c4b-9bf5-4f8759a7dcec,2023-11-24T13:34:38.249Z,,ru
@@ -54,7 +53,6 @@ QUANTITY,"NAME",SETCODE,"SETNAME","COLLECTOR NUMBER",FINISH,PRICE,RARITY,ID,ACQU
 1,"Tergrid's Shadow",khm,"Kaldheim",113,nonfoil,$0.06,uncommon,417f71d2-d7da-4279-8847-d27c67e9ea9d,2023-11-24T13:34:38.249Z,,ru
 1,"Heroes of the Revel",thb,"Theros Beyond Death",138,nonfoil,$0.03,uncommon,dfdfb481-3446-42f4-a1c3-a88b69f2189a,2023-11-24T13:34:38.249Z,,en
 1,"Crush the Weak",khm,"Kaldheim",128,nonfoil,$0.04,uncommon,875a20c2-1d17-46ea-b4d2-3e70bc05aae3,2023-11-24T13:34:38.249Z,,ru
-1,"Iymrith, Desert Doom",afr,"Adventures in the Forgotten Realms",290,nonfoil,$3.39,mythic,fd111eb2-cce5-413d-816a-f821771a1fa6,2023-11-24T13:34:38.249Z,,ru
 2,"Dina, Soul Steeper",stx,"Strixhaven: School of Mages",178,nonfoil,$0.12,uncommon,9cd2b567-0cf7-4441-b3ce-e31141dd91c8,2023-11-24T13:34:38.249Z,,ru
 1,"Storm Herald",thb,"Theros Beyond Death",156,nonfoil,$0.15,rare,e0594aa2-1c53-4271-a0d0-9002c07f3697,2023-11-24T13:34:38.249Z,,en
 1,"Kroxa, Titan of Death's Hunger",thb,"Theros Beyond Death",221,nonfoil,$2.80,mythic,cee0459b-9aac-4d2f-abe4-4d5fedde7eb8,2023-11-24T13:34:38.249Z,,en
@@ -122,7 +120,7 @@ QUANTITY,"NAME",SETCODE,"SETNAME","COLLECTOR NUMBER",FINISH,PRICE,RARITY,ID,ACQU
 1,"Divine Smite",afr,"Adventures in the Forgotten Realms",12,nonfoil,$0.04,uncommon,6b8d0852-4df3-4b29-830d-c6975265ef53,2023-11-24T13:34:38.249Z,,ru
 1,"Walker of the Grove",ddr,"Duel Decks: Nissa vs. Ob Nixilis",24,nonfoil,$0.18,uncommon,b9cdd08b-7e77-4927-87dd-6e3afffc3ef0,2023-11-24T13:34:38.249Z,,en
 1,"Plumb the Forbidden",stx,"Strixhaven: School of Mages",81,nonfoil,$2.38,uncommon,5034227f-3b8a-45bf-917c-c2cbd98f2192,2023-11-24T13:34:38.249Z,,ru
-1,"Plumb the Forbidden",stx,"Strixhaven: School of Mages",81,nonfoil,$2.38,uncommon,5034227f-3b8a-45bf-917c-c2cbd98f2192,2023-12-10T14:23:50.094Z,,ru
+2,"Plumb the Forbidden",stx,"Strixhaven: School of Mages",81,nonfoil,$2.38,uncommon,5034227f-3b8a-45bf-917c-c2cbd98f2192,2023-12-10T14:23:50.094Z,,ru
 1,"Inquisition of Kozilek",sta,"Strixhaven Mystical Archive",31,nonfoil,$0.33,rare,d47df2c2-437d-4b8e-82cc-1707e3efd5b5,2023-11-24T13:34:38.249Z,,ru
 1,"Inquisition of Kozilek",sta,"Strixhaven Mystical Archive",31,nonfoil,$0.33,rare,d47df2c2-437d-4b8e-82cc-1707e3efd5b5,2023-12-10T14:23:29.210Z,,ru
 1,"Doomskar",khm,"Kaldheim",9,nonfoil,$0.80,rare,130ee895-1e5e-4f82-bb66-e1275bac75dd,2023-11-24T13:34:38.249Z,,ru
@@ -283,3 +281,5 @@ QUANTITY,"NAME",SETCODE,"SETNAME","COLLECTOR NUMBER",FINISH,PRICE,RARITY,ID,ACQU
 1,"Hofri Ghostforge",stx,"Strixhaven: School of Mages",192,nonfoil,$1.49,mythic,bd8deecf-eded-418b-ac4c-5c3e8f54e86d,2023-12-10T14:24:49.943Z,,ru
 1,"Daemogoth Titan",stx,"Strixhaven: School of Mages",174,nonfoil,$0.21,rare,c2f18828-ade7-4b99-97b2-e34bc2fdb68c,2023-12-10T14:25:24.993Z,,ru
 1,"Storm-Kiln Artist",stx,"Strixhaven: School of Mages",115,nonfoil,$0.97,uncommon,fa96b8dc-233a-4884-ab84-235cbc7df0b6,2023-12-10T14:24:57.293Z,,ru
+1,"Yuan-Ti Malison",afr,"Adventures in the Forgotten Realms",86,nonfoil,$0.18,rare,0f51afd9-7093-4aa3-ad5b-7383684d6285,2023-11-24T13:34:38.249Z,,ru
+1,"Iymrith, Desert Doom",afr,"Adventures in the Forgotten Realms",62,nonfoil,$0.81,mythic,c3e6025d-d273-4ae4-9929-5e588612f1b3,2023-11-24T13:34:38.249Z,,ru
