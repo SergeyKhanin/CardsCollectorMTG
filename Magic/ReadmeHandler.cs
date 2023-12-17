@@ -82,7 +82,7 @@ namespace Magic
                 _priceAmount += priceConverted * quantityConverted;
             }
 
-            _priceAmount = (float) Math.Round(_priceAmount, 2);
+            _priceAmount = (float)Math.Round(_priceAmount, 2);
         }
     }
 }
