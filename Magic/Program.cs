@@ -8,12 +8,21 @@ public static class Program
     {
         CurrentCulture = GetCultureInfo("en-US");
 
-        var csvHandler = new CsvHandler(Paths.InputDataPath, Paths.OutputDataPath, Filter.SetCode);
-        var readmeHandler = new ReadmeHandler(Paths.OutputDataPath, Paths.ReadmePath);
+        List<CardModel> records = new();
+
+        var csvHandler = new CsvHandler(
+            Paths.InputDataPath,
+            Paths.OutputDataPathCsv,
+            Filter.SetCode,
+            records
+        );
+        var jsonHandler = new JsonHandler(Paths.OutputDataPathJson, records);
+        var readmeHandler = new ReadmeHandler(Paths.OutputDataPathCsv, Paths.ReadmePath);
 
         csvHandler.Read();
         csvHandler.Sort();
         csvHandler.Write();
+        jsonHandler.Write();
         readmeHandler.Print();
     }
 }

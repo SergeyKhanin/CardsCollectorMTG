@@ -8,13 +8,19 @@ namespace Magic
         private readonly string _inputDataPath;
         private readonly string _outputDataPath;
         private readonly Filter _filter;
-        private List<CardModel> _records = new();
+        private List<CardModel> _records;
 
-        public CsvHandler(string inputDataPath, string outputDataPath, Filter filter)
+        public CsvHandler(
+            string inputDataPath,
+            string outputDataPath,
+            Filter filter,
+            List<CardModel> records
+        )
         {
             _inputDataPath = inputDataPath;
             _outputDataPath = outputDataPath;
             _filter = filter;
+            _records = records;
         }
 
         public void Read()
