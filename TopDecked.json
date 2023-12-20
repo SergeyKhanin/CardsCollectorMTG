@@ -222,7 +222,13 @@
     "Name": "Ecological Appreciation"
   },
   {
+    "Name": "Kelpie Guide"
+  },
+  {
     "Name": "Explosive Welcome"
+  },
+  {
+    "Name": "Oracle of Tragedy"
   },
   {
     "Name": "Pestilent Cauldron // Restorative Burst"
@@ -232,6 +238,9 @@
   },
   {
     "Name": "Pestilence Demon"
+  },
+  {
+    "Name": "Brainstorm"
   },
   {
     "Name": "Valki, God of Lies // Tibalt, Cosmic Impostor"
@@ -261,6 +270,9 @@
     "Name": "Briarhorn"
   },
   {
+    "Name": "Emergent Sequence"
+  },
+  {
     "Name": "Hall Monitor"
   },
   {
@@ -280,6 +292,9 @@
   },
   {
     "Name": "Shessra, Death's Whisper"
+  },
+  {
+    "Name": "Yuan-Ti Malison"
   },
   {
     "Name": "Draconic Intervention"
@@ -321,6 +336,9 @@
     "Name": "Brutal Cathar // Moonrage Brute"
   },
   {
+    "Name": "Tend the Pests"
+  },
+  {
     "Name": "Rushed Rebirth"
   },
   {
@@ -360,7 +378,7 @@
     "Name": "Soul-Guide Lantern"
   },
   {
-    "Name": "Opt"
+    "Name": "Hofri Ghostforge"
   },
   {
     "Name": "Druid Class"
@@ -376,6 +394,15 @@
   },
   {
     "Name": "Crush the Weak"
+  },
+  {
+    "Name": "Plumb the Forbidden"
+  },
+  {
+    "Name": "Plumb the Forbidden"
+  },
+  {
+    "Name": "Iymrith, Desert Doom"
   },
   {
     "Name": "Dina, Soul Steeper"
@@ -405,16 +432,28 @@
     "Name": "Carrier Thrall"
   },
   {
+    "Name": "Eyetwitch"
+  },
+  {
     "Name": "Katilda, Dawnhart Prime"
   },
   {
     "Name": "Returned Pastcaller"
   },
   {
+    "Name": "Kwende, Pride of Femeref"
+  },
+  {
+    "Name": "Invasion of Kaldheim // Pyre of the World Tree"
+  },
+  {
     "Name": "The First Iroan Games"
   },
   {
     "Name": "Teachings of the Archaics"
+  },
+  {
+    "Name": "Opt"
   },
   {
     "Name": "Ingenious Smith"
@@ -454,9 +493,6 @@
   },
   {
     "Name": "Show of Confidence"
-  },
-  {
-    "Name": "Infuriate"
   },
   {
     "Name": "Grafted Identity"
@@ -543,6 +579,9 @@
     "Name": "Blink Dog"
   },
   {
+    "Name": "Divide by Zero"
+  },
+  {
     "Name": "Karok Wrangler"
   },
   {
@@ -553,9 +592,6 @@
   },
   {
     "Name": "Honor Troll"
-  },
-  {
-    "Name": "Eyetwitch"
   },
   {
     "Name": "Lorehold Excavation"
@@ -576,16 +612,16 @@
     "Name": "Walker of the Grove"
   },
   {
-    "Name": "Plumb the Forbidden"
-  },
-  {
-    "Name": "Plumb the Forbidden"
+    "Name": "Joyful Stormsculptor"
   },
   {
     "Name": "Inquisition of Kozilek"
   },
   {
     "Name": "Inquisition of Kozilek"
+  },
+  {
+    "Name": "Storm-Kiln Artist"
   },
   {
     "Name": "Doomskar"
@@ -606,6 +642,9 @@
     "Name": "Eye of Vecna"
   },
   {
+    "Name": "Infuriate"
+  },
+  {
     "Name": "Acolyte of Affliction"
   },
   {
@@ -618,16 +657,25 @@
     "Name": "One with the Stars"
   },
   {
+    "Name": "Tenured Inkcaster"
+  },
+  {
     "Name": "Cloudthresher"
   },
   {
     "Name": "Lightfoot Rogue"
   },
   {
+    "Name": "Snakeskin Veil"
+  },
+  {
     "Name": "Draugr Necromancer"
   },
   {
     "Name": "Battle Cry Goblin"
+  },
+  {
+    "Name": "Reflective Golem"
   },
   {
     "Name": "Jaddi Lifestrider"
@@ -640,6 +688,9 @@
   },
   {
     "Name": "Mortality Spear"
+  },
+  {
+    "Name": "Shineshadow Snarl"
   },
   {
     "Name": "Harald, King of Skemfar"
@@ -661,6 +712,9 @@
   },
   {
     "Name": "Seek the Horizon"
+  },
+  {
+    "Name": "Gnarled Professor"
   },
   {
     "Name": "Dreamshackle Geist"
@@ -690,16 +744,25 @@
     "Name": "Abundance"
   },
   {
+    "Name": "Practical Research"
+  },
+  {
     "Name": "The Blackstaff of Waterdeep"
   },
   {
     "Name": "Mischievous Chimera"
   },
   {
+    "Name": "Mutagen Connoisseur"
+  },
+  {
     "Name": "Warlock Class"
   },
   {
     "Name": "Port of Karfell"
+  },
+  {
+    "Name": "Mercurial Transformation"
   },
   {
     "Name": "Leonin Lightscribe"
@@ -757,6 +820,9 @@
   },
   {
     "Name": "Consuming Tide"
+  },
+  {
+    "Name": "Daemogoth Titan"
   },
   {
     "Name": "Bretagard Stronghold"
@@ -996,10 +1062,16 @@
     "Name": "Valkyrie's Sword"
   },
   {
+    "Name": "Team Pennant"
+  },
+  {
     "Name": "Medomai's Prophecy"
   },
   {
     "Name": "Ardent Dustspeaker"
+  },
+  {
+    "Name": "Grinning Ignus"
   },
   {
     "Name": "Eccentric Apprentice"
@@ -1009,63 +1081,6 @@
   },
   {
     "Name": "Boreal Outrider"
-  },
-  {
-    "Name": "Grinning Ignus"
-  },
-  {
-    "Name": "Kelpie Guide"
-  },
-  {
-    "Name": "Reflective Golem"
-  },
-  {
-    "Name": "Shineshadow Snarl"
-  },
-  {
-    "Name": "Team Pennant"
-  },
-  {
-    "Name": "Mercurial Transformation"
-  },
-  {
-    "Name": "Emergent Sequence"
-  },
-  {
-    "Name": "Practical Research"
-  },
-  {
-    "Name": "Gnarled Professor"
-  },
-  {
-    "Name": "Tend the Pests"
-  },
-  {
-    "Name": "Divide by Zero"
-  },
-  {
-    "Name": "Snakeskin Veil"
-  },
-  {
-    "Name": "Brainstorm"
-  },
-  {
-    "Name": "Tenured Inkcaster"
-  },
-  {
-    "Name": "Hofri Ghostforge"
-  },
-  {
-    "Name": "Daemogoth Titan"
-  },
-  {
-    "Name": "Storm-Kiln Artist"
-  },
-  {
-    "Name": "Yuan-Ti Malison"
-  },
-  {
-    "Name": "Iymrith, Desert Doom"
   },
   {
     "Name": "Noxious Ghoul"
