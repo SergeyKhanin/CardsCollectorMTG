@@ -1,8 +1,11 @@
 QUANTITY,"NAME",SETCODE,"SETNAME","COLLECTOR NUMBER",FINISH,PRICE,RARITY,ID,ACQUIRED DATE,ACQUIRED PRICE,LANG,PRICE SALE,SIGNING,ALTERATION,CONDITION,NOTES,TAGS
-1,"Shadowspear",thb,"Theros Beyond Death",236,nonfoil,$18.60,rare,939c6e19-4b27-4023-bb9c-ae440f91e21c,2023-11-23T18:31:30.711Z,,en
-1,"Idyllic Tutor",thb,"Theros Beyond Death",24,nonfoil,$5.14,rare,f06edd53-f3ac-44b0-a087-5670ba8f0fa5,2023-11-23T18:32:29.324Z,,en
-1,"Acererak the Archlich",afr,"Adventures in the Forgotten Realms",87,foil,$4.50,mythic,dd52d0bd-3abd-401c-9f56-ee911613da3b,2023-11-22T06:51:12.669Z,,ru
-1,"Beledros Witherbloom",stx,"Strixhaven: School of Mages",282,nonfoil,$9.78,mythic,e34dd2ef-a52d-48b6-becc-825f0e78eb75,2023-11-22T06:51:12.669Z,,ru
-1,"Elesh Norn // The Argent Etchings",mom,"March of the Machine",12,nonfoil,$5.63,mythic,d8999135-ddb1-4e4c-b885-e25f23dac3d3,2023-11-23T18:30:02.972Z,,en
-1,"The Meathook Massacre",mid,"Innistrad: Midnight Hunt",112,nonfoil,$28.04,mythic,08950015-eee5-4327-888c-82dfd13bb9ad,2023-11-26T13:27:10.071Z,,ru
-1,"Heliod, Sun-Crowned",thb,"Theros Beyond Death",259,foil,$19.05,mythic,e11cf760-da35-41f2-8cf5-a5141103eeb3,2023-11-23T18:09:49.073Z,,en
+1,"Shadowspear",thb,"Theros Beyond Death",236,nonfoil,$19.06,rare,939c6e19-4b27-4023-bb9c-ae440f91e21c,2023-11-23T18:31:30.711Z,,en
+1,"Idyllic Tutor",thb,"Theros Beyond Death",24,nonfoil,$5.18,rare,f06edd53-f3ac-44b0-a087-5670ba8f0fa5,2023-11-23T18:32:29.324Z,,en
+1,"Acererak the Archlich",afr,"Adventures in the Forgotten Realms",87,foil,$4.41,mythic,dd52d0bd-3abd-401c-9f56-ee911613da3b,2023-11-22T06:51:12.669Z,,ru
+1,"Beledros Witherbloom",stx,"Strixhaven: School of Mages",282,nonfoil,$9.24,mythic,e34dd2ef-a52d-48b6-becc-825f0e78eb75,2023-11-22T06:51:12.669Z,,ru
+1,"Elesh Norn // The Argent Etchings",mom,"March of the Machine",12,nonfoil,$5.88,mythic,d8999135-ddb1-4e4c-b885-e25f23dac3d3,2023-11-23T18:30:02.972Z,,en
+1,"The Meathook Massacre",mid,"Innistrad: Midnight Hunt",112,nonfoil,$29.31,mythic,08950015-eee5-4327-888c-82dfd13bb9ad,2023-11-26T13:27:10.071Z,,ru
+1,"Heliod, Sun-Crowned",thb,"Theros Beyond Death",259,foil,$17.98,mythic,e11cf760-da35-41f2-8cf5-a5141103eeb3,2023-11-23T18:09:49.073Z,,en
+1,"The World Tree",khm,"Kaldheim",275,nonfoil,$3.58,rare,a70cb6d9-3955-4064-917b-11dec26440c5,2023-12-23T07:27:26.171Z,,ru
+1,"Halvar, God of Battle // Sword of the Realms",khm,"Kaldheim",299,nonfoil,$7.90,mythic,feddb683-a8f8-4def-bd3e-6d630c42cd34,2023-12-23T07:27:44.086Z,,ru
+1,"Haunting Voyage",khm,"Kaldheim",98,nonfoil,$5.79,mythic,2ac5bca0-35fe-47be-a78c-d5eac68a3bfa,2023-11-24T13:34:38.249Z,,ru

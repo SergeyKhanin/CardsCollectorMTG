@@ -216,6 +216,18 @@
     "Name": "Ob Nixilis Reignited"
   },
   {
+    "Name": "Sigrid, God-Favored"
+  },
+  {
+    "Name": "Maja, Bretagard Protector"
+  },
+  {
+    "Name": "Moritte of the Frost"
+  },
+  {
+    "Name": "Raise the Draugr"
+  },
+  {
     "Name": "Portable Hole"
   },
   {
@@ -399,9 +411,6 @@
     "Name": "Plumb the Forbidden"
   },
   {
-    "Name": "Plumb the Forbidden"
-  },
-  {
     "Name": "Iymrith, Desert Doom"
   },
   {
@@ -531,9 +540,6 @@
     "Name": "Efreet Flamepainter"
   },
   {
-    "Name": "Efreet Flamepainter"
-  },
-  {
     "Name": "Test of Talents"
   },
   {
@@ -613,9 +619,6 @@
   },
   {
     "Name": "Joyful Stormsculptor"
-  },
-  {
-    "Name": "Inquisition of Kozilek"
   },
   {
     "Name": "Inquisition of Kozilek"
@@ -781,9 +784,6 @@
   },
   {
     "Name": "Power Word Kill"
-  },
-  {
-    "Name": "Haunting Voyage"
   },
   {
     "Name": "Fading Hope"
@@ -1083,6 +1083,51 @@
     "Name": "Boreal Outrider"
   },
   {
+    "Name": "Avalanche Caller"
+  },
+  {
+    "Name": "Dream Devourer"
+  },
+  {
+    "Name": "Battershield Warrior"
+  },
+  {
+    "Name": "Runeforge Champion"
+  },
+  {
+    "Name": "Svella, Ice Shaper"
+  },
+  {
+    "Name": "Hailstorm Valkyrie"
+  },
+  {
+    "Name": "Firja, Judge of Valor"
+  },
+  {
+    "Name": "Rootless Yew"
+  },
+  {
+    "Name": "Doomskar Titan"
+  },
+  {
+    "Name": "Dual Strike"
+  },
+  {
+    "Name": "Icebind Pillar"
+  },
+  {
+    "Name": "The Trickster-God's Heist"
+  },
+  {
+    "Name": "Axgard Armory"
+  },
+  {
+    "Name": "Littjara Mirrorlake"
+  },
+  {
+    "Name": "Cosima, God of the Voyage // The Omenkeel"
+  },
+  {
     "Name": "Noxious Ghoul"
   },
   {
@@ -1108,5 +1153,14 @@
   },
   {
     "Name": "Heliod, Sun-Crowned"
+  },
+  {
+    "Name": "The World Tree"
+  },
+  {
+    "Name": "Halvar, God of Battle // Sword of the Realms"
+  },
+  {
+    "Name": "Haunting Voyage"
   }
 ]
