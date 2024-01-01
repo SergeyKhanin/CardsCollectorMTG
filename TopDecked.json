@@ -12,7 +12,7 @@
     "Name": "Burn the Accursed"
   },
   {
-    "Name": "Mountain"
+    "Name": "Moritte of the Frost"
   },
   {
     "Name": "Mountain"
@@ -34,6 +34,12 @@
   },
   {
     "Name": "Mountain"
+  },
+  {
+    "Name": "Mountain"
+  },
+  {
+    "Name": "Electric Revelation"
   },
   {
     "Name": "Forest"
@@ -111,7 +117,7 @@
     "Name": "Island"
   },
   {
-    "Name": "Swamp"
+    "Name": "Island"
   },
   {
     "Name": "Swamp"
@@ -139,6 +145,18 @@
   },
   {
     "Name": "Swamp"
+  },
+  {
+    "Name": "Swamp"
+  },
+  {
+    "Name": "Sungold Barrage"
+  },
+  {
+    "Name": "Obsessive Astronomer"
+  },
+  {
+    "Name": "Unblinking Observer"
   },
   {
     "Name": "Thundering Raiju"
@@ -148,6 +166,12 @@
   },
   {
     "Name": "Treasure Chest"
+  },
+  {
+    "Name": "Sigrid, God-Favored"
+  },
+  {
+    "Name": "Chaos Channeler"
   },
   {
     "Name": "Triskaidekaphile"
@@ -174,10 +198,16 @@
     "Name": "Burly Breaker // Dire-Strain Demolisher"
   },
   {
+    "Name": "Harvesttide Infiltrator // Harvesttide Assailant"
+  },
+  {
     "Name": "Forsworn Paladin"
   },
   {
     "Name": "Arrogant Outlaw"
+  },
+  {
+    "Name": "Maja, Bretagard Protector"
   },
   {
     "Name": "Rimeshield Frost Giant"
@@ -195,6 +225,9 @@
     "Name": "Arasta of the Endless Web"
   },
   {
+    "Name": "Abandon the Post"
+  },
+  {
     "Name": "Welcoming Vampire"
   },
   {
@@ -204,28 +237,28 @@
     "Name": "Gavony Trapper"
   },
   {
+    "Name": "Mourning Patrol // Morning Apparition"
+  },
+  {
     "Name": "Mysterious Tome // Chilling Chronicle"
   },
   {
     "Name": "Divine Gambit"
   },
   {
+    "Name": "You Find the Villains' Lair"
+  },
+  {
+    "Name": "Raise the Draugr"
+  },
+  {
+    "Name": "Otherworldly Gaze"
+  },
+  {
     "Name": "Iridescent Blademaster"
   },
   {
     "Name": "Ob Nixilis Reignited"
-  },
-  {
-    "Name": "Sigrid, God-Favored"
-  },
-  {
-    "Name": "Maja, Bretagard Protector"
-  },
-  {
-    "Name": "Moritte of the Frost"
-  },
-  {
-    "Name": "Raise the Draugr"
   },
   {
     "Name": "Portable Hole"
@@ -264,6 +297,9 @@
     "Name": "Dream Trawler"
   },
   {
+    "Name": "Frenzied Raider"
+  },
+  {
     "Name": "Symmetry Sage"
   },
   {
@@ -274,6 +310,9 @@
   },
   {
     "Name": "Kasmina, Enigma Sage"
+  },
+  {
+    "Name": "Rootless Yew"
   },
   {
     "Name": "Bruenor Battlehammer"
@@ -307,6 +346,9 @@
   },
   {
     "Name": "Yuan-Ti Malison"
+  },
+  {
+    "Name": "Rune of Mortality"
   },
   {
     "Name": "Draconic Intervention"
@@ -357,6 +399,9 @@
     "Name": "Rootcoil Creeper"
   },
   {
+    "Name": "Rootcoil Creeper"
+  },
+  {
     "Name": "Spectral Steel"
   },
   {
@@ -381,9 +426,6 @@
     "Name": "Whirlwind Denial"
   },
   {
-    "Name": "Magda, Brazen Outlaw"
-  },
-  {
     "Name": "Elspeth Conquers Death"
   },
   {
@@ -394,6 +436,12 @@
   },
   {
     "Name": "Druid Class"
+  },
+  {
+    "Name": "Druid Class"
+  },
+  {
+    "Name": "Magda, Brazen Outlaw"
   },
   {
     "Name": "Fifty Feet of Rope"
@@ -442,6 +490,9 @@
   },
   {
     "Name": "Eyetwitch"
+  },
+  {
+    "Name": "The Trickster-God's Heist"
   },
   {
     "Name": "Katilda, Dawnhart Prime"
@@ -501,6 +552,9 @@
     "Name": "Tovolar, Dire Overlord // Tovolar, the Midnight Scourge"
   },
   {
+    "Name": "Tovolar, Dire Overlord // Tovolar, the Midnight Scourge"
+  },
+  {
     "Name": "Show of Confidence"
   },
   {
@@ -522,7 +576,13 @@
     "Name": "Brood Weaver"
   },
   {
+    "Name": "Brood Weaver"
+  },
+  {
     "Name": "Adventurous Impulse"
+  },
+  {
+    "Name": "Elven Bow"
   },
   {
     "Name": "Woodborn Behemoth"
@@ -531,13 +591,13 @@
     "Name": "Mirror Shield"
   },
   {
+    "Name": "Firja, Judge of Valor"
+  },
+  {
     "Name": "Maelstrom Muse"
   },
   {
     "Name": "Leechridden Swamp"
-  },
-  {
-    "Name": "Efreet Flamepainter"
   },
   {
     "Name": "Test of Talents"
@@ -550,9 +610,6 @@
   },
   {
     "Name": "Delina, Wild Mage"
-  },
-  {
-    "Name": "Vengeful Reaper"
   },
   {
     "Name": "Lorehold Apprentice"
@@ -568,6 +625,9 @@
   },
   {
     "Name": "Cultivate"
+  },
+  {
+    "Name": "Vengeful Reaper"
   },
   {
     "Name": "Gaea's Blessing"
@@ -600,6 +660,9 @@
     "Name": "Honor Troll"
   },
   {
+    "Name": "Runeforge Champion"
+  },
+  {
     "Name": "Lorehold Excavation"
   },
   {
@@ -618,16 +681,19 @@
     "Name": "Walker of the Grove"
   },
   {
-    "Name": "Joyful Stormsculptor"
+    "Name": "Dream Devourer"
   },
   {
-    "Name": "Inquisition of Kozilek"
+    "Name": "Joyful Stormsculptor"
   },
   {
     "Name": "Storm-Kiln Artist"
   },
   {
     "Name": "Doomskar"
+  },
+  {
+    "Name": "Cosima, God of the Voyage // The Omenkeel"
   },
   {
     "Name": "Pheres-Band Brawler"
@@ -648,10 +714,10 @@
     "Name": "Infuriate"
   },
   {
-    "Name": "Acolyte of Affliction"
+    "Name": "Svella, Ice Shaper"
   },
   {
-    "Name": "Frenzied Raider"
+    "Name": "Acolyte of Affliction"
   },
   {
     "Name": "Displacer Beast"
@@ -661,6 +727,9 @@
   },
   {
     "Name": "Tenured Inkcaster"
+  },
+  {
+    "Name": "Littjara Mirrorlake"
   },
   {
     "Name": "Cloudthresher"
@@ -741,6 +810,9 @@
     "Name": "Sudden Insight"
   },
   {
+    "Name": "Hailstorm Valkyrie"
+  },
+  {
     "Name": "Reverent Hoplite"
   },
   {
@@ -751,6 +823,9 @@
   },
   {
     "Name": "The Blackstaff of Waterdeep"
+  },
+  {
+    "Name": "Vega, the Watcher"
   },
   {
     "Name": "Mischievous Chimera"
@@ -780,7 +855,10 @@
     "Name": "Rip Apart"
   },
   {
-    "Name": "Vega, the Watcher"
+    "Name": "Icebind Pillar"
+  },
+  {
+    "Name": "Efreet Flamepainter"
   },
   {
     "Name": "Power Word Kill"
@@ -802,9 +880,6 @@
   },
   {
     "Name": "Mystic Reflection"
-  },
-  {
-    "Name": "Elven Bow"
   },
   {
     "Name": "Treetop Village"
@@ -870,7 +945,13 @@
     "Name": "Topiary Stomper"
   },
   {
+    "Name": "Axgard Armory"
+  },
+  {
     "Name": "Dragonsguard Elite"
+  },
+  {
+    "Name": "Doomskar Titan"
   },
   {
     "Name": "Renata, Called to the Hunt"
@@ -880,9 +961,6 @@
   },
   {
     "Name": "Asmodeus the Archfiend"
-  },
-  {
-    "Name": "Search for Glory"
   },
   {
     "Name": "Giant's Amulet"
@@ -928,6 +1006,9 @@
   },
   {
     "Name": "Glorious Sunrise"
+  },
+  {
+    "Name": "Battershield Warrior"
   },
   {
     "Name": "Loathsome Troll"
@@ -993,7 +1074,7 @@
     "Name": "Reyav, Master Smith"
   },
   {
-    "Name": "Rune of Mortality"
+    "Name": "Inquisition of Kozilek"
   },
   {
     "Name": "Replicating Ring"
@@ -1003,6 +1084,9 @@
   },
   {
     "Name": "Zalto, Fire Giant Duke"
+  },
+  {
+    "Name": "Avalanche Caller"
   },
   {
     "Name": "Manifestation Sage"
@@ -1032,6 +1116,9 @@
     "Name": "Mind's Desire"
   },
   {
+    "Name": "Dual Strike"
+  },
+  {
     "Name": "Thicket Elemental"
   },
   {
@@ -1042,9 +1129,6 @@
   },
   {
     "Name": "Negate"
-  },
-  {
-    "Name": "Defiant Strike"
   },
   {
     "Name": "Defiant Strike"
@@ -1083,49 +1167,139 @@
     "Name": "Boreal Outrider"
   },
   {
-    "Name": "Avalanche Caller"
+    "Name": "Beloved Beggar // Generous Soul"
   },
   {
-    "Name": "Dream Devourer"
+    "Name": "Flame Channeler // Embodiment of Flame"
   },
   {
-    "Name": "Battershield Warrior"
+    "Name": "Kalain, Reclusive Painter"
   },
   {
-    "Name": "Runeforge Champion"
+    "Name": "Kessig Naturalist // Lord of the Ulvenwald"
   },
   {
-    "Name": "Svella, Ice Shaper"
+    "Name": "Old Stickfingers"
   },
   {
-    "Name": "Hailstorm Valkyrie"
+    "Name": "Prosperous Innkeeper"
   },
   {
-    "Name": "Firja, Judge of Valor"
+    "Name": "Smoldering Egg // Ashmouth Dragon"
   },
   {
-    "Name": "Rootless Yew"
+    "Name": "Trelasarra, Moon Dancer"
   },
   {
-    "Name": "Doomskar Titan"
+    "Name": "Triskaidekaphile"
   },
   {
-    "Name": "Dual Strike"
+    "Name": "Werewolf Pack Leader"
   },
   {
-    "Name": "Icebind Pillar"
+    "Name": "Wight"
   },
   {
-    "Name": "The Trickster-God's Heist"
+    "Name": "Dawnhart Wardens"
   },
   {
-    "Name": "Axgard Armory"
+    "Name": "Feywild Trickster"
   },
   {
-    "Name": "Littjara Mirrorlake"
+    "Name": "Guardian of Faith"
   },
   {
-    "Name": "Cosima, God of the Voyage // The Omenkeel"
+    "Name": "Hama Pashar, Ruin Seeker"
+  },
+  {
+    "Name": "Loyal Gryff"
+  },
+  {
+    "Name": "Skullport Merchant"
+  },
+  {
+    "Name": "Chaos Channeler"
+  },
+  {
+    "Name": "Fangblade Brigand // Fangblade Eviscerator"
+  },
+  {
+    "Name": "Farideh, Devil's Chosen"
+  },
+  {
+    "Name": "Aberrant Mind Sorcerer"
+  },
+  {
+    "Name": "Adult Gold Dragon"
+  },
+  {
+    "Name": "Sigardian Savior"
+  },
+  {
+    "Name": "Turn the Earth"
+  },
+  {
+    "Name": "Turn the Earth"
+  },
+  {
+    "Name": "Evolving Wilds"
+  },
+  {
+    "Name": "Dungeon Descent"
+  },
+  {
+    "Name": "Curse of Surveillance"
+  },
+  {
+    "Name": "Sorcerer Class"
+  },
+  {
+    "Name": "Fly"
+  },
+  {
+    "Name": "Borrowed Time"
+  },
+  {
+    "Name": "Barbarian Class"
+  },
+  {
+    "Name": "You See a Pair of Goblins"
+  },
+  {
+    "Name": "Rally Maneuver"
+  },
+  {
+    "Name": "Defend the Celestus"
+  },
+  {
+    "Name": "You Find Some Prisoners"
+  },
+  {
+    "Name": "Croaking Counterpart"
+  },
+  {
+    "Name": "You Meet in a Tavern"
+  },
+  {
+    "Name": "Goblin Morningstar"
+  },
+  {
+    "Name": "Dungeon Map"
+  },
+  {
+    "Name": "Geistflame Reservoir"
+  },
+  {
+    "Name": "Hand of Vecna"
+  },
+  {
+    "Name": "Treasure Chest"
+  },
+  {
+    "Name": "Search for Glory"
+  },
+  {
+    "Name": "Blight Sickle"
   },
   {
     "Name": "Noxious Ghoul"
@@ -1134,16 +1308,31 @@
     "Name": "Toils of Night and Day"
   },
   {
+    "Name": "Worn Powerstone"
+  },
+  {
+    "Name": "The World Tree"
+  },
+  {
+    "Name": "Halvar, God of Battle // Sword of the Realms"
+  },
+  {
     "Name": "Shadowspear"
   },
   {
     "Name": "Idyllic Tutor"
   },
   {
+    "Name": "Delina, Wild Mage"
+  },
+  {
     "Name": "Acererak the Archlich"
   },
   {
     "Name": "Beledros Witherbloom"
+  },
+  {
+    "Name": "Haunting Voyage"
   },
   {
     "Name": "Elesh Norn // The Argent Etchings"
@@ -1153,14 +1342,5 @@
   },
   {
     "Name": "Heliod, Sun-Crowned"
-  },
-  {
-    "Name": "The World Tree"
-  },
-  {
-    "Name": "Halvar, God of Battle // Sword of the Realms"
-  },
-  {
-    "Name": "Haunting Voyage"
   }
 ]
