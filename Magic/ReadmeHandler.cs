@@ -56,9 +56,8 @@ namespace Magic
                 var collectorNumber = record.CollectorNumber;
                 var price = record.Price;
                 var finish = record.Finish;
-                var lang = record.Lang;
 
-                var link = $"{Paths.PagePath}/{setCode}/{collectorNumber}/{lang}";
+                var link = $"{Paths.PagePath}/{setCode}/{collectorNumber}/";
                 var message =
                     $" <li> {price} <b><a href=\"{link}\">{name}</a></b> {setCode} - {finish} ({quantity})</li>";
                 linesList.Add(message);

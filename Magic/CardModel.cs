@@ -43,13 +43,5 @@ namespace Magic
         [JsonIgnore]
         [Name("ACQUIRED DATE")]
         public string? AcquiredDate { get; set; }
-
-        [JsonIgnore]
-        [Name("ACQUIRED PRICE")]
-        public string? AcquiredPrice { get; set; }
-
-        [JsonIgnore]
-        [Name("LANG")]
-        public string? Lang { get; set; }
     }
 }
