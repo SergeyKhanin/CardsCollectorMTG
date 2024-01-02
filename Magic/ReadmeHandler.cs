@@ -9,6 +9,7 @@ namespace Magic
         private float _priceAmount;
         private readonly string _outputDataPath;
         private readonly string _readmePath;
+        private const string Lang = "";
 
         public ReadmeHandler(string outputDataPath, string readmePath)
         {
@@ -57,7 +58,7 @@ namespace Magic
                 var price = record.Price;
                 var finish = record.Finish;
 
-                var link = $"{Paths.PagePath}/{setCode}/{collectorNumber}/";
+                var link = $"{Paths.PagePath}/{setCode}/{collectorNumber}/{Lang}";
                 var message =
                     $" <li> {price} <b><a href=\"{link}\">{name}</a></b> {setCode} - {finish} ({quantity})</li>";
                 linesList.Add(message);
