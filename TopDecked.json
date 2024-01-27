@@ -372,6 +372,9 @@
     "Name": "Abundance"
   },
   {
+    "Name": "Shagrat, Loot Bearer"
+  },
+  {
     "Name": "Kasmina, Enigma Sage"
   },
   {
@@ -636,6 +639,9 @@
     "Name": "Escape Velocity"
   },
   {
+    "Name": "Stew the Coneys"
+  },
+  {
     "Name": "Agonizing Remorse"
   },
   {
@@ -850,6 +856,9 @@
   },
   {
     "Name": "Stoke the Flames"
+  },
+  {
+    "Name": "Samwise the Stouthearted"
   },
   {
     "Name": "Extraction Specialist"
@@ -1086,6 +1095,9 @@
     "Name": "Fateful End"
   },
   {
+    "Name": "Gwaihir the Windlord"
+  },
+  {
     "Name": "Targ Nar, Demon-Fang Gnoll"
   },
   {
@@ -1290,6 +1302,18 @@
     "Name": "Farideh, Devil's Chosen"
   },
   {
+    "Name": "Mysterious Pathlighter"
+  },
+  {
+    "Name": "Yorvo, Lord of Garenbrig"
+  },
+  {
+    "Name": "Keeper of Fables"
+  },
+  {
+    "Name": "Rally for the Throne"
+  },
+  {
     "Name": "Satyr"
   },
   {
@@ -1359,6 +1383,9 @@
     "Name": "Spirit"
   },
   {
+    "Name": "Orc Army"
+  },
+  {
     "Name": "Human Soldier"
   },
   {
@@ -1411,6 +1438,9 @@
   },
   {
     "Name": "Ob Nixilis Reignited Emblem"
+  },
+  {
+    "Name": "On an Adventure"
   },
   {
     "Name": "Noxious Ghoul"
