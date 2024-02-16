@@ -45,44 +45,48 @@ namespace Magic
 
         private void AddCardInfoToLines(string path, List<string> linesList)
         {
-            using var reader = new StreamReader(path);
-            using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
-            var records = csv.GetRecords<CardModel>();
-
-            foreach (var record in records)
+            using (var reader = new StreamReader(path))
+            using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
-                var quantity = record.Quantity;
-                var name = record.Name;
-                var setCode = record.SetCode;
-                var collectorNumber = record.CollectorNumber;
-                var price = record.Price;
-                var finish = record.Finish;
+                var records = csv.GetRecords<CardModel>();
 
-                var link = $"{Paths.PagePath}/{setCode}/{collectorNumber}/{Lang}";
-                var message =
-                    $" <li> {price} <b><a href=\"{link}\">{name}</a></b> {setCode} - {finish} ({quantity})</li>";
-                linesList.Add(message);
+                foreach (var record in records)
+                {
+                    var quantity = record.Quantity;
+                    var name = record.Name;
+                    var setCode = record.SetCode;
+                    var collectorNumber = record.CollectorNumber;
+                    var price = record.Price;
+                    var finish = record.Finish;
+
+                    var link = $"{Paths.PagePath}/{setCode}/{collectorNumber}/{Lang}";
+                    var message =
+                        $" <li> {price} <b><a href=\"{link}\">{name}</a></b> {setCode} - {finish} ({quantity})</li>";
+                    linesList.Add(message);
+                }
             }
         }
 
         private void CalculateCardsPrice(string path)
         {
-            using var reader = new StreamReader(path);
-            using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
-            var records = csv.GetRecords<CardModel>();
-
-            foreach (var record in records)
+            using (var reader = new StreamReader(path))
+            using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
             {
-                var quantity = record.Quantity;
-                var price = record.Price;
-                var quantityConverted = Convert.ToInt32(quantity);
-                var priceConverted = Convert.ToSingle(price?.Remove(0, 1));
+                var records = csv.GetRecords<CardModel>();
 
-                _cardsAmount += quantityConverted;
-                _priceAmount += priceConverted * quantityConverted;
+                foreach (var record in records)
+                {
+                    var quantity = record.Quantity;
+                    var price = record.Price;
+                    var quantityConverted = Convert.ToInt32(quantity);
+                    var priceConverted = Convert.ToSingle(price?.Remove(0, 1));
+
+                    _cardsAmount += quantityConverted;
+                    _priceAmount += priceConverted * quantityConverted;
+                }
+
+                _priceAmount = (float)Math.Round(_priceAmount, 2);
             }
-
-            _priceAmount = (float)Math.Round(_priceAmount, 2);
         }
     }
 }

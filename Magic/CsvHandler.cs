@@ -31,12 +31,14 @@ namespace Magic
             {
                 if (File.Exists(file))
                 {
-                    using var reader = new StreamReader(file);
-                    using var csv = new CsvReader(reader, CultureInfo.InvariantCulture);
-                    var records = csv.GetRecords<CardModel>();
+                    using (var reader = new StreamReader(file))
+                    using (var csv = new CsvReader(reader, CultureInfo.InvariantCulture))
+                    {
+                        var records = csv.GetRecords<CardModel>();
 
-                    foreach (var record in records)
-                        _records.Add(record);
+                        foreach (var record in records)
+                            _records.Add(record);
+                    }
                 }
                 else
                 {
@@ -49,11 +51,11 @@ namespace Magic
         {
             if (_records.Count > 0)
             {
-                using var writer = new StreamWriter(_outputDataPath);
-                using var csv = new CsvWriter(writer, CultureInfo.InvariantCulture);
-
-                csv.WriteRecords(_records);
-                writer.Flush();
+                using (var writer = new StreamWriter(_outputDataPath))
+                using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
+                {
+                    csv.WriteRecords(_records);
+                }
             }
             else
             {
