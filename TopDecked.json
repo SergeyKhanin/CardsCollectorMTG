@@ -30,6 +30,9 @@
     "Name": "Plains"
   },
   {
+    "Name": "Plains"
+  },
+  {
     "Name": "Mysterious Tome // Chilling Chronicle"
   },
   {
@@ -1314,6 +1317,51 @@
     "Name": "Rally for the Throne"
   },
   {
+    "Name": "Rat Colony"
+  },
+  {
+    "Name": "Final Parting"
+  },
+  {
+    "Name": "Goblin Warchief"
+  },
+  {
+    "Name": "Evra, Halcyon Witness"
+  },
+  {
+    "Name": "Amaranthine Wall"
+  },
+  {
+    "Name": "Nezumi Prowler"
+  },
+  {
+    "Name": "Sunblade Samurai"
+  },
+  {
+    "Name": "Mirrorshell Crab"
+  },
+  {
+    "Name": "March of Wretched Sorrow"
+  },
+  {
+    "Name": "Discover the Impossible"
+  },
+  {
+    "Name": "Thirst for Knowledge"
+  },
+  {
+    "Name": "Zirda, the Dawnwaker"
+  },
+  {
+    "Name": "Footfall Crater"
+  },
+  {
+    "Name": "Charge of the Forever-Beast"
+  },
+  {
+    "Name": "Exuberant Wolfbear"
+  },
+  {
     "Name": "Satyr"
   },
   {
@@ -1389,6 +1437,9 @@
     "Name": "Human Soldier"
   },
   {
+    "Name": "Human Soldier"
+  },
+  {
     "Name": "Goblin"
   },
   {
@@ -1441,6 +1492,12 @@
   },
   {
     "Name": "On an Adventure"
+  },
+  {
+    "Name": "Saproling"
+  },
+  {
+    "Name": "Construct"
   },
   {
     "Name": "Noxious Ghoul"

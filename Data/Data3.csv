@@ -1,44 +1,47 @@
 QUANTITY,"NAME",SETCODE,"SETNAME","COLLECTOR NUMBER",FINISH,PRICE,RARITY,ID,ACQUIRED DATE,ACQUIRED PRICE,LANG,PRICE SALE,SIGNING,ALTERATION,CONDITION,NOTES,TAGS
-3,"Satyr",tthb,"Theros Beyond Death Tokens",9,nonfoil,$0.06,common,903e30f3-580e-4a14-989b-ae0632363407,2024-01-01T17:41:20.952Z
-2,"Zombie",tafr,"Adventures in the Forgotten Realms Tokens",9,nonfoil,$0.19,common,0b08d210-01cb-46c5-9150-4dfb47f50ae7,2024-01-01T17:42:52.240Z
-1,"Zombie",tthb,"Theros Beyond Death Tokens",7,nonfoil,$0.17,common,6b3e6b4d-d798-4c6a-8a09-255be2a6df2c,2024-01-01T17:43:07.201Z
-1,"Bird",tkhm,"Kaldheim Tokens",5,nonfoil,$0.15,common,1a0cb299-057d-4c39-9d73-3a3512526e4a,2024-01-01T17:37:20.164Z
+3,"Satyr",tthb,"Theros Beyond Death Tokens",9,nonfoil,$0.05,common,903e30f3-580e-4a14-989b-ae0632363407,2024-01-01T17:41:20.952Z
+2,"Zombie",tafr,"Adventures in the Forgotten Realms Tokens",9,nonfoil,$0.20,common,0b08d210-01cb-46c5-9150-4dfb47f50ae7,2024-01-01T17:42:52.240Z
+1,"Zombie",tthb,"Theros Beyond Death Tokens",7,nonfoil,$0.15,common,6b3e6b4d-d798-4c6a-8a09-255be2a6df2c,2024-01-01T17:43:07.201Z
+1,"Bird",tkhm,"Kaldheim Tokens",5,nonfoil,$0.14,common,1a0cb299-057d-4c39-9d73-3a3512526e4a,2024-01-01T17:37:20.164Z
 1,"Zombie Giant",ddr,"Duel Decks: Nissa vs. Ob Nixilis",73,nonfoil,$0.09,common,094ceb6a-51fa-4347-b1be-ae4a80b189be,2024-01-01T17:43:27.097Z
-2,"Dwarf Berserker",tkhm,"Kaldheim Tokens",12,nonfoil,$0.08,common,142bbbe1-4446-4d80-b82d-0df8ef17eac1,2024-01-01T17:39:35.902Z
-4,"Elemental",tstx,"Strixhaven: School of Mages Tokens",2,nonfoil,$0.12,common,3d0b9b88-705e-4df0-8a93-3e240b81355b,2024-01-01T17:39:50.934Z
-2,"Zombie",tmid,"Innistrad: Midnight Hunt Tokens",5,nonfoil,$0.27,common,6adb8607-1066-451d-a719-74ad32358278,2024-01-01T17:42:59.230Z
-1,"Dog Illusion",tafr,"Adventures in the Forgotten Realms Tokens",3,nonfoil,$0.38,common,ce3c0bd9-8a37-4164-9937-f35d1c210fe8,2024-01-01T17:39:28.139Z
+2,"Dwarf Berserker",tkhm,"Kaldheim Tokens",12,nonfoil,$0.06,common,142bbbe1-4446-4d80-b82d-0df8ef17eac1,2024-01-01T17:39:35.902Z
+4,"Elemental",tstx,"Strixhaven: School of Mages Tokens",2,nonfoil,$0.16,common,3d0b9b88-705e-4df0-8a93-3e240b81355b,2024-01-01T17:39:50.934Z
+2,"Zombie",tmid,"Innistrad: Midnight Hunt Tokens",5,nonfoil,$0.37,common,6adb8607-1066-451d-a719-74ad32358278,2024-01-01T17:42:59.230Z
+1,"Dog Illusion",tafr,"Adventures in the Forgotten Realms Tokens",3,nonfoil,$0.41,common,ce3c0bd9-8a37-4164-9937-f35d1c210fe8,2024-01-01T17:39:28.139Z
 1,"Elemental",tmid,"Innistrad: Midnight Hunt Tokens",7,nonfoil,$0.11,common,c4052aed-981b-41d0-85f0-20c2599811ba,2024-01-01T17:40:05.079Z
 1,"Giant Wizard",tkhm,"Kaldheim Tokens",6,nonfoil,$0.09,common,a40a0cb8-0caf-4dd1-b7d0-abbc626985d2,2024-01-01T17:40:32.328Z
-1,"Zombie Berserker",tkhm,"Kaldheim Tokens",9,nonfoil,$0.17,common,e4bbd379-6728-4c6b-b375-295926fe6b00,2024-01-01T17:43:21.210Z
-4,"Treasure",tstx,"Strixhaven: School of Mages Tokens",7,nonfoil,$0.13,common,1a2d027f-8996-4761-a776-47cd428f6779,2024-01-01T17:42:03.468Z
-1,"Treasure",tafr,"Adventures in the Forgotten Realms Tokens",15,nonfoil,$0.13,common,a3a684b7-27e0-4d9e-a064-9e03c6e50c89,2024-01-01T17:42:28.907Z
-3,"Treasure",tkhm,"Kaldheim Tokens",19,nonfoil,$0.18,common,4ae9f454-4f8c-4123-9886-674bc439dfe7,2024-01-01T17:42:10.287Z
+1,"Zombie Berserker",tkhm,"Kaldheim Tokens",9,nonfoil,$0.15,common,e4bbd379-6728-4c6b-b375-295926fe6b00,2024-01-01T17:43:21.210Z
+4,"Treasure",tstx,"Strixhaven: School of Mages Tokens",7,nonfoil,$0.18,common,1a2d027f-8996-4761-a776-47cd428f6779,2024-01-01T17:42:03.468Z
+1,"Treasure",tafr,"Adventures in the Forgotten Realms Tokens",15,nonfoil,$0.19,common,a3a684b7-27e0-4d9e-a064-9e03c6e50c89,2024-01-01T17:42:28.907Z
+3,"Treasure",tkhm,"Kaldheim Tokens",19,nonfoil,$0.16,common,4ae9f454-4f8c-4123-9886-674bc439dfe7,2024-01-01T17:42:10.287Z
 1,"Treasure",tmom,"March of the Machine Tokens",20,nonfoil,$0.08,common,86e82686-0574-4fb3-8c3b-c6dbe3b24c8d,2024-01-01T17:42:16.760Z
 2,"Foretell",tkhm,"Kaldheim Tokens",23,nonfoil,$0.10,common,fb02637f-1385-4d3d-8dc0-de513db7633a,2024-01-01T17:43:33.479Z
-1,"Spirit",tkhm,"Kaldheim Tokens",4,nonfoil,$0.13,common,95694c03-2b3b-455c-8361-0799c078bf04,2024-01-01T17:41:43.503Z
-4,"Inkling",tstx,"Strixhaven: School of Mages Tokens",4,nonfoil,$0.19,common,c9deae5c-80d4-4701-b425-91853b7ee03b,2024-01-01T17:40:58.636Z
+1,"Spirit",tkhm,"Kaldheim Tokens",4,nonfoil,$0.14,common,95694c03-2b3b-455c-8361-0799c078bf04,2024-01-01T17:41:43.503Z
+4,"Inkling",tstx,"Strixhaven: School of Mages Tokens",4,nonfoil,$0.18,common,c9deae5c-80d4-4701-b425-91853b7ee03b,2024-01-01T17:40:58.636Z
 3,"The Atropal",tafr,"Adventures in the Forgotten Realms Tokens",5,nonfoil,$0.25,common,65f8e40f-fb5e-4ab8-add3-a8b87e7bcdd9,2024-01-01T17:41:56.327Z
-2,"Faerie Dragon",tafr,"Adventures in the Forgotten Realms Tokens",4,nonfoil,$0.49,common,78eb6e0c-3630-46bf-b124-1ff2ddddf63e,2024-01-01T17:40:18.261Z
-2,"Eldrazi Scion",ddr,"Duel Decks: Nissa vs. Ob Nixilis",71,nonfoil,$0.76,common,a7ba0398-35e1-4733-ad29-e853757d6f24,2024-01-01T17:39:43.157Z
+2,"Faerie Dragon",tafr,"Adventures in the Forgotten Realms Tokens",4,nonfoil,$0.54,common,78eb6e0c-3630-46bf-b124-1ff2ddddf63e,2024-01-01T17:40:18.261Z
+2,"Eldrazi Scion",ddr,"Duel Decks: Nissa vs. Ob Nixilis",71,nonfoil,$0.81,common,a7ba0398-35e1-4733-ad29-e853757d6f24,2024-01-01T17:39:43.157Z
 3,"Spirit",tstx,"Strixhaven: School of Mages Tokens",6,nonfoil,$0.05,common,f98c0167-7434-4607-87c4-315fa8b6972e,2024-01-01T17:41:49.963Z
-1,"Orc Army",tltr,"Tales of Middle-earth Tokens",6,nonfoil,$0.11,common,db598f33-2ff9-4e0b-a067-05fecc03435f,2024-01-16T19:48:00.738Z
-3,"Human Soldier",tthb,"Theros Beyond Death Tokens",2,nonfoil,$0.09,common,1e76f0e3-9411-401d-ab38-9c3c64769483,2024-01-01T17:40:45.708Z
+1,"Orc Army",tltr,"Tales of Middle-earth Tokens",6,nonfoil,$0.16,common,db598f33-2ff9-4e0b-a067-05fecc03435f,2024-01-16T19:48:00.738Z
+3,"Human Soldier",tthb,"Theros Beyond Death Tokens",2,nonfoil,$0.11,common,1e76f0e3-9411-401d-ab38-9c3c64769483,2024-01-01T17:40:45.708Z
+1,"Human Soldier",tiko,"Ikoria: Lair of Behemoths Tokens",3,nonfoil,$0.06,common,90de6d1e-e654-4f4a-8014-061ce69e540f,Thu Mar 07 2024 08:11:58 GMT+0300 (Москва, стандартное время)
 4,"Goblin",tafr,"Adventures in the Forgotten Realms Tokens",12,nonfoil,$0.25,common,1425e965-7eea-419c-a7ec-c8169fa9edbf,2024-01-01T17:40:39.226Z
 1,"Wolf",tafr,"Adventures in the Forgotten Realms Tokens",14,nonfoil,$0.14,common,1864d5b9-7151-42f0-8d37-8c319c3ab264,2024-01-01T17:42:39.828Z
-1,"Wolf",tmid,"Innistrad: Midnight Hunt Tokens",13,nonfoil,$0.19,common,364e04d9-9a8a-49df-921c-7a9bf62dc731,2024-01-01T17:42:45.505Z
-1,"Nightmare",tthb,"Theros Beyond Death Tokens",12,nonfoil,$0.76,common,c528581f-f671-45ae-8d7a-ae26a4e62ceb,2024-01-01T17:41:05.949Z
-1,"Wall",tthb,"Theros Beyond Death Tokens",14,nonfoil,$0.08,common,dbdd5d53-65e7-42c3-a325-791f11335e62,2024-01-01T17:42:34.414Z
-4,"Plant",ddr,"Duel Decks: Nissa vs. Ob Nixilis",75,nonfoil,$0.85,common,fa0025fa-c530-4151-bcff-48425a4f1db5,2024-01-01T17:41:13.372Z
-1,"Demon",ddr,"Duel Decks: Nissa vs. Ob Nixilis",72,nonfoil,$0.31,common,545639fc-e521-41f2-81b2-a671007321eb,2024-01-01T17:39:03.414Z
+1,"Wolf",tmid,"Innistrad: Midnight Hunt Tokens",13,nonfoil,$0.24,common,364e04d9-9a8a-49df-921c-7a9bf62dc731,2024-01-01T17:42:45.505Z
+1,"Nightmare",tthb,"Theros Beyond Death Tokens",12,nonfoil,$0.68,common,c528581f-f671-45ae-8d7a-ae26a4e62ceb,2024-01-01T17:41:05.949Z
+1,"Wall",tthb,"Theros Beyond Death Tokens",14,nonfoil,$0.11,common,dbdd5d53-65e7-42c3-a325-791f11335e62,2024-01-01T17:42:34.414Z
+4,"Plant",ddr,"Duel Decks: Nissa vs. Ob Nixilis",75,nonfoil,$0.89,common,fa0025fa-c530-4151-bcff-48425a4f1db5,2024-01-01T17:41:13.372Z
+1,"Demon",ddr,"Duel Decks: Nissa vs. Ob Nixilis",72,nonfoil,$0.34,common,545639fc-e521-41f2-81b2-a671007321eb,2024-01-01T17:39:03.414Z
 1,"Troll Warrior",tkhm,"Kaldheim Tokens",16,nonfoil,$0.27,common,8869a8cc-d196-417f-bba5-5ed31bae6a18,2024-01-01T17:42:22.890Z
-3,"Fractal",tstx,"Strixhaven: School of Mages Tokens",3,nonfoil,$0.16,common,910f48ab-b04e-4874-b31d-a86a7bc5af14,2024-01-01T17:40:25.103Z
-1,"Demon Berserker",tkhm,"Kaldheim Tokens",10,nonfoil,$0.13,common,c58def55-f2ca-4c41-b891-c32e5220fc66,2024-01-01T17:39:10.773Z
-1,"Devil",tafr,"Adventures in the Forgotten Realms Tokens",11,nonfoil,$0.11,common,efbc2ca1-4aad-4dfa-9eab-e783f5802078,2024-01-01T17:39:19.472Z
-1,"Elemental",ddr,"Duel Decks: Nissa vs. Ob Nixilis",74,nonfoil,$0.13,common,f2eb4f6d-f437-41c7-ae27-f2df759353e0,2024-01-01T17:40:11.486Z
+3,"Fractal",tstx,"Strixhaven: School of Mages Tokens",3,nonfoil,$0.17,common,910f48ab-b04e-4874-b31d-a86a7bc5af14,2024-01-01T17:40:25.103Z
+1,"Demon Berserker",tkhm,"Kaldheim Tokens",10,nonfoil,$0.14,common,c58def55-f2ca-4c41-b891-c32e5220fc66,2024-01-01T17:39:10.773Z
+1,"Devil",tafr,"Adventures in the Forgotten Realms Tokens",11,nonfoil,$0.10,common,efbc2ca1-4aad-4dfa-9eab-e783f5802078,2024-01-01T17:39:19.472Z
+1,"Elemental",ddr,"Duel Decks: Nissa vs. Ob Nixilis",74,nonfoil,$0.21,common,f2eb4f6d-f437-41c7-ae27-f2df759353e0,2024-01-01T17:40:11.486Z
 2,"Skeleton",tafr,"Adventures in the Forgotten Realms Tokens",6,nonfoil,$0.25,common,fa6fdb57-82f3-4695-b1fa-1f301ea4ef83,2024-01-01T17:41:37.317Z
-1,"Icingdeath, Frost Tongue",tafr,"Adventures in the Forgotten Realms Tokens",2,nonfoil,$1.47,common,a9c981c9-3376-4f6e-b30d-859e5fc7347e,2024-01-01T17:40:51.972Z
-1,"Elemental",tthb,"Theros Beyond Death Tokens",8,nonfoil,$0.17,common,60466c78-155e-442b-8022-795e1e9de8df,2024-01-01T17:39:57.990Z
+1,"Icingdeath, Frost Tongue",tafr,"Adventures in the Forgotten Realms Tokens",2,nonfoil,$1.51,common,a9c981c9-3376-4f6e-b30d-859e5fc7347e,2024-01-01T17:40:51.972Z
+1,"Elemental",tthb,"Theros Beyond Death Tokens",8,nonfoil,$0.18,common,60466c78-155e-442b-8022-795e1e9de8df,2024-01-01T17:39:57.990Z
 1,"Zombie",tmid,"Innistrad: Midnight Hunt Tokens",15,nonfoil,$0.11,common,eb5fb489-6e46-4359-9c3c-ef1702526e5a,2024-01-01T17:43:15.167Z
 1,"Ob Nixilis Reignited Emblem",ddr,"Duel Decks: Nissa vs. Ob Nixilis",76,nonfoil,$0.79,common,1f1f0078-2c85-4903-9fe8-626dcd87dc1e,2024-01-01T17:43:40.198Z
 1,"On an Adventure",teld,"Throne of Eldraine Tokens",20,nonfoil,$0.25,common,a8d50cf9-03e6-467a-aadf-84a24106ffa9,Sat Jan 27 2024 23:14:28 GMT+0300 (Москва, стандартное время)
+1,"Saproling",tdom,"Dominaria Tokens",13,nonfoil,$0.10,common,a49da8fe-559f-4c34-b904-c285188fb98d,Mon Jan 29 2024 19:06:16 GMT+0300 (Москва, стандартное время)
+1,"Construct",tneo,"Kamigawa: Neon Dynasty Tokens",15,nonfoil,$0.06,common,2770f887-7e96-44d1-864a-8c0504a39785,Thu Feb 01 2024 18:09:45 GMT+0300 (Москва, стандартное время)

@@ -1,14 +1,14 @@
 QUANTITY,"NAME",SETCODE,"SETNAME","COLLECTOR NUMBER",FINISH,PRICE,RARITY,ID,ACQUIRED DATE,ACQUIRED PRICE,LANG,PRICE SALE,SIGNING,ALTERATION,CONDITION,NOTES,TAGS
-1,"Noxious Ghoul",plist,"The List",475,nonfoil,$5.40,uncommon,f83c17b6-9990-409c-85cc-709ad2201b29,2023-11-22T06:51:12.669Z
-1,"Idyllic Tutor",thb,"Theros Beyond Death",24,nonfoil,$6.07,rare,f06edd53-f3ac-44b0-a087-5670ba8f0fa5,2023-11-23T18:32:29.324Z
-1,"Acererak the Archlich",afr,"Adventures in the Forgotten Realms",87,foil,$4.51,mythic,dd52d0bd-3abd-401c-9f56-ee911613da3b,2023-11-22T06:51:12.669Z
-1,"Shadowspear",thb,"Theros Beyond Death",236,nonfoil,$19.70,rare,939c6e19-4b27-4023-bb9c-ae440f91e21c,2023-11-23T18:31:30.711Z
-1,"Beledros Witherbloom",stx,"Strixhaven: School of Mages",282,nonfoil,$9.69,mythic,e34dd2ef-a52d-48b6-becc-825f0e78eb75,2023-11-22T06:51:12.669Z
-1,"Halvar, God of Battle // Sword of the Realms",khm,"Kaldheim",299,nonfoil,$8.36,mythic,feddb683-a8f8-4def-bd3e-6d630c42cd34,2023-12-23T07:27:44.086Z
-1,"Elesh Norn // The Argent Etchings",mom,"March of the Machine",12,nonfoil,$6.25,mythic,d8999135-ddb1-4e4c-b885-e25f23dac3d3,2023-11-23T18:30:02.972Z
-1,"The Meathook Massacre",mid,"Innistrad: Midnight Hunt",112,nonfoil,$30.46,mythic,08950015-eee5-4327-888c-82dfd13bb9ad,2023-11-26T13:27:10.071Z
-1,"Blight Sickle",plist,"The List",245,nonfoil,$0.11,common,b3f07615-b945-4a61-a4e9-2872346de38b,2023-12-31T11:35:25.177Z
-1,"The World Tree",khm,"Kaldheim",275,nonfoil,$4.48,rare,a70cb6d9-3955-4064-917b-11dec26440c5,2023-12-23T07:27:26.171Z
-1,"Heliod, Sun-Crowned",thb,"Theros Beyond Death",259,foil,$15.48,mythic,e11cf760-da35-41f2-8cf5-a5141103eeb3,2023-11-23T18:09:49.073Z
-1,"Worn Powerstone",plist,"The List",281,nonfoil,$0.67,uncommon,3012fb07-75d9-4fe2-a233-b471e5a65981,2023-12-31T11:38:16.536Z
-1,"Toils of Night and Day",plist,"The List",520,nonfoil,$0.09,common,ffbafa33-e9c5-4507-a560-1b8a2f454fca,2023-11-27T18:44:21.980Z
+1,"Noxious Ghoul",plst,"The List",LGN-77,nonfoil,$5.58,uncommon,f83c17b6-9990-409c-85cc-709ad2201b29,2023-11-22T06:51:12.669Z
+1,"Idyllic Tutor",thb,"Theros Beyond Death",24,nonfoil,$5.88,rare,f06edd53-f3ac-44b0-a087-5670ba8f0fa5,2023-11-23T18:32:29.324Z
+1,"Acererak the Archlich",afr,"Adventures in the Forgotten Realms",87,foil,$4.54,mythic,dd52d0bd-3abd-401c-9f56-ee911613da3b,2023-11-22T06:51:12.669Z
+1,"Shadowspear",thb,"Theros Beyond Death",236,nonfoil,$21.00,rare,939c6e19-4b27-4023-bb9c-ae440f91e21c,2023-11-23T18:31:30.711Z
+1,"Beledros Witherbloom",stx,"Strixhaven: School of Mages",282,nonfoil,$9.74,mythic,e34dd2ef-a52d-48b6-becc-825f0e78eb75,2023-11-22T06:51:12.669Z
+1,"Halvar, God of Battle // Sword of the Realms",khm,"Kaldheim",299,nonfoil,$8.02,mythic,feddb683-a8f8-4def-bd3e-6d630c42cd34,2023-12-23T07:27:44.086Z
+1,"Elesh Norn // The Argent Etchings",mom,"March of the Machine",12,nonfoil,$7.00,mythic,d8999135-ddb1-4e4c-b885-e25f23dac3d3,2023-11-23T18:30:02.972Z
+1,"The Meathook Massacre",mid,"Innistrad: Midnight Hunt",112,nonfoil,$36.62,mythic,08950015-eee5-4327-888c-82dfd13bb9ad,2023-11-26T13:27:10.071Z
+1,"Blight Sickle",plst,"The List",SHM-247,nonfoil,$0.07,common,b3f07615-b945-4a61-a4e9-2872346de38b,2023-12-31T11:35:25.177Z
+1,"The World Tree",khm,"Kaldheim",275,nonfoil,$4.50,rare,a70cb6d9-3955-4064-917b-11dec26440c5,2023-12-23T07:27:26.171Z
+1,"Heliod, Sun-Crowned",thb,"Theros Beyond Death",259,foil,$16.22,mythic,e11cf760-da35-41f2-8cf5-a5141103eeb3,2023-11-23T18:09:49.073Z
+1,"Worn Powerstone",plst,"The List",USG-318,nonfoil,$0.72,uncommon,3012fb07-75d9-4fe2-a233-b471e5a65981,2023-12-31T11:38:16.536Z
+1,"Toils of Night and Day",plst,"The List",BOK-57,nonfoil,$0.10,common,ffbafa33-e9c5-4507-a560-1b8a2f454fca,2023-11-27T18:44:21.980Z

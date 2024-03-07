@@ -1,495 +1,514 @@
 QUANTITY,NAME,SETCODE,SETNAME,COLLECTOR NUMBER,FINISH,PRICE,RARITY,ID,ACQUIRED DATE
-1,Plains,afr,Adventures in the Forgotten Realms,265,foil,$0.12,common,86626d69-78e0-42b9-81ed-fef46e3a89f7,2023-11-22T06:48:24.771Z
+1,Plains,afr,Adventures in the Forgotten Realms,265,foil,$0.10,common,86626d69-78e0-42b9-81ed-fef46e3a89f7,2023-11-22T06:48:24.771Z
 1,Plains,afr,Adventures in the Forgotten Realms,262,foil,$0.12,common,879f7f54-25a3-440b-848d-0e780277a681,2023-11-22T06:48:24.770Z
-1,Plains,afr,Adventures in the Forgotten Realms,263,foil,$0.12,common,fb4f4abf-841b-4fae-9a53-505a2f8dc1ff,2023-11-22T06:48:24.771Z
-1,Plains,afr,Adventures in the Forgotten Realms,264,foil,$0.09,common,e0d1a81e-6710-4922-ba0a-510966c39449,2023-11-22T06:48:24.771Z
-1,Swamp,afr,Adventures in the Forgotten Realms,273,foil,$0.17,common,166fc328-20d1-4158-bcb6-3cebcf788ef5,2023-11-22T06:48:24.771Z
-1,Swamp,afr,Adventures in the Forgotten Realms,271,foil,$0.12,common,ea640731-b367-4ece-934e-6d86634fc1c8,2023-11-22T06:48:24.771Z
+1,Plains,afr,Adventures in the Forgotten Realms,263,foil,$0.14,common,fb4f4abf-841b-4fae-9a53-505a2f8dc1ff,2023-11-22T06:48:24.771Z
+1,Plains,afr,Adventures in the Forgotten Realms,264,foil,$0.10,common,e0d1a81e-6710-4922-ba0a-510966c39449,2023-11-22T06:48:24.771Z
+1,Swamp,afr,Adventures in the Forgotten Realms,273,foil,$0.14,common,166fc328-20d1-4158-bcb6-3cebcf788ef5,2023-11-22T06:48:24.771Z
+1,Swamp,afr,Adventures in the Forgotten Realms,271,foil,$0.09,common,ea640731-b367-4ece-934e-6d86634fc1c8,2023-11-22T06:48:24.771Z
 1,Swamp,afr,Adventures in the Forgotten Realms,270,foil,$0.11,common,ab950987-d88c-4326-98f4-1b1195788921,2023-11-22T06:48:24.771Z
-1,Swamp,afr,Adventures in the Forgotten Realms,272,foil,$0.15,common,76f8def9-ee46-4abf-9059-7d1ec6f24951,2023-11-22T06:48:24.771Z
-1,Forest,afr,Adventures in the Forgotten Realms,278,foil,$0.13,common,b6a46b11-3225-45aa-b54e-4d19d81b51cf,2023-11-22T06:48:24.770Z
-1,Forest,afr,Adventures in the Forgotten Realms,280,foil,$0.13,common,6cdc5ca9-6d01-4ee3-8117-3c1e74320553,2023-11-22T06:48:24.770Z
-1,Forest,afr,Adventures in the Forgotten Realms,279,foil,$0.14,common,aab1cc13-8959-4914-afe8-58daf9529f61,2023-11-22T06:48:24.771Z
-1,Forest,afr,Adventures in the Forgotten Realms,281,foil,$0.17,common,ee856e7a-37ee-435c-80e8-d0ac6f15892f,2023-11-22T06:48:24.771Z
-1,Forsworn Paladin,afr,Adventures in the Forgotten Realms,375,foil,$0.38,rare,caa3a489-5fa3-421e-9655-755f31414f3d,2023-11-22T06:48:24.771Z
-1,Mountain,afr,Adventures in the Forgotten Realms,276,foil,$0.12,common,87d1c48f-1ca3-43ea-8109-964b29bb2d50,2023-11-22T06:48:24.771Z
-1,Mountain,afr,Adventures in the Forgotten Realms,277,foil,$0.09,common,cf9095db-44ad-444b-bd9d-4a06102fe230,2023-11-22T06:48:24.771Z
-1,Mountain,afr,Adventures in the Forgotten Realms,274,foil,$0.11,common,edabc558-2c54-4c7b-a6fa-1e75ddcf12f9,2023-11-22T06:48:24.771Z
-1,Mountain,afr,Adventures in the Forgotten Realms,275,foil,$0.13,common,e10e313f-ba75-4324-b1ac-f2bbae99f7ab,2023-11-22T06:48:24.771Z
-1,Reaper's Talisman,afr,Adventures in the Forgotten Realms,117,foil,$0.20,uncommon,93b68168-e77d-4745-9393-726ef9fb72ec,2023-11-22T06:48:24.771Z
+1,Swamp,afr,Adventures in the Forgotten Realms,272,foil,$0.13,common,76f8def9-ee46-4abf-9059-7d1ec6f24951,2023-11-22T06:48:24.771Z
+1,Forest,afr,Adventures in the Forgotten Realms,278,foil,$0.10,common,b6a46b11-3225-45aa-b54e-4d19d81b51cf,2023-11-22T06:48:24.770Z
+1,Forest,afr,Adventures in the Forgotten Realms,280,foil,$0.10,common,6cdc5ca9-6d01-4ee3-8117-3c1e74320553,2023-11-22T06:48:24.770Z
+1,Forest,afr,Adventures in the Forgotten Realms,279,foil,$0.15,common,aab1cc13-8959-4914-afe8-58daf9529f61,2023-11-22T06:48:24.771Z
+1,Forest,afr,Adventures in the Forgotten Realms,281,foil,$0.13,common,ee856e7a-37ee-435c-80e8-d0ac6f15892f,2023-11-22T06:48:24.771Z
+1,Forsworn Paladin,afr,Adventures in the Forgotten Realms,375,foil,$0.30,rare,caa3a489-5fa3-421e-9655-755f31414f3d,2023-11-22T06:48:24.771Z
+1,Mountain,afr,Adventures in the Forgotten Realms,276,foil,$0.09,common,87d1c48f-1ca3-43ea-8109-964b29bb2d50,2023-11-22T06:48:24.771Z
+1,Mountain,afr,Adventures in the Forgotten Realms,277,foil,$0.07,common,cf9095db-44ad-444b-bd9d-4a06102fe230,2023-11-22T06:48:24.771Z
+1,Mountain,afr,Adventures in the Forgotten Realms,274,foil,$0.12,common,edabc558-2c54-4c7b-a6fa-1e75ddcf12f9,2023-11-22T06:48:24.771Z
+1,Mountain,afr,Adventures in the Forgotten Realms,275,foil,$0.15,common,e10e313f-ba75-4324-b1ac-f2bbae99f7ab,2023-11-22T06:48:24.771Z
+1,Reaper's Talisman,afr,Adventures in the Forgotten Realms,117,foil,$0.24,uncommon,93b68168-e77d-4745-9393-726ef9fb72ec,2023-11-22T06:48:24.771Z
 1,Treasure Chest,afr,Adventures in the Forgotten Realms,397,foil,$0.20,rare,41ae20c0-b056-4c4f-a6d0-bbd72c37d0fc,2023-11-22T06:48:24.771Z
-1,Arcane Investigator,afr,Adventures in the Forgotten Realms,46,foil,$0.07,common,dc457520-9947-4f65-bbe7-9b95bd2c23af,2023-11-22T06:48:24.771Z
-1,Island,afr,Adventures in the Forgotten Realms,266,foil,$0.14,common,9e70c602-cb80-472b-9c8d-9625de084fe7,2023-11-22T06:48:24.771Z
+1,Arcane Investigator,afr,Adventures in the Forgotten Realms,46,foil,$0.05,common,dc457520-9947-4f65-bbe7-9b95bd2c23af,2023-11-22T06:48:24.771Z
+1,Island,afr,Adventures in the Forgotten Realms,266,foil,$0.11,common,9e70c602-cb80-472b-9c8d-9625de084fe7,2023-11-22T06:48:24.771Z
 1,Island,afr,Adventures in the Forgotten Realms,267,foil,$0.10,common,29d575fc-037b-421a-a205-12d492e9361e,2023-11-22T06:48:24.771Z
-1,Island,afr,Adventures in the Forgotten Realms,269,foil,$0.08,common,1afa60b6-cd0d-4c23-af81-88049ea45475,2023-11-22T06:48:24.771Z
-1,Island,afr,Adventures in the Forgotten Realms,268,foil,$0.11,common,8d04a06f-06a7-410d-a714-3b8b96ee3319,2023-11-22T06:48:24.771Z
-1,Rimeshield Frost Giant,afr,Adventures in the Forgotten Realms,310,foil,$0.06,common,ed6f1fc7-be88-46a3-8bd9-3f16332c2bd8,2023-11-22T06:48:24.771Z
+1,Island,afr,Adventures in the Forgotten Realms,269,foil,$0.07,common,1afa60b6-cd0d-4c23-af81-88049ea45475,2023-11-22T06:48:24.771Z
+1,Island,afr,Adventures in the Forgotten Realms,268,foil,$0.13,common,8d04a06f-06a7-410d-a714-3b8b96ee3319,2023-11-22T06:48:24.771Z
+1,Rimeshield Frost Giant,afr,Adventures in the Forgotten Realms,310,foil,$0.05,common,ed6f1fc7-be88-46a3-8bd9-3f16332c2bd8,2023-11-22T06:48:24.771Z
 1,You Find the Villains' Lair,afr,Adventures in the Forgotten Realms,84,foil,$0.18,common,c6704458-6e9e-4795-a56d-25b68fbf9672,2023-12-31T11:43:12.780Z
 1,Monk Class,afr,Adventures in the Forgotten Realms,228,foil,$0.34,rare,b2edd708-46ee-4963-b7e6-b631616d78fe,2023-11-22T06:48:24.771Z
-1,Air-Cult Elemental,afr,Adventures in the Forgotten Realms,45,foil,$0.02,common,fba82564-a9a9-4ded-a5fa-0e5fab2a3faa,2023-11-22T06:48:24.771Z
-1,Chaos Channeler,afr,Adventures in the Forgotten Realms,136,foil,$0.22,uncommon,7b9bb587-f732-42c9-a2a7-152629889997,2023-12-31T11:42:12.564Z
-1,Gelatinous Cube,afr,Adventures in the Forgotten Realms,105,nonfoil,$0.13,rare,1c472e70-300c-4881-86e7-c5ca690ab9b6,2023-11-24T13:34:38.249Z
-1,Hulking Bugbear,afr,Adventures in the Forgotten Realms,149,nonfoil,$0.04,uncommon,f55d43d4-5f63-45c3-b8f8-0aebd23750a5,2023-11-24T13:34:38.249Z
-1,Portable Hole,afr,Adventures in the Forgotten Realms,33,nonfoil,$0.38,uncommon,80fca8c0-ae3e-439e-b202-228b9f360e9a,2023-11-24T13:34:38.249Z
-1,Blink Dog,afr,Adventures in the Forgotten Realms,3,nonfoil,$0.05,uncommon,cc040492-7fb7-4fdb-aafe-8179e5f2b28c,2023-11-24T13:34:38.249Z
-1,Evolving Wilds,afr,Adventures in the Forgotten Realms,353,nonfoil,$0.16,common,bf6069f2-7a32-4cb7-b2ab-ea6b51267cca,2024-01-01T16:16:03.304Z
-1,"Delina, Wild Mage",afr,Adventures in the Forgotten Realms,138,nonfoil,$4.59,rare,e87459aa-af8f-4bd2-a310-151353083a2e,2023-11-24T13:34:38.249Z
-1,"Delina, Wild Mage",afr,Adventures in the Forgotten Realms,138,foil,$4.59,rare,e87459aa-af8f-4bd2-a310-151353083a2e,2023-12-31T11:42:19.564Z
-1,Barbarian Class,afr,Adventures in the Forgotten Realms,131,nonfoil,$0.13,uncommon,647c2269-bdc7-4455-9158-73abbff6e50e,2024-01-01T16:16:37.726Z
-2,Druid Class,afr,Adventures in the Forgotten Realms,180,nonfoil,$0.87,uncommon,09278e95-eaae-4cd4-a0d8-a2d15b0abb58,2023-11-24T13:34:38.249Z
-1,"Kalain, Reclusive Painter",afr,Adventures in the Forgotten Realms,342,nonfoil,$0.18,uncommon,5df8cb7c-ad05-473b-9deb-7ce56c6799b8,2024-01-01T16:12:33.216Z
-1,Feywild Trickster,afr,Adventures in the Forgotten Realms,58,nonfoil,$0.07,uncommon,c93e0296-69e0-45e0-a1c2-0214a53c52d0,2024-01-01T16:13:57.011Z
+1,Air-Cult Elemental,afr,Adventures in the Forgotten Realms,45,foil,$0.04,common,fba82564-a9a9-4ded-a5fa-0e5fab2a3faa,2023-11-22T06:48:24.771Z
+1,Chaos Channeler,afr,Adventures in the Forgotten Realms,136,foil,$0.19,uncommon,7b9bb587-f732-42c9-a2a7-152629889997,2023-12-31T11:42:12.564Z
+1,Gelatinous Cube,afr,Adventures in the Forgotten Realms,105,nonfoil,$0.14,rare,1c472e70-300c-4881-86e7-c5ca690ab9b6,2023-11-24T13:34:38.249Z
+1,Hulking Bugbear,afr,Adventures in the Forgotten Realms,149,nonfoil,$0.03,uncommon,f55d43d4-5f63-45c3-b8f8-0aebd23750a5,2023-11-24T13:34:38.249Z
+1,Portable Hole,afr,Adventures in the Forgotten Realms,33,nonfoil,$0.36,uncommon,80fca8c0-ae3e-439e-b202-228b9f360e9a,2023-11-24T13:34:38.249Z
+1,Blink Dog,afr,Adventures in the Forgotten Realms,3,nonfoil,$0.07,uncommon,cc040492-7fb7-4fdb-aafe-8179e5f2b28c,2023-11-24T13:34:38.249Z
+1,Evolving Wilds,afr,Adventures in the Forgotten Realms,353,nonfoil,$0.25,common,bf6069f2-7a32-4cb7-b2ab-ea6b51267cca,2024-01-01T16:16:03.304Z
+1,"Delina, Wild Mage",afr,Adventures in the Forgotten Realms,138,nonfoil,$6.35,rare,e87459aa-af8f-4bd2-a310-151353083a2e,2023-11-24T13:34:38.249Z
+1,"Delina, Wild Mage",afr,Adventures in the Forgotten Realms,138,foil,$6.62,rare,e87459aa-af8f-4bd2-a310-151353083a2e,2023-12-31T11:42:19.564Z
+1,Barbarian Class,afr,Adventures in the Forgotten Realms,131,nonfoil,$0.23,uncommon,647c2269-bdc7-4455-9158-73abbff6e50e,2024-01-01T16:16:37.726Z
+2,Druid Class,afr,Adventures in the Forgotten Realms,180,nonfoil,$0.95,uncommon,09278e95-eaae-4cd4-a0d8-a2d15b0abb58,2023-11-24T13:34:38.249Z
+1,"Kalain, Reclusive Painter",afr,Adventures in the Forgotten Realms,342,nonfoil,$0.19,uncommon,5df8cb7c-ad05-473b-9deb-7ce56c6799b8,2024-01-01T16:12:33.216Z
+1,Feywild Trickster,afr,Adventures in the Forgotten Realms,58,nonfoil,$0.08,uncommon,c93e0296-69e0-45e0-a1c2-0214a53c52d0,2024-01-01T16:13:57.011Z
 1,You Meet in a Tavern,afr,Adventures in the Forgotten Realms,215,nonfoil,$0.04,uncommon,593aa59a-4025-4df8-9f27-188fc7712fde,2024-01-01T16:17:37.380Z
 1,Iron Golem,afr,Adventures in the Forgotten Realms,247,nonfoil,$0.02,uncommon,5ae24ef5-b12c-48ee-935a-00e048fb8d0f,2023-11-24T13:34:38.249Z
-1,Blue Dragon,afr,Adventures in the Forgotten Realms,49,nonfoil,$0.04,uncommon,98dea71b-2778-4374-8ea2-7fa82f0f6110,2023-11-24T13:34:38.249Z
-1,Prosperous Innkeeper,afr,Adventures in the Forgotten Realms,200,nonfoil,$1.02,uncommon,096d3c0c-98e2-4cfc-a6e1-fddb0359c63f,2024-01-01T16:13:08.447Z
-2,Wandering Troubadour,afr,Adventures in the Forgotten Realms,210,nonfoil,$0.04,uncommon,d3c7f123-31c8-469b-85e5-d20c4d21b2a0,2023-11-24T13:34:38.249Z
-1,"Trelasarra, Moon Dancer",afr,Adventures in the Forgotten Realms,236,nonfoil,$0.16,uncommon,f6a4b54c-a8fa-464e-a3dd-f3f3a08606f5,2024-01-01T16:13:22.692Z
-1,Guardian of Faith,afr,Adventures in the Forgotten Realms,18,nonfoil,$4.09,rare,08e3dda1-a1d3-48c9-8c81-da7eae20ac8a,2024-01-01T16:14:02.739Z
+1,Blue Dragon,afr,Adventures in the Forgotten Realms,49,nonfoil,$0.06,uncommon,98dea71b-2778-4374-8ea2-7fa82f0f6110,2023-11-24T13:34:38.249Z
+1,Prosperous Innkeeper,afr,Adventures in the Forgotten Realms,200,nonfoil,$0.96,uncommon,096d3c0c-98e2-4cfc-a6e1-fddb0359c63f,2024-01-01T16:13:08.447Z
+2,Wandering Troubadour,afr,Adventures in the Forgotten Realms,210,nonfoil,$0.03,uncommon,d3c7f123-31c8-469b-85e5-d20c4d21b2a0,2023-11-24T13:34:38.249Z
+1,"Trelasarra, Moon Dancer",afr,Adventures in the Forgotten Realms,236,nonfoil,$0.23,uncommon,f6a4b54c-a8fa-464e-a3dd-f3f3a08606f5,2024-01-01T16:13:22.692Z
+1,Guardian of Faith,afr,Adventures in the Forgotten Realms,18,nonfoil,$5.29,rare,08e3dda1-a1d3-48c9-8c81-da7eae20ac8a,2024-01-01T16:14:02.739Z
 1,Treasure Chest,afr,Adventures in the Forgotten Realms,397,foil,$0.20,rare,41ae20c0-b056-4c4f-a6d0-bbd72c37d0fc,2024-01-01T16:18:09.888Z
-1,"Shessra, Death's Whisper",afr,Adventures in the Forgotten Realms,231,nonfoil,$0.04,uncommon,60ca5fef-af21-4e2b-9efa-61e08a638a1f,2023-11-24T13:34:38.249Z
-1,Fly,afr,Adventures in the Forgotten Realms,59,nonfoil,$0.05,uncommon,f1a91cc6-67e1-4f1b-86e2-eb388a75d6ad,2024-01-01T16:16:29.278Z
-2,Eye of Vecna,afr,Adventures in the Forgotten Realms,243,nonfoil,$0.45,rare,b91e2431-500e-441a-881d-094ebef62283,2024-01-01T16:17:42.173Z
-1,Skullport Merchant,afr,Adventures in the Forgotten Realms,120,nonfoil,$0.10,uncommon,2bbb8865-dc37-4d56-9a2d-a92f7462c338,2024-01-01T16:14:31.207Z
-2,Burning Hands,afr,Adventures in the Forgotten Realms,135,nonfoil,$0.07,uncommon,66e2d723-3fa0-4411-8f98-e4e6b3a5e6df,2023-11-24T13:34:38.249Z
-1,Sudden Insight,afr,Adventures in the Forgotten Realms,77,nonfoil,$0.01,uncommon,06ec3c87-d5aa-4f8a-a9bf-ef4e38e21ad1,2023-11-24T13:34:38.249Z
-2,Battle Cry Goblin,afr,Adventures in the Forgotten Realms,132,nonfoil,$0.54,uncommon,9766a427-2bb3-4028-a502-d1194cdc93aa,2024-01-01T16:03:25.243Z
-2,Ingenious Smith,afr,Adventures in the Forgotten Realms,21,nonfoil,$0.16,uncommon,2ad29773-7c1b-410d-9f69-7aa751f6ebca,2024-01-01T16:12:26.950Z
+1,"Shessra, Death's Whisper",afr,Adventures in the Forgotten Realms,231,nonfoil,$0.07,uncommon,60ca5fef-af21-4e2b-9efa-61e08a638a1f,2023-11-24T13:34:38.249Z
+1,Fly,afr,Adventures in the Forgotten Realms,59,nonfoil,$0.07,uncommon,f1a91cc6-67e1-4f1b-86e2-eb388a75d6ad,2024-01-01T16:16:29.278Z
+2,Eye of Vecna,afr,Adventures in the Forgotten Realms,243,nonfoil,$0.35,rare,b91e2431-500e-441a-881d-094ebef62283,2024-01-01T16:17:42.173Z
+1,Skullport Merchant,afr,Adventures in the Forgotten Realms,120,nonfoil,$0.08,uncommon,2bbb8865-dc37-4d56-9a2d-a92f7462c338,2024-01-01T16:14:31.207Z
+2,Burning Hands,afr,Adventures in the Forgotten Realms,135,nonfoil,$0.05,uncommon,66e2d723-3fa0-4411-8f98-e4e6b3a5e6df,2023-11-24T13:34:38.249Z
+1,Sudden Insight,afr,Adventures in the Forgotten Realms,77,nonfoil,$0.02,uncommon,06ec3c87-d5aa-4f8a-a9bf-ef4e38e21ad1,2023-11-24T13:34:38.249Z
+2,Battle Cry Goblin,afr,Adventures in the Forgotten Realms,132,nonfoil,$0.66,uncommon,9766a427-2bb3-4028-a502-d1194cdc93aa,2024-01-01T16:03:25.243Z
+2,Ingenious Smith,afr,Adventures in the Forgotten Realms,21,nonfoil,$0.17,uncommon,2ad29773-7c1b-410d-9f69-7aa751f6ebca,2024-01-01T16:12:26.950Z
 1,Divine Smite,afr,Adventures in the Forgotten Realms,12,nonfoil,$0.03,uncommon,6b8d0852-4df3-4b29-830d-c6975265ef53,2023-11-24T13:34:38.249Z
-1,Goblin Morningstar,afr,Adventures in the Forgotten Realms,145,nonfoil,$0.06,uncommon,998f3785-c806-4848-adcb-d89ea51159c5,2024-01-01T16:17:46.157Z
-2,Rally Maneuver,afr,Adventures in the Forgotten Realms,36,nonfoil,$0.02,uncommon,926ce53e-8e30-4018-a9e7-7266791b5d27,2024-01-01T16:17:01.312Z
-1,Werewolf Pack Leader,afr,Adventures in the Forgotten Realms,211,nonfoil,$1.20,rare,e88e6b39-bb4d-4d69-8007-d42f31bcbc29,2024-01-01T16:13:37.288Z
-1,Bruenor Battlehammer,afr,Adventures in the Forgotten Realms,337,nonfoil,$0.16,uncommon,c620e7d7-60f8-452b-9563-5624791ae893,2023-11-24T13:34:38.249Z
-1,Den of the Bugbear,afr,Adventures in the Forgotten Realms,254,nonfoil,$4.60,rare,f231caf8-56c0-4719-a90d-5e5efbee3148,2023-11-24T13:34:38.249Z
-1,Asmodeus the Archfiend,afr,Adventures in the Forgotten Realms,88,nonfoil,$0.18,rare,a5e6b864-58e7-43b9-9d79-1d0361340960,2023-11-24T13:34:38.249Z
+1,Goblin Morningstar,afr,Adventures in the Forgotten Realms,145,nonfoil,$0.07,uncommon,998f3785-c806-4848-adcb-d89ea51159c5,2024-01-01T16:17:46.157Z
+2,Rally Maneuver,afr,Adventures in the Forgotten Realms,36,nonfoil,$0.01,uncommon,926ce53e-8e30-4018-a9e7-7266791b5d27,2024-01-01T16:17:01.312Z
+1,Werewolf Pack Leader,afr,Adventures in the Forgotten Realms,211,nonfoil,$0.98,rare,e88e6b39-bb4d-4d69-8007-d42f31bcbc29,2024-01-01T16:13:37.288Z
+1,Bruenor Battlehammer,afr,Adventures in the Forgotten Realms,337,nonfoil,$0.17,uncommon,c620e7d7-60f8-452b-9563-5624791ae893,2023-11-24T13:34:38.249Z
+1,Den of the Bugbear,afr,Adventures in the Forgotten Realms,254,nonfoil,$4.59,rare,f231caf8-56c0-4719-a90d-5e5efbee3148,2023-11-24T13:34:38.249Z
+1,Asmodeus the Archfiend,afr,Adventures in the Forgotten Realms,88,nonfoil,$0.23,rare,a5e6b864-58e7-43b9-9d79-1d0361340960,2023-11-24T13:34:38.249Z
 1,Adult Gold Dragon,afr,Adventures in the Forgotten Realms,216,nonfoil,$0.19,rare,67a76010-d932-4727-8b5e-b8e2d14e1362,2024-01-01T16:15:21.981Z
-2,Eccentric Apprentice,afr,Adventures in the Forgotten Realms,57,nonfoil,$0.04,uncommon,3baa08ac-9a94-4e22-91bb-c6966cd0a0de,2023-11-24T13:34:38.249Z
-1,Chaos Channeler,afr,Adventures in the Forgotten Realms,136,nonfoil,$0.06,uncommon,7b9bb587-f732-42c9-a2a7-152629889997,2024-01-01T16:14:45.036Z
-3,Power Word Kill,afr,Adventures in the Forgotten Realms,114,nonfoil,$0.10,uncommon,395b6ce4-143f-4eed-b565-98aa3d6208ef,2023-11-24T13:34:38.249Z
-1,Grim Wanderer,afr,Adventures in the Forgotten Realms,107,nonfoil,$0.04,uncommon,e339f0f7-a79d-4947-a9c4-b9a0949dd06a,2023-11-24T13:34:38.249Z
-1,Choose Your Weapon,afr,Adventures in the Forgotten Realms,175,nonfoil,$0.10,uncommon,213726e4-e2f5-4e52-b05a-21c4bab9927c,2023-11-24T13:34:38.249Z
-1,The Blackstaff of Waterdeep,afr,Adventures in the Forgotten Realms,48,nonfoil,$0.15,rare,3317cbf3-13a1-4471-a23c-de429941e8a4,2023-11-24T13:34:38.249Z
-2,Lightfoot Rogue,afr,Adventures in the Forgotten Realms,111,nonfoil,$0.04,uncommon,9f88de61-8dee-46b3-91b2-d4cdb4db36bf,2024-01-01T16:12:50.851Z
-1,Wight,afr,Adventures in the Forgotten Realms,127,nonfoil,$0.18,rare,f62abe9c-7599-433b-a964-10d6641f3586,2024-01-01T16:13:42.152Z
+2,Eccentric Apprentice,afr,Adventures in the Forgotten Realms,57,nonfoil,$0.03,uncommon,3baa08ac-9a94-4e22-91bb-c6966cd0a0de,2023-11-24T13:34:38.249Z
+1,Chaos Channeler,afr,Adventures in the Forgotten Realms,136,nonfoil,$0.07,uncommon,7b9bb587-f732-42c9-a2a7-152629889997,2024-01-01T16:14:45.036Z
+3,Power Word Kill,afr,Adventures in the Forgotten Realms,114,nonfoil,$0.15,uncommon,395b6ce4-143f-4eed-b565-98aa3d6208ef,2023-11-24T13:34:38.249Z
+1,Grim Wanderer,afr,Adventures in the Forgotten Realms,107,nonfoil,$0.03,uncommon,e339f0f7-a79d-4947-a9c4-b9a0949dd06a,2023-11-24T13:34:38.249Z
+1,Choose Your Weapon,afr,Adventures in the Forgotten Realms,175,nonfoil,$0.12,uncommon,213726e4-e2f5-4e52-b05a-21c4bab9927c,2023-11-24T13:34:38.249Z
+1,The Blackstaff of Waterdeep,afr,Adventures in the Forgotten Realms,48,nonfoil,$0.13,rare,3317cbf3-13a1-4471-a23c-de429941e8a4,2023-11-24T13:34:38.249Z
+2,Lightfoot Rogue,afr,Adventures in the Forgotten Realms,111,nonfoil,$0.09,uncommon,9f88de61-8dee-46b3-91b2-d4cdb4db36bf,2024-01-01T16:12:50.851Z
+1,Wight,afr,Adventures in the Forgotten Realms,127,nonfoil,$0.16,rare,f62abe9c-7599-433b-a964-10d6641f3586,2024-01-01T16:13:42.152Z
 2,"Zalto, Fire Giant Duke",afr,Adventures in the Forgotten Realms,323,nonfoil,$0.13,rare,aa9c6f43-ea54-4ab3-afd5-683e4bd0d3e0,2023-11-24T13:34:38.249Z
-1,You See a Pair of Goblins,afr,Adventures in the Forgotten Realms,170,nonfoil,$0.21,uncommon,b69e7200-96ea-4455-83cc-0a497d56efe5,2024-01-01T16:16:55.463Z
-1,Hobgoblin Bandit Lord,afr,Adventures in the Forgotten Realms,147,nonfoil,$1.50,rare,09e9dc36-f2d8-4384-98cb-e44c00b02433,2023-11-24T13:34:38.249Z
+1,You See a Pair of Goblins,afr,Adventures in the Forgotten Realms,170,nonfoil,$0.19,uncommon,b69e7200-96ea-4455-83cc-0a497d56efe5,2024-01-01T16:16:55.463Z
+1,Hobgoblin Bandit Lord,afr,Adventures in the Forgotten Realms,147,nonfoil,$2.08,rare,09e9dc36-f2d8-4384-98cb-e44c00b02433,2023-11-24T13:34:38.249Z
 1,Cloister Gargoyle,afr,Adventures in the Forgotten Realms,7,nonfoil,$0.03,uncommon,297bf274-d13d-4b75-b251-2d004b16b431,2023-11-24T13:34:38.249Z
 1,Fifty Feet of Rope,afr,Adventures in the Forgotten Realms,244,nonfoil,$0.05,uncommon,ba7ebe7b-732f-4245-a194-e087c3878f61,2023-11-24T13:34:38.249Z
-1,Dungeon Map,afr,Adventures in the Forgotten Realms,242,nonfoil,$0.05,uncommon,028506ad-ad36-44e5-b488-d038e2d2445f,2024-01-01T16:17:50.477Z
-1,Yuan-Ti Malison,afr,Adventures in the Forgotten Realms,371,nonfoil,$0.20,rare,9043519d-c9d8-4d08-b4a9-feaf792bc7a4,2023-11-24T13:34:38.249Z
-3,Displacer Beast,afr,Adventures in the Forgotten Realms,54,nonfoil,$0.03,uncommon,95d5c36c-bcc8-459c-9f4b-b265ccdb1f06,2024-01-01T16:13:51.988Z
-2,Warlock Class,afr,Adventures in the Forgotten Realms,125,nonfoil,$0.19,uncommon,b7faf899-96b7-454e-b634-6684c2d72f26,2023-11-24T13:34:38.249Z
-1,You Find Some Prisoners,afr,Adventures in the Forgotten Realms,169,nonfoil,$0.17,uncommon,0f2a95ae-feb2-42c3-99b4-9ea7a491d326,2024-01-01T16:17:13.622Z
+1,Dungeon Map,afr,Adventures in the Forgotten Realms,242,nonfoil,$0.06,uncommon,028506ad-ad36-44e5-b488-d038e2d2445f,2024-01-01T16:17:50.477Z
+1,Yuan-Ti Malison,afr,Adventures in the Forgotten Realms,371,nonfoil,$0.22,rare,9043519d-c9d8-4d08-b4a9-feaf792bc7a4,2023-11-24T13:34:38.249Z
+3,Displacer Beast,afr,Adventures in the Forgotten Realms,54,nonfoil,$0.04,uncommon,95d5c36c-bcc8-459c-9f4b-b265ccdb1f06,2024-01-01T16:13:51.988Z
+2,Warlock Class,afr,Adventures in the Forgotten Realms,125,nonfoil,$0.17,uncommon,b7faf899-96b7-454e-b634-6684c2d72f26,2023-11-24T13:34:38.249Z
+1,You Find Some Prisoners,afr,Adventures in the Forgotten Realms,169,nonfoil,$0.19,uncommon,0f2a95ae-feb2-42c3-99b4-9ea7a491d326,2024-01-01T16:17:13.622Z
 1,Temple of the Dragon Queen,afr,Adventures in the Forgotten Realms,260,nonfoil,$0.27,uncommon,0c79b3c6-ccbe-48ae-a1f7-ddfd37ecdbf5,2023-11-24T13:34:38.249Z
 1,Power of Persuasion,afr,Adventures in the Forgotten Realms,67,nonfoil,$0.04,uncommon,8d84cb72-d0a0-4af0-aded-47e5fb7addef,2023-11-24T13:34:38.249Z
-2,Critical Hit,afr,Adventures in the Forgotten Realms,137,nonfoil,$0.08,uncommon,d2e9aaaf-0b51-4721-b75c-923892a41743,2024-01-01T16:16:47.496Z
-2,"Targ Nar, Demon-Fang Gnoll",afr,Adventures in the Forgotten Realms,234,nonfoil,$0.05,uncommon,5fe57856-9d35-470e-9138-360b02ac0c90,2023-11-24T13:34:38.249Z
-1,Paladin Class,afr,Adventures in the Forgotten Realms,29,nonfoil,$0.41,rare,5bf81fb1-7992-4ae9-b1a8-80c31579a2bf,2023-11-24T13:34:38.249Z
-1,Hand of Vecna,afr,Adventures in the Forgotten Realms,246,nonfoil,$0.14,rare,ddd0beb7-80dc-4665-bab2-747c795d97db,2024-01-01T16:17:59.646Z
-2,Drider,afr,Adventures in the Forgotten Realms,98,nonfoil,$0.18,uncommon,bbc06a88-1eb6-4edb-8f03-d8274560cc41,2024-01-01T16:15:25.918Z
-1,"Hama Pashar, Ruin Seeker",afr,Adventures in the Forgotten Realms,224,nonfoil,$0.06,uncommon,47b8eb2e-73ac-4ad6-9ab6-4f8da7b41020,2024-01-01T16:14:06.759Z
-2,Purple Worm,afr,Adventures in the Forgotten Realms,201,nonfoil,$0.03,uncommon,e419d58b-6241-4892-9080-f6894ac7ba89,2024-01-01T16:15:37.581Z
+2,Critical Hit,afr,Adventures in the Forgotten Realms,137,nonfoil,$0.11,uncommon,d2e9aaaf-0b51-4721-b75c-923892a41743,2024-01-01T16:16:47.496Z
+2,"Targ Nar, Demon-Fang Gnoll",afr,Adventures in the Forgotten Realms,234,nonfoil,$0.08,uncommon,5fe57856-9d35-470e-9138-360b02ac0c90,2023-11-24T13:34:38.249Z
+1,Paladin Class,afr,Adventures in the Forgotten Realms,29,nonfoil,$0.60,rare,5bf81fb1-7992-4ae9-b1a8-80c31579a2bf,2023-11-24T13:34:38.249Z
+1,Hand of Vecna,afr,Adventures in the Forgotten Realms,246,nonfoil,$0.17,rare,ddd0beb7-80dc-4665-bab2-747c795d97db,2024-01-01T16:17:59.646Z
+2,Drider,afr,Adventures in the Forgotten Realms,98,nonfoil,$0.19,uncommon,bbc06a88-1eb6-4edb-8f03-d8274560cc41,2024-01-01T16:15:25.918Z
+1,"Hama Pashar, Ruin Seeker",afr,Adventures in the Forgotten Realms,224,nonfoil,$0.03,uncommon,47b8eb2e-73ac-4ad6-9ab6-4f8da7b41020,2024-01-01T16:14:06.759Z
+2,Purple Worm,afr,Adventures in the Forgotten Realms,201,nonfoil,$0.04,uncommon,e419d58b-6241-4892-9080-f6894ac7ba89,2024-01-01T16:15:37.581Z
 1,Dungeon Descent,afr,Adventures in the Forgotten Realms,255,nonfoil,$0.15,rare,f4cccdbc-f4f4-42b6-9747-6ef703ff949a,2024-01-01T16:16:08.366Z
-2,"Iymrith, Desert Doom",afr,Adventures in the Forgotten Realms,62,nonfoil,$1.14,mythic,c3e6025d-d273-4ae4-9929-5e588612f1b3,2024-01-01T16:15:29.602Z
-1,Bag of Holding,afr,Adventures in the Forgotten Realms,240,nonfoil,$0.06,uncommon,6ea5e4e9-491b-4c80-8801-f4cd5225c601,2023-11-24T13:34:38.249Z
+2,"Iymrith, Desert Doom",afr,Adventures in the Forgotten Realms,62,nonfoil,$1.08,mythic,c3e6025d-d273-4ae4-9929-5e588612f1b3,2024-01-01T16:15:29.602Z
+1,Bag of Holding,afr,Adventures in the Forgotten Realms,240,nonfoil,$0.07,uncommon,6ea5e4e9-491b-4c80-8801-f4cd5225c601,2023-11-24T13:34:38.249Z
 1,Loathsome Troll,afr,Adventures in the Forgotten Realms,192,nonfoil,$0.02,uncommon,50ac66df-760d-495d-a067-13114071b7b8,2023-11-24T13:34:38.249Z
-1,Sorcerer Class,afr,Adventures in the Forgotten Realms,233,nonfoil,$0.85,rare,f754b385-a28d-48de-a91f-2b4f33cc47f7,2024-01-01T16:16:25.175Z
-1,Aberrant Mind Sorcerer,afr,Adventures in the Forgotten Realms,44,nonfoil,$0.04,uncommon,d9c6401a-e152-4acf-a2ca-75c484f296d5,2024-01-01T16:15:17.695Z
-2,Fighter Class,afr,Adventures in the Forgotten Realms,222,nonfoil,$3.68,rare,d54a8329-b940-42c9-8ace-1d74407d14cb,2024-01-01T16:16:13.329Z
+1,Sorcerer Class,afr,Adventures in the Forgotten Realms,233,nonfoil,$0.81,rare,f754b385-a28d-48de-a91f-2b4f33cc47f7,2024-01-01T16:16:25.175Z
+1,Aberrant Mind Sorcerer,afr,Adventures in the Forgotten Realms,44,nonfoil,$0.05,uncommon,d9c6401a-e152-4acf-a2ca-75c484f296d5,2024-01-01T16:15:17.695Z
+2,Fighter Class,afr,Adventures in the Forgotten Realms,222,nonfoil,$4.28,rare,d54a8329-b940-42c9-8ace-1d74407d14cb,2024-01-01T16:16:13.329Z
 1,Split the Party,afr,Adventures in the Forgotten Realms,76,nonfoil,$0.02,uncommon,743a0a96-f90a-4852-9a92-848795518e0a,2023-11-24T13:34:38.249Z
-2,Plate Armor,afr,Adventures in the Forgotten Realms,32,nonfoil,$0.12,uncommon,ad447e50-cfb1-40df-ae01-a65c46f2f572,2023-11-24T13:34:38.249Z
-1,Demogorgon's Clutches,afr,Adventures in the Forgotten Realms,96,nonfoil,$0.03,uncommon,581e7ac6-65e5-4a16-ab0b-0988c3a3cfea,2023-11-24T13:34:38.249Z
-1,"Farideh, Devil's Chosen",afr,Adventures in the Forgotten Realms,221,nonfoil,$0.07,uncommon,1b2ff142-029b-4446-960a-2ff200fb9aee,2024-01-01T16:15:13.481Z
-1,Acererak the Archlich,afr,Adventures in the Forgotten Realms,87,foil,$4.51,mythic,dd52d0bd-3abd-401c-9f56-ee911613da3b,2023-11-22T06:51:12.669Z
-1,"Nissa, Voice of Zendikar",ddr,Duel Decks: Nissa vs. Ob Nixilis,1,foil,$2.62,mythic,6de97cf1-49b6-40b2-ab7f-1c8eb98f92af,2023-11-22T06:48:24.771Z
-1,Ob Nixilis Reignited,ddr,Duel Decks: Nissa vs. Ob Nixilis,36,foil,$0.60,mythic,6bb7a4bd-0e74-4b1b-bf23-55c06442881e,2023-11-22T06:48:24.771Z
-1,Leechridden Swamp,ddr,Duel Decks: Nissa vs. Ob Nixilis,65,nonfoil,$0.92,uncommon,d64026d0-c126-4407-869e-a48c09d017c0,2023-11-24T13:34:38.249Z
-1,Abundance,ddr,Duel Decks: Nissa vs. Ob Nixilis,2,nonfoil,$0.50,rare,9ab8ad39-840e-474b-beb8-96a7c2a8d0fa,2023-11-24T13:34:38.249Z
+2,Plate Armor,afr,Adventures in the Forgotten Realms,32,nonfoil,$0.16,uncommon,ad447e50-cfb1-40df-ae01-a65c46f2f572,2023-11-24T13:34:38.249Z
+1,Demogorgon's Clutches,afr,Adventures in the Forgotten Realms,96,nonfoil,$0.04,uncommon,581e7ac6-65e5-4a16-ab0b-0988c3a3cfea,2023-11-24T13:34:38.249Z
+1,"Farideh, Devil's Chosen",afr,Adventures in the Forgotten Realms,221,nonfoil,$0.08,uncommon,1b2ff142-029b-4446-960a-2ff200fb9aee,2024-01-01T16:15:13.481Z
+1,Acererak the Archlich,afr,Adventures in the Forgotten Realms,87,foil,$4.54,mythic,dd52d0bd-3abd-401c-9f56-ee911613da3b,2023-11-22T06:51:12.669Z
+1,"Nissa, Voice of Zendikar",ddr,Duel Decks: Nissa vs. Ob Nixilis,1,foil,$1.97,mythic,6de97cf1-49b6-40b2-ab7f-1c8eb98f92af,2023-11-22T06:48:24.771Z
+1,Ob Nixilis Reignited,ddr,Duel Decks: Nissa vs. Ob Nixilis,36,foil,$0.46,mythic,6bb7a4bd-0e74-4b1b-bf23-55c06442881e,2023-11-22T06:48:24.771Z
+1,Leechridden Swamp,ddr,Duel Decks: Nissa vs. Ob Nixilis,65,nonfoil,$0.97,uncommon,d64026d0-c126-4407-869e-a48c09d017c0,2023-11-24T13:34:38.249Z
+1,Abundance,ddr,Duel Decks: Nissa vs. Ob Nixilis,2,nonfoil,$0.36,rare,9ab8ad39-840e-474b-beb8-96a7c2a8d0fa,2023-11-24T13:34:38.249Z
 2,Scythe Leopard,ddr,Duel Decks: Nissa vs. Ob Nixilis,19,nonfoil,$0.10,uncommon,d458e7e4-578d-4e82-b062-1343b1544996,2023-11-24T13:34:38.249Z
-1,Thicket Elemental,ddr,Duel Decks: Nissa vs. Ob Nixilis,21,nonfoil,$0.18,rare,c5a462ca-0632-410d-9999-a096b71fc3ea,2023-11-24T13:34:38.249Z
-1,Ambition's Cost,ddr,Duel Decks: Nissa vs. Ob Nixilis,38,nonfoil,$0.54,uncommon,baed5a5d-ea54-4cf7-873e-627e2c728547,2023-11-24T13:34:38.249Z
-2,Jaddi Lifestrider,ddr,Duel Decks: Nissa vs. Ob Nixilis,12,nonfoil,$0.09,uncommon,2dff438a-925c-4fca-a2e3-3e9519b7afed,2023-11-24T13:34:38.249Z
-1,Shadows of the Past,ddr,Duel Decks: Nissa vs. Ob Nixilis,60,nonfoil,$0.23,uncommon,35139a18-28c7-4a8f-986a-47e909cc23eb,2023-11-24T13:34:38.249Z
-2,Quest for the Gravelord,ddr,Duel Decks: Nissa vs. Ob Nixilis,58,nonfoil,$0.15,uncommon,1838157f-5697-4463-b98d-97aeb3667006,2023-11-24T13:34:38.249Z
-1,Gaea's Blessing,ddr,Duel Decks: Nissa vs. Ob Nixilis,10,nonfoil,$0.44,uncommon,a96596c1-459b-4306-ab31-4ca861c3475b,2023-11-24T13:34:38.249Z
+1,Thicket Elemental,ddr,Duel Decks: Nissa vs. Ob Nixilis,21,nonfoil,$0.19,rare,c5a462ca-0632-410d-9999-a096b71fc3ea,2023-11-24T13:34:38.249Z
+1,Ambition's Cost,ddr,Duel Decks: Nissa vs. Ob Nixilis,38,nonfoil,$0.88,uncommon,baed5a5d-ea54-4cf7-873e-627e2c728547,2023-11-24T13:34:38.249Z
+2,Jaddi Lifestrider,ddr,Duel Decks: Nissa vs. Ob Nixilis,12,nonfoil,$0.11,uncommon,2dff438a-925c-4fca-a2e3-3e9519b7afed,2023-11-24T13:34:38.249Z
+1,Shadows of the Past,ddr,Duel Decks: Nissa vs. Ob Nixilis,60,nonfoil,$0.32,uncommon,35139a18-28c7-4a8f-986a-47e909cc23eb,2023-11-24T13:34:38.249Z
+2,Quest for the Gravelord,ddr,Duel Decks: Nissa vs. Ob Nixilis,58,nonfoil,$0.11,uncommon,1838157f-5697-4463-b98d-97aeb3667006,2023-11-24T13:34:38.249Z
+1,Gaea's Blessing,ddr,Duel Decks: Nissa vs. Ob Nixilis,10,nonfoil,$0.43,uncommon,a96596c1-459b-4306-ab31-4ca861c3475b,2023-11-24T13:34:38.249Z
 1,Despoiler of Souls,ddr,Duel Decks: Nissa vs. Ob Nixilis,45,nonfoil,$0.13,rare,9f1fb659-70fe-4d8a-ba2c-07ab0d75c218,2023-11-24T13:34:38.249Z
-1,Walker of the Grove,ddr,Duel Decks: Nissa vs. Ob Nixilis,24,nonfoil,$0.07,uncommon,b9cdd08b-7e77-4927-87dd-6e3afffc3ef0,2023-11-24T13:34:38.249Z
-1,Treetop Village,ddr,Duel Decks: Nissa vs. Ob Nixilis,30,nonfoil,$0.25,uncommon,a97bedb5-19ab-4647-b223-745bec6e65d2,2023-11-24T13:34:38.249Z
-1,Priest of the Blood Rite,ddr,Duel Decks: Nissa vs. Ob Nixilis,57,nonfoil,$0.19,rare,1a0df50f-59b8-46b6-8bac-6e3f93b9c979,2023-11-24T13:34:38.249Z
-1,Squelching Leeches,ddr,Duel Decks: Nissa vs. Ob Nixilis,62,nonfoil,$0.24,uncommon,694a0e92-8e5c-404e-a8bb-52139884e41a,2023-11-24T18:08:52.265Z
-1,Seek the Horizon,ddr,Duel Decks: Nissa vs. Ob Nixilis,20,nonfoil,$0.11,uncommon,6244cbd8-8cc4-44a7-b11d-2ab159e92c02,2023-11-24T13:34:38.249Z
-1,Desecration Demon,ddr,Duel Decks: Nissa vs. Ob Nixilis,44,nonfoil,$0.51,rare,d0d6fabf-ffef-4272-8285-c671f6d777f0,2023-11-24T13:34:38.249Z
+1,Walker of the Grove,ddr,Duel Decks: Nissa vs. Ob Nixilis,24,nonfoil,$0.09,uncommon,b9cdd08b-7e77-4927-87dd-6e3afffc3ef0,2023-11-24T13:34:38.249Z
+1,Treetop Village,ddr,Duel Decks: Nissa vs. Ob Nixilis,30,nonfoil,$0.26,uncommon,a97bedb5-19ab-4647-b223-745bec6e65d2,2023-11-24T13:34:38.249Z
+1,Priest of the Blood Rite,ddr,Duel Decks: Nissa vs. Ob Nixilis,57,nonfoil,$0.15,rare,1a0df50f-59b8-46b6-8bac-6e3f93b9c979,2023-11-24T13:34:38.249Z
+1,Squelching Leeches,ddr,Duel Decks: Nissa vs. Ob Nixilis,62,nonfoil,$0.22,uncommon,694a0e92-8e5c-404e-a8bb-52139884e41a,2023-11-24T18:08:52.265Z
+1,Seek the Horizon,ddr,Duel Decks: Nissa vs. Ob Nixilis,20,nonfoil,$0.10,uncommon,6244cbd8-8cc4-44a7-b11d-2ab159e92c02,2023-11-24T13:34:38.249Z
+1,Desecration Demon,ddr,Duel Decks: Nissa vs. Ob Nixilis,44,nonfoil,$0.48,rare,d0d6fabf-ffef-4272-8285-c671f6d777f0,2023-11-24T13:34:38.249Z
 1,Mosswort Bridge,ddr,Duel Decks: Nissa vs. Ob Nixilis,29,nonfoil,$0.43,rare,f61cf774-f821-4393-9c68-bdab2e2a88d3,2023-11-24T13:34:38.249Z
-1,Oran-Rief Hydra,ddr,Duel Decks: Nissa vs. Ob Nixilis,16,nonfoil,$0.40,rare,3e95bd19-5647-414d-bd04-5c11979e369e,2023-11-24T13:34:38.249Z
+1,Oran-Rief Hydra,ddr,Duel Decks: Nissa vs. Ob Nixilis,16,nonfoil,$0.34,rare,3e95bd19-5647-414d-bd04-5c11979e369e,2023-11-24T13:34:38.249Z
 2,Carrier Thrall,ddr,Duel Decks: Nissa vs. Ob Nixilis,42,nonfoil,$0.07,uncommon,c5e4de63-820f-4a22-8725-814a220cfdd2,2023-11-24T13:34:38.249Z
 2,Woodborn Behemoth,ddr,Duel Decks: Nissa vs. Ob Nixilis,26,nonfoil,$0.09,uncommon,e72da3e7-accb-4a74-b27d-975d6ab4aaa2,2023-11-24T13:34:38.249Z
-2,Briarhorn,ddr,Duel Decks: Nissa vs. Ob Nixilis,3,nonfoil,$0.10,uncommon,0fd09615-bcd2-4a2e-b9bf-8b4fd83291ce,2023-11-24T13:34:38.249Z
+2,Briarhorn,ddr,Duel Decks: Nissa vs. Ob Nixilis,3,nonfoil,$0.14,uncommon,0fd09615-bcd2-4a2e-b9bf-8b4fd83291ce,2023-11-24T13:34:38.249Z
 1,Cloudthresher,ddr,Duel Decks: Nissa vs. Ob Nixilis,6,nonfoil,$0.19,rare,f315762b-b386-41ec-8282-4bc4e7cddef1,2023-11-24T13:34:38.249Z
-1,Pestilence Demon,ddr,Duel Decks: Nissa vs. Ob Nixilis,56,nonfoil,$0.45,rare,058eb32f-2ae2-4276-ae1a-242bbb150418,2023-11-24T13:34:38.249Z
-1,Indulgent Tormentor,ddr,Duel Decks: Nissa vs. Ob Nixilis,53,nonfoil,$0.39,rare,a0bb89e2-0d28-4483-b5a7-fddf83d5eac3,2023-11-24T13:34:38.249Z
-2,Smallpox,ddr,Duel Decks: Nissa vs. Ob Nixilis,61,nonfoil,$0.26,uncommon,78275769-6203-4bc5-bbb7-3016c31d5cb5,2023-11-24T13:34:38.249Z
+1,Pestilence Demon,ddr,Duel Decks: Nissa vs. Ob Nixilis,56,nonfoil,$0.47,rare,058eb32f-2ae2-4276-ae1a-242bbb150418,2023-11-24T13:34:38.249Z
+1,Indulgent Tormentor,ddr,Duel Decks: Nissa vs. Ob Nixilis,53,nonfoil,$0.37,rare,a0bb89e2-0d28-4483-b5a7-fddf83d5eac3,2023-11-24T13:34:38.249Z
+2,Smallpox,ddr,Duel Decks: Nissa vs. Ob Nixilis,61,nonfoil,$0.28,uncommon,78275769-6203-4bc5-bbb7-3016c31d5cb5,2023-11-24T13:34:38.249Z
 1,Zombie Giant,ddr,Duel Decks: Nissa vs. Ob Nixilis,73,nonfoil,$0.09,common,094ceb6a-51fa-4347-b1be-ae4a80b189be,2024-01-01T17:43:27.097Z
-2,Eldrazi Scion,ddr,Duel Decks: Nissa vs. Ob Nixilis,71,nonfoil,$0.76,common,a7ba0398-35e1-4733-ad29-e853757d6f24,2024-01-01T17:39:43.157Z
-4,Plant,ddr,Duel Decks: Nissa vs. Ob Nixilis,75,nonfoil,$0.85,common,fa0025fa-c530-4151-bcff-48425a4f1db5,2024-01-01T17:41:13.372Z
-1,Demon,ddr,Duel Decks: Nissa vs. Ob Nixilis,72,nonfoil,$0.31,common,545639fc-e521-41f2-81b2-a671007321eb,2024-01-01T17:39:03.414Z
-1,Elemental,ddr,Duel Decks: Nissa vs. Ob Nixilis,74,nonfoil,$0.13,common,f2eb4f6d-f437-41c7-ae27-f2df759353e0,2024-01-01T17:40:11.486Z
+2,Eldrazi Scion,ddr,Duel Decks: Nissa vs. Ob Nixilis,71,nonfoil,$0.81,common,a7ba0398-35e1-4733-ad29-e853757d6f24,2024-01-01T17:39:43.157Z
+4,Plant,ddr,Duel Decks: Nissa vs. Ob Nixilis,75,nonfoil,$0.89,common,fa0025fa-c530-4151-bcff-48425a4f1db5,2024-01-01T17:41:13.372Z
+1,Demon,ddr,Duel Decks: Nissa vs. Ob Nixilis,72,nonfoil,$0.34,common,545639fc-e521-41f2-81b2-a671007321eb,2024-01-01T17:39:03.414Z
+1,Elemental,ddr,Duel Decks: Nissa vs. Ob Nixilis,74,nonfoil,$0.21,common,f2eb4f6d-f437-41c7-ae27-f2df759353e0,2024-01-01T17:40:11.486Z
 1,Ob Nixilis Reignited Emblem,ddr,Duel Decks: Nissa vs. Ob Nixilis,76,nonfoil,$0.79,common,1f1f0078-2c85-4903-9fe8-626dcd87dc1e,2024-01-01T17:43:40.198Z
-1,Mysterious Pathlighter,eld,Throne of Eldraine,22,nonfoil,$0.06,uncommon,1028aa10-aded-4aeb-b70f-d7a9003ae846,Sat Jan 27 2024 23:13:09 GMT+0300 (Москва
+1,Rat Colony,dom,Dominaria,101,nonfoil,$5.42,common,4f618e07-f06f-45d2-8512-e6cef88c0434,Mon Jan 29 2024 19:04:37 GMT+0300 (Москва
+1,Final Parting,dom,Dominaria,93,nonfoil,$0.42,uncommon,de8803f6-9efa-4323-b8c5-29bdd5a48f9a,Mon Jan 29 2024 19:05:26 GMT+0300 (Москва
+1,Goblin Warchief,dom,Dominaria,130,nonfoil,$0.50,uncommon,5bac033c-dc4e-40a0-b103-4892e4b50249,Mon Jan 29 2024 19:05:36 GMT+0300 (Москва
+1,"Evra, Halcyon Witness",dom,Dominaria,16,nonfoil,$0.13,rare,02f57a57-8ce8-4d01-9b91-99ec0623d1e9,Mon Jan 29 2024 19:05:49 GMT+0300 (Москва
+1,Amaranthine Wall,dom,Dominaria,210,nonfoil,$0.18,uncommon,73b49065-0a46-4813-a721-71d718e73d18,Mon Jan 29 2024 19:06:06 GMT+0300 (Москва
+1,Mysterious Pathlighter,eld,Throne of Eldraine,22,nonfoil,$0.04,uncommon,1028aa10-aded-4aeb-b70f-d7a9003ae846,Sat Jan 27 2024 23:13:09 GMT+0300 (Москва
 1,"Yorvo, Lord of Garenbrig",eld,Throne of Eldraine,185,nonfoil,$0.26,rare,ae2998a1-1713-467e-a08e-0efd8720aa5b,Sat Jan 27 2024 23:13:29 GMT+0300 (Москва
-1,Keeper of Fables,eld,Throne of Eldraine,163,nonfoil,$0.16,uncommon,6754d6cf-3506-48b5-a0ef-8a90b8dd2701,Sat Jan 27 2024 23:13:51 GMT+0300 (Москва
-1,Rally for the Throne,eld,Throne of Eldraine,25,nonfoil,$0.11,uncommon,548d7ff0-70b6-4221-b50b-3ee8547e1b0a,Sat Jan 27 2024 23:14:07 GMT+0300 (Москва
-1,Plains,khm,Kaldheim,394,foil,$0.32,common,5cbfbafa-f58f-40b2-a374-68ac35b77d89,2023-11-22T06:48:24.771Z
-1,Swamp,khm,Kaldheim,396,foil,$0.50,common,9f9e61c0-b185-4704-913f-9284ed0ce250,2023-11-22T06:48:24.771Z
-1,Forest,khm,Kaldheim,398,foil,$0.82,common,771e307c-b2e3-47ac-aac2-59f0c3542fa6,2023-11-22T06:48:24.771Z
-1,Mountain,khm,Kaldheim,397,foil,$0.66,common,69419307-53d5-40d7-82da-cab2e7bfbda4,2023-11-22T06:48:24.771Z
-1,Island,khm,Kaldheim,395,foil,$1.11,common,1a25a714-c7f3-4697-8b69-8f966b4d370a,2023-11-22T06:48:24.771Z
-1,"Maja, Bretagard Protector",khm,Kaldheim,327,foil,$0.21,uncommon,b8832509-497d-4253-bbb1-92adfb69368f,2023-12-23T07:21:08.310Z
-1,Reflections of Littjara,khm,Kaldheim,400,foil,$1.31,rare,4ebaa07d-68f6-4cdb-a5cd-cd715e50abf5,2023-11-22T06:48:24.771Z
+1,Keeper of Fables,eld,Throne of Eldraine,163,nonfoil,$0.15,uncommon,6754d6cf-3506-48b5-a0ef-8a90b8dd2701,Sat Jan 27 2024 23:13:51 GMT+0300 (Москва
+1,Rally for the Throne,eld,Throne of Eldraine,25,nonfoil,$0.13,uncommon,548d7ff0-70b6-4221-b50b-3ee8547e1b0a,Sat Jan 27 2024 23:14:07 GMT+0300 (Москва
+1,Plains,iko,Ikoria: Lair of Behemoths,261,foil,$0.11,common,e84f2b9b-1412-476f-8739-17d35ea48a51,Thu Mar 07 2024 08:11:50 GMT+0300 (Москва
+1,"Zirda, the Dawnwaker",iko,Ikoria: Lair of Behemoths,233,nonfoil,$0.44,rare,1bd8e61c-2ee8-4243-a848-7008810db8a0,Thu Mar 07 2024 08:11:05 GMT+0300 (Москва
+1,Footfall Crater,iko,Ikoria: Lair of Behemoths,118,nonfoil,$0.18,uncommon,f1b75aac-54e3-4181-bac5-5a142757ec05,Thu Mar 07 2024 08:11:15 GMT+0300 (Москва
+1,Charge of the Forever-Beast,iko,Ikoria: Lair of Behemoths,147,nonfoil,$0.02,uncommon,4bf147a6-2282-4120-9cbd-d0309fc9b02b,Thu Mar 07 2024 08:11:25 GMT+0300 (Москва
+1,Exuberant Wolfbear,iko,Ikoria: Lair of Behemoths,151,nonfoil,$0.04,uncommon,8c8ff0da-fbe3-4c95-bc39-c975c55b6aea,Thu Mar 07 2024 08:11:33 GMT+0300 (Москва
+1,Plains,khm,Kaldheim,394,foil,$0.29,common,5cbfbafa-f58f-40b2-a374-68ac35b77d89,2023-11-22T06:48:24.771Z
+1,Swamp,khm,Kaldheim,396,foil,$0.51,common,9f9e61c0-b185-4704-913f-9284ed0ce250,2023-11-22T06:48:24.771Z
+1,Forest,khm,Kaldheim,398,foil,$0.84,common,771e307c-b2e3-47ac-aac2-59f0c3542fa6,2023-11-22T06:48:24.771Z
+1,Mountain,khm,Kaldheim,397,foil,$0.79,common,69419307-53d5-40d7-82da-cab2e7bfbda4,2023-11-22T06:48:24.771Z
+1,Island,khm,Kaldheim,395,foil,$1.36,common,1a25a714-c7f3-4697-8b69-8f966b4d370a,2023-11-22T06:48:24.771Z
+1,"Maja, Bretagard Protector",khm,Kaldheim,327,foil,$0.24,uncommon,b8832509-497d-4253-bbb1-92adfb69368f,2023-12-23T07:21:08.310Z
+1,Reflections of Littjara,khm,Kaldheim,400,foil,$0.66,rare,4ebaa07d-68f6-4cdb-a5cd-cd715e50abf5,2023-11-22T06:48:24.771Z
 1,Tuskeri Firewalker,khm,Kaldheim,157,foil,$0.04,common,a54d0170-a375-4e65-b98d-3e94a3aeef90,2023-11-22T06:48:24.771Z
-1,Moritte of the Frost,khm,Kaldheim,223,foil,$0.26,uncommon,22fdbe71-abca-4e48-99b2-1cb6b35d930b,2023-12-23T07:21:19.325Z
+1,Moritte of the Frost,khm,Kaldheim,223,foil,$0.29,uncommon,22fdbe71-abca-4e48-99b2-1cb6b35d930b,2023-12-23T07:21:19.325Z
 1,Divine Gambit,khm,Kaldheim,8,foil,$0.08,uncommon,696a8c12-4a1f-4b96-a921-538fa1a2de43,2023-11-22T06:48:24.771Z
 1,Draugr Recruiter,khm,Kaldheim,87,foil,$0.06,common,6b0fe66b-0067-4e5c-9b3a-b014b2f0daf2,2023-11-22T06:48:24.771Z
-1,"Sigrid, God-Favored",khm,Kaldheim,29,foil,$0.24,rare,aeec3c1e-e612-4700-888e-300912932552,2023-12-23T07:21:44.992Z
+1,"Sigrid, God-Favored",khm,Kaldheim,29,foil,$0.28,rare,aeec3c1e-e612-4700-888e-300912932552,2023-12-23T07:21:44.992Z
 1,Raise the Draugr,khm,Kaldheim,105,foil,$0.15,common,1a67c196-632c-4c7b-a132-de07d894e634,2023-12-23T07:21:29.042Z
-1,"Aegar, the Freezing Flame",khm,Kaldheim,321,foil,$0.13,uncommon,edac3fd7-8124-4614-ae50-651608d45adb,2023-11-22T06:48:24.771Z
-1,Rune of Speed,khm,Kaldheim,148,nonfoil,$0.12,uncommon,47faee66-b274-466a-890e-bb396dda943d,2023-11-24T13:34:38.249Z
-1,Skemfar Avenger,khm,Kaldheim,109,nonfoil,$0.25,rare,fad2c6d4-03dd-4dab-861c-77c55bda0db7,2023-11-24T13:34:38.249Z
-1,Hailstorm Valkyrie,khm,Kaldheim,97,nonfoil,$0.05,uncommon,a5a272b3-aaab-4c98-86a8-85c67a5f3d4d,2023-12-23T07:32:25.531Z
-1,"Valki, God of Lies // Tibalt, Cosmic Impostor",khm,Kaldheim,114,nonfoil,$4.58,mythic,ea7e4c65-b4c4-4795-9475-3cba71c50ea5,2023-11-24T13:34:38.249Z
-1,Basalt Ravager,khm,Kaldheim,122,nonfoil,$0.10,uncommon,b32aea04-04f7-48a8-a8ab-8b38fa53da3b,2023-11-24T13:34:38.249Z
-2,"Magda, Brazen Outlaw",khm,Kaldheim,142,nonfoil,$0.48,rare,079e6263-e54c-4899-a336-5315909b9322,2023-12-23T07:31:49.164Z
+1,"Aegar, the Freezing Flame",khm,Kaldheim,321,foil,$0.14,uncommon,edac3fd7-8124-4614-ae50-651608d45adb,2023-11-22T06:48:24.771Z
+1,Rune of Speed,khm,Kaldheim,148,nonfoil,$0.09,uncommon,47faee66-b274-466a-890e-bb396dda943d,2023-11-24T13:34:38.249Z
+1,Skemfar Avenger,khm,Kaldheim,109,nonfoil,$0.22,rare,fad2c6d4-03dd-4dab-861c-77c55bda0db7,2023-11-24T13:34:38.249Z
+1,Hailstorm Valkyrie,khm,Kaldheim,97,nonfoil,$0.04,uncommon,a5a272b3-aaab-4c98-86a8-85c67a5f3d4d,2023-12-23T07:32:25.531Z
+1,"Valki, God of Lies // Tibalt, Cosmic Impostor",khm,Kaldheim,114,nonfoil,$4.91,mythic,ea7e4c65-b4c4-4795-9475-3cba71c50ea5,2023-11-24T13:34:38.249Z
+1,Basalt Ravager,khm,Kaldheim,122,nonfoil,$0.08,uncommon,b32aea04-04f7-48a8-a8ab-8b38fa53da3b,2023-11-24T13:34:38.249Z
+2,"Magda, Brazen Outlaw",khm,Kaldheim,142,nonfoil,$0.44,rare,079e6263-e54c-4899-a336-5315909b9322,2023-12-23T07:31:49.164Z
 1,Avalanche Caller,khm,Kaldheim,45,nonfoil,$0.03,uncommon,89cef049-6a47-4264-b2bc-b9d291a09c4c,2023-12-23T07:30:30.667Z
-2,Vengeful Reaper,khm,Kaldheim,116,nonfoil,$0.14,uncommon,854c99fd-71ba-40b7-98cf-b783f01a77b4,2023-12-23T07:32:31.181Z
-1,"Reidane, God of the Worthy // Valkmira, Protector's Shield",khm,Kaldheim,21,nonfoil,$0.51,rare,3606519e-5677-4c21-a34e-be195b6669fa,2023-11-24T13:34:38.249Z
-1,Littjara Mirrorlake,khm,Kaldheim,264,nonfoil,$0.21,uncommon,6bf2bb3e-828f-4d53-9d0a-26bbc5e7f3cc,2023-12-23T07:33:36.796Z
-1,The Trickster-God's Heist,khm,Kaldheim,232,nonfoil,$0.11,uncommon,4aa19a68-0d71-4123-a64d-8cb76f93cd74,2023-12-23T07:33:25.479Z
-1,Port of Karfell,khm,Kaldheim,265,nonfoil,$0.07,uncommon,bb9465a6-d009-4ecd-9fd1-d046547de902,2023-11-24T13:34:38.249Z
-1,Rune of Sustenance,khm,Kaldheim,25,nonfoil,$0.25,uncommon,0e31b716-f325-445a-9098-9ca75d7b35a4,2023-11-24T13:34:38.249Z
-2,Divine Gambit,khm,Kaldheim,8,nonfoil,$0.02,uncommon,696a8c12-4a1f-4b96-a921-538fa1a2de43,2023-12-23T07:33:00.463Z
-1,Skemfar Elderhall,khm,Kaldheim,268,nonfoil,$0.08,uncommon,82c2a0f7-0f53-4627-8be8-227fde331a69,2023-11-24T13:34:38.249Z
-1,Rootless Yew,khm,Kaldheim,189,nonfoil,$0.08,uncommon,992aba3f-e1cb-4f5a-8b6f-328a069102a4,2023-12-23T07:32:42.680Z
-1,Frost Augur,khm,Kaldheim,56,nonfoil,$0.09,uncommon,a2ae592f-caf6-445a-970b-f8101998e657,2023-11-24T13:34:38.249Z
+2,Vengeful Reaper,khm,Kaldheim,116,nonfoil,$0.16,uncommon,854c99fd-71ba-40b7-98cf-b783f01a77b4,2023-12-23T07:32:31.181Z
+1,"Reidane, God of the Worthy // Valkmira, Protector's Shield",khm,Kaldheim,21,nonfoil,$0.47,rare,3606519e-5677-4c21-a34e-be195b6669fa,2023-11-24T13:34:38.249Z
+1,Littjara Mirrorlake,khm,Kaldheim,264,nonfoil,$0.15,uncommon,6bf2bb3e-828f-4d53-9d0a-26bbc5e7f3cc,2023-12-23T07:33:36.796Z
+1,The Trickster-God's Heist,khm,Kaldheim,232,nonfoil,$0.13,uncommon,4aa19a68-0d71-4123-a64d-8cb76f93cd74,2023-12-23T07:33:25.479Z
+1,Port of Karfell,khm,Kaldheim,265,nonfoil,$0.08,uncommon,bb9465a6-d009-4ecd-9fd1-d046547de902,2023-11-24T13:34:38.249Z
+1,Rune of Sustenance,khm,Kaldheim,25,nonfoil,$0.20,uncommon,0e31b716-f325-445a-9098-9ca75d7b35a4,2023-11-24T13:34:38.249Z
+2,Divine Gambit,khm,Kaldheim,8,nonfoil,$0.03,uncommon,696a8c12-4a1f-4b96-a921-538fa1a2de43,2023-12-23T07:33:00.463Z
+1,Skemfar Elderhall,khm,Kaldheim,268,nonfoil,$0.10,uncommon,82c2a0f7-0f53-4627-8be8-227fde331a69,2023-11-24T13:34:38.249Z
+1,Rootless Yew,khm,Kaldheim,189,nonfoil,$0.05,uncommon,992aba3f-e1cb-4f5a-8b6f-328a069102a4,2023-12-23T07:32:42.680Z
+1,Frost Augur,khm,Kaldheim,56,nonfoil,$0.05,uncommon,a2ae592f-caf6-445a-970b-f8101998e657,2023-11-24T13:34:38.249Z
 1,Crush the Weak,khm,Kaldheim,128,nonfoil,$0.03,uncommon,875a20c2-1d17-46ea-b4d2-3e70bc05aae3,2023-11-24T13:34:38.249Z
-2,Frenzied Raider,khm,Kaldheim,137,nonfoil,$0.02,uncommon,22c59e0b-5b78-4cf5-9c2a-92ccf833778f,2023-12-23T07:31:34.982Z
-1,Icebind Pillar,khm,Kaldheim,62,nonfoil,$0.06,uncommon,a3152f1f-5d3f-4bc4-9b6f-f2983ab3f691,2023-12-23T07:33:12.396Z
-1,Haunting Voyage,khm,Kaldheim,98,nonfoil,$4.72,mythic,2ac5bca0-35fe-47be-a78c-d5eac68a3bfa,2023-11-24T13:34:38.249Z
+2,Frenzied Raider,khm,Kaldheim,137,nonfoil,$0.03,uncommon,22c59e0b-5b78-4cf5-9c2a-92ccf833778f,2023-12-23T07:31:34.982Z
+1,Icebind Pillar,khm,Kaldheim,62,nonfoil,$0.04,uncommon,a3152f1f-5d3f-4bc4-9b6f-f2983ab3f691,2023-12-23T07:33:12.396Z
+1,Haunting Voyage,khm,Kaldheim,98,nonfoil,$6.48,mythic,2ac5bca0-35fe-47be-a78c-d5eac68a3bfa,2023-11-24T13:34:38.249Z
 2,"Vega, the Watcher",khm,Kaldheim,233,nonfoil,$0.16,uncommon,28fced7f-3078-4a54-8f76-0ef14c732e97,2023-12-23T07:32:18.581Z
-1,Spectral Steel,khm,Kaldheim,30,nonfoil,$0.04,uncommon,cf036489-ef9e-40ee-a1bb-24ee37c554f1,2023-11-24T13:34:38.249Z
-1,Search for Glory,khm,Kaldheim,27,nonfoil,$0.62,rare,b65c215d-562d-4c7c-bc9f-b1d741050158,2023-11-24T13:34:38.249Z
-1,Doomskar,khm,Kaldheim,9,nonfoil,$0.76,rare,130ee895-1e5e-4f82-bb66-e1275bac75dd,2023-11-24T13:34:38.249Z
-1,"Cosima, God of the Voyage // The Omenkeel",khm,Kaldheim,50,nonfoil,$0.29,rare,fab2fca4-a99f-4ffe-9c02-edb6e0be2358,2023-12-23T07:32:00.598Z
-1,Valkyrie's Sword,khm,Kaldheim,36,nonfoil,$0.06,uncommon,97873c66-6bff-4d79-850c-1e2663098ef4,2023-11-24T13:34:38.249Z
-1,Boreal Outrider,khm,Kaldheim,163,nonfoil,$0.06,uncommon,455ae615-20d7-4251-828d-72a3345d06f1,2023-11-24T13:34:38.249Z
-1,"Koll, the Forgemaster",khm,Kaldheim,325,nonfoil,$0.10,uncommon,37533179-8e58-40bc-af16-0d2c58b773ba,2023-11-24T13:34:38.249Z
-1,Bretagard Stronghold,khm,Kaldheim,253,nonfoil,$0.07,uncommon,24a0f2e2-cfd7-4374-a172-4357d5de47bb,2023-11-24T13:34:38.249Z
-1,Rise of the Dread Marn,khm,Kaldheim,107,nonfoil,$0.40,rare,9d3a1ec1-f362-494d-a23b-6a963ce44fdd,2023-11-24T13:34:38.249Z
-1,Replicating Ring,khm,Kaldheim,244,nonfoil,$0.35,uncommon,b079e285-8431-46aa-bb04-70cac586ed0b,2023-11-24T13:34:38.249Z
+1,Spectral Steel,khm,Kaldheim,30,nonfoil,$0.06,uncommon,cf036489-ef9e-40ee-a1bb-24ee37c554f1,2023-11-24T13:34:38.249Z
+1,Search for Glory,khm,Kaldheim,27,nonfoil,$0.53,rare,b65c215d-562d-4c7c-bc9f-b1d741050158,2023-11-24T13:34:38.249Z
+1,Doomskar,khm,Kaldheim,9,nonfoil,$0.55,rare,130ee895-1e5e-4f82-bb66-e1275bac75dd,2023-11-24T13:34:38.249Z
+1,"Cosima, God of the Voyage // The Omenkeel",khm,Kaldheim,50,nonfoil,$0.44,rare,fab2fca4-a99f-4ffe-9c02-edb6e0be2358,2023-12-23T07:32:00.598Z
+1,Valkyrie's Sword,khm,Kaldheim,36,nonfoil,$0.04,uncommon,97873c66-6bff-4d79-850c-1e2663098ef4,2023-11-24T13:34:38.249Z
+1,Boreal Outrider,khm,Kaldheim,163,nonfoil,$0.05,uncommon,455ae615-20d7-4251-828d-72a3345d06f1,2023-11-24T13:34:38.249Z
+1,"Koll, the Forgemaster",khm,Kaldheim,325,nonfoil,$0.07,uncommon,37533179-8e58-40bc-af16-0d2c58b773ba,2023-11-24T13:34:38.249Z
+1,Bretagard Stronghold,khm,Kaldheim,253,nonfoil,$0.08,uncommon,24a0f2e2-cfd7-4374-a172-4357d5de47bb,2023-11-24T13:34:38.249Z
+1,Rise of the Dread Marn,khm,Kaldheim,107,nonfoil,$0.41,rare,9d3a1ec1-f362-494d-a23b-6a963ce44fdd,2023-11-24T13:34:38.249Z
+1,Replicating Ring,khm,Kaldheim,244,nonfoil,$0.30,uncommon,b079e285-8431-46aa-bb04-70cac586ed0b,2023-11-24T13:34:38.249Z
 1,Battershield Warrior,khm,Kaldheim,2,nonfoil,$0.02,uncommon,fb79dc85-f85a-4846-9ac3-c75c64ea9c0a,2023-12-23T07:31:55.181Z
 1,"Harald, King of Skemfar",khm,Kaldheim,212,nonfoil,$0.10,uncommon,9eac78a2-599f-4dba-aec7-982c5ae3f75a,2023-11-24T13:34:38.249Z
-1,Arni Slays the Troll,khm,Kaldheim,201,nonfoil,$0.10,uncommon,d18396f9-ae20-4471-84ab-a2148319bc39,2023-11-24T13:34:38.249Z
-1,Niko Defies Destiny,khm,Kaldheim,226,nonfoil,$0.02,uncommon,19312f53-5b9d-4e76-91e8-65f444bb68c9,2023-11-24T13:34:38.249Z
-1,"Fynn, the Fangbearer",khm,Kaldheim,170,nonfoil,$0.13,uncommon,7d7a8a90-13c1-4b0c-ab2e-fc8d91ccefd9,2023-11-24T13:34:38.249Z
-1,"Svella, Ice Shaper",khm,Kaldheim,230,nonfoil,$0.10,uncommon,a7054d48-5ed3-43a1-85e5-9f306b081b4f,2023-12-23T07:32:10.564Z
-1,Mystic Reflection,khm,Kaldheim,69,nonfoil,$0.81,rare,f7b877e2-60eb-46cd-acd7-8555b9e7e993,2023-11-24T13:34:38.249Z
-1,Dual Strike,khm,Kaldheim,132,nonfoil,$0.12,uncommon,6ef580f8-efec-4d31-8dc3-2018dd48b6f4,2023-12-23T07:32:54.746Z
-1,Great Hall of Starnheim,khm,Kaldheim,259,nonfoil,$0.09,uncommon,a23c757e-5944-47ce-b06f-27b4c403044c,2023-11-24T13:34:38.249Z
-1,"Firja, Judge of Valor",khm,Kaldheim,322,nonfoil,$0.09,uncommon,9ec8cdd5-e55b-40e0-a61e-f28890f5628d,2023-12-23T07:32:36.197Z
-1,Runeforge Champion,khm,Kaldheim,26,nonfoil,$0.09,rare,4368b087-05a0-4a88-ab43-0cd16446239b,2023-12-23T07:32:05.214Z
+1,Arni Slays the Troll,khm,Kaldheim,201,nonfoil,$0.11,uncommon,d18396f9-ae20-4471-84ab-a2148319bc39,2023-11-24T13:34:38.249Z
+1,Niko Defies Destiny,khm,Kaldheim,226,nonfoil,$0.03,uncommon,19312f53-5b9d-4e76-91e8-65f444bb68c9,2023-11-24T13:34:38.249Z
+1,"Fynn, the Fangbearer",khm,Kaldheim,170,nonfoil,$0.14,uncommon,7d7a8a90-13c1-4b0c-ab2e-fc8d91ccefd9,2023-11-24T13:34:38.249Z
+1,"Svella, Ice Shaper",khm,Kaldheim,230,nonfoil,$0.12,uncommon,a7054d48-5ed3-43a1-85e5-9f306b081b4f,2023-12-23T07:32:10.564Z
+1,Mystic Reflection,khm,Kaldheim,69,nonfoil,$0.85,rare,f7b877e2-60eb-46cd-acd7-8555b9e7e993,2023-11-24T13:34:38.249Z
+1,Dual Strike,khm,Kaldheim,132,nonfoil,$0.15,uncommon,6ef580f8-efec-4d31-8dc3-2018dd48b6f4,2023-12-23T07:32:54.746Z
+1,Great Hall of Starnheim,khm,Kaldheim,259,nonfoil,$0.08,uncommon,a23c757e-5944-47ce-b06f-27b4c403044c,2023-11-24T13:34:38.249Z
+1,"Firja, Judge of Valor",khm,Kaldheim,322,nonfoil,$0.08,uncommon,9ec8cdd5-e55b-40e0-a61e-f28890f5628d,2023-12-23T07:32:36.197Z
+1,Runeforge Champion,khm,Kaldheim,26,nonfoil,$0.10,rare,4368b087-05a0-4a88-ab43-0cd16446239b,2023-12-23T07:32:05.214Z
 1,"Narfi, Betrayer King",khm,Kaldheim,224,nonfoil,$0.08,uncommon,421376e4-a4ad-427c-bc9c-d315308dcf68,2023-11-24T13:34:38.249Z
-1,Dream Devourer,khm,Kaldheim,90,nonfoil,$0.39,rare,ff1d88a6-a74d-44b5-b7a8-866e866807f1,2023-12-23T07:30:39.833Z
-2,Elven Bow,khm,Kaldheim,166,nonfoil,$0.05,uncommon,34c599c7-bcc1-4005-b830-1fa4811af66e,2023-12-23T07:33:06.264Z
+1,Dream Devourer,khm,Kaldheim,90,nonfoil,$0.35,rare,ff1d88a6-a74d-44b5-b7a8-866e866807f1,2023-12-23T07:30:39.833Z
+2,Elven Bow,khm,Kaldheim,166,nonfoil,$0.06,uncommon,34c599c7-bcc1-4005-b830-1fa4811af66e,2023-12-23T07:33:06.264Z
 1,Axgard Armory,khm,Kaldheim,250,nonfoil,$0.28,uncommon,f9c77d35-8418-48fb-b7d7-7cfa763545c5,2023-12-23T07:33:32.213Z
-2,Rune of Mortality,khm,Kaldheim,108,nonfoil,$0.17,uncommon,6f75a5e5-70df-49c3-abe1-8cc6975f5171,2023-12-23T07:33:18.163Z
-1,Giant's Amulet,khm,Kaldheim,59,nonfoil,$0.09,uncommon,ab8b1ec2-9303-4722-8644-b3bc1a5c387f,2023-11-24T13:34:38.249Z
-1,"Aegar, the Freezing Flame",khm,Kaldheim,200,nonfoil,$0.03,uncommon,68011f60-6202-48f4-8255-fb94764e2951,2023-11-24T13:34:38.249Z
-1,Draugr Necromancer,khm,Kaldheim,86,nonfoil,$0.19,rare,76d8e0ff-e720-41ca-af69-35585a2d7ae2,2023-11-24T13:34:38.249Z
-1,Tergrid's Shadow,khm,Kaldheim,113,nonfoil,$0.08,uncommon,417f71d2-d7da-4279-8847-d27c67e9ea9d,2023-11-24T13:34:38.249Z
-1,Fearless Liberator,khm,Kaldheim,135,nonfoil,$0.04,uncommon,212462b7-e23e-4c87-93aa-9cadefbf1ac8,2023-11-24T13:34:38.249Z
-1,Doomskar Titan,khm,Kaldheim,130,nonfoil,$0.04,uncommon,a4e125e4-103f-4a68-b85f-1382646da71e,2023-12-23T07:32:47.846Z
-1,Littjara Glade-Warden,khm,Kaldheim,182,nonfoil,$0.03,uncommon,a92dde51-310e-4f28-bd3b-d43b639785ec,2023-11-24T13:34:38.249Z
-1,"Halvar, God of Battle // Sword of the Realms",khm,Kaldheim,299,nonfoil,$8.36,mythic,feddb683-a8f8-4def-bd3e-6d630c42cd34,2023-12-23T07:27:44.086Z
-1,The World Tree,khm,Kaldheim,275,nonfoil,$4.48,rare,a70cb6d9-3955-4064-917b-11dec26440c5,2023-12-23T07:27:26.171Z
-1,"Shagrat, Loot Bearer",ltr,The Lord of the Rings: Tales of Middle-earth,372,nonfoil,$0.21,rare,1922e391-54c3-4df5-a8b1-c7cd07598e08,2024-01-16T19:44:54.071Z
-1,Stew the Coneys,ltr,The Lord of the Rings: Tales of Middle-earth,189,nonfoil,$0.05,uncommon,bcc7c41c-f416-457e-91ba-1f338f45eeac,2024-01-16T19:45:38.915Z
-1,Samwise the Stouthearted,ltr,The Lord of the Rings: Tales of Middle-earth,306,nonfoil,$0.08,uncommon,44c6a273-9307-432a-96f5-3e536da70f95,2024-01-16T19:43:54.802Z
-1,Gwaihir the Windlord,ltr,The Lord of the Rings: Tales of Middle-earth,210,nonfoil,$0.03,uncommon,1a42c951-1146-4f49-a690-7d385962b191,2024-01-16T19:46:24.170Z
+2,Rune of Mortality,khm,Kaldheim,108,nonfoil,$0.16,uncommon,6f75a5e5-70df-49c3-abe1-8cc6975f5171,2023-12-23T07:33:18.163Z
+1,Giant's Amulet,khm,Kaldheim,59,nonfoil,$0.07,uncommon,ab8b1ec2-9303-4722-8644-b3bc1a5c387f,2023-11-24T13:34:38.249Z
+1,"Aegar, the Freezing Flame",khm,Kaldheim,200,nonfoil,$0.04,uncommon,68011f60-6202-48f4-8255-fb94764e2951,2023-11-24T13:34:38.249Z
+1,Draugr Necromancer,khm,Kaldheim,86,nonfoil,$0.23,rare,76d8e0ff-e720-41ca-af69-35585a2d7ae2,2023-11-24T13:34:38.249Z
+1,Tergrid's Shadow,khm,Kaldheim,113,nonfoil,$0.07,uncommon,417f71d2-d7da-4279-8847-d27c67e9ea9d,2023-11-24T13:34:38.249Z
+1,Fearless Liberator,khm,Kaldheim,135,nonfoil,$0.06,uncommon,212462b7-e23e-4c87-93aa-9cadefbf1ac8,2023-11-24T13:34:38.249Z
+1,Doomskar Titan,khm,Kaldheim,130,nonfoil,$0.03,uncommon,a4e125e4-103f-4a68-b85f-1382646da71e,2023-12-23T07:32:47.846Z
+1,Littjara Glade-Warden,khm,Kaldheim,182,nonfoil,$0.05,uncommon,a92dde51-310e-4f28-bd3b-d43b639785ec,2023-11-24T13:34:38.249Z
+1,"Halvar, God of Battle // Sword of the Realms",khm,Kaldheim,299,nonfoil,$8.02,mythic,feddb683-a8f8-4def-bd3e-6d630c42cd34,2023-12-23T07:27:44.086Z
+1,The World Tree,khm,Kaldheim,275,nonfoil,$4.50,rare,a70cb6d9-3955-4064-917b-11dec26440c5,2023-12-23T07:27:26.171Z
+1,"Shagrat, Loot Bearer",ltr,The Lord of the Rings: Tales of Middle-earth,372,nonfoil,$0.26,rare,1922e391-54c3-4df5-a8b1-c7cd07598e08,2024-01-16T19:44:54.071Z
+1,Stew the Coneys,ltr,The Lord of the Rings: Tales of Middle-earth,189,nonfoil,$0.04,uncommon,bcc7c41c-f416-457e-91ba-1f338f45eeac,2024-01-16T19:45:38.915Z
+1,Samwise the Stouthearted,ltr,The Lord of the Rings: Tales of Middle-earth,306,nonfoil,$0.07,uncommon,44c6a273-9307-432a-96f5-3e536da70f95,2024-01-16T19:43:54.802Z
+1,Gwaihir the Windlord,ltr,The Lord of the Rings: Tales of Middle-earth,210,nonfoil,$0.05,uncommon,1a42c951-1146-4f49-a690-7d385962b191,2024-01-16T19:46:24.170Z
 1,Gavony Trapper,mid,Innistrad: Midnight Hunt,22,foil,$0.01,common,5a1309ea-4411-4116-841f-5aef8611400c,2023-11-22T06:48:24.771Z
-1,Plains,mid,Innistrad: Midnight Hunt,380,foil,$0.09,common,46b94de4-099e-43d7-8f24-d5450b09f1f1,2023-11-22T06:48:24.771Z
-1,Mysterious Tome // Chilling Chronicle,mid,Innistrad: Midnight Hunt,63,foil,$0.14,uncommon,caa57b63-bb11-45e8-8795-de92ca61f4f1,2023-11-22T06:48:24.771Z
-1,Swamp,mid,Innistrad: Midnight Hunt,382,foil,$0.11,common,2f4b9030-f04a-4f42-8dd8-2eae0ce7e420,2023-11-22T06:48:24.771Z
-1,Swamp,mid,Innistrad: Midnight Hunt,273,foil,$0.92,common,38fef662-993c-4522-8b3f-7c1d3bb1d946,2023-11-22T06:48:24.771Z
-1,Sunrise Cavalier,mid,Innistrad: Midnight Hunt,244,foil,$0.11,uncommon,3d0081b1-40fd-44ad-b154-efe2f27fed6b,2023-11-22T06:48:24.771Z
-1,Forest,mid,Innistrad: Midnight Hunt,277,foil,$0.45,common,122b5548-5ff5-43e4-b799-75c709b1c32d,2023-11-22T06:48:24.771Z
-1,Forest,mid,Innistrad: Midnight Hunt,384,foil,$0.11,common,ec8de02c-7954-4424-8b95-a21d8e104bd4,2023-11-22T06:48:24.771Z
-1,Mountain,mid,Innistrad: Midnight Hunt,383,foil,$0.18,common,f92e9e94-e5e9-4b2c-b9e5-35de42ca7b8e,2023-11-22T06:48:24.771Z
-1,Island,mid,Innistrad: Midnight Hunt,270,foil,$0.65,common,8dc3bd34-4d12-4728-a53a-b5ae434d74b0,2023-12-31T11:43:25.880Z
-1,Island,mid,Innistrad: Midnight Hunt,381,foil,$0.10,common,60e6b919-e7c0-4844-a65c-d8b83b3e5287,2023-11-22T06:48:24.771Z
+1,Plains,mid,Innistrad: Midnight Hunt,380,foil,$0.12,common,46b94de4-099e-43d7-8f24-d5450b09f1f1,2023-11-22T06:48:24.771Z
+1,Mysterious Tome // Chilling Chronicle,mid,Innistrad: Midnight Hunt,63,foil,$0.12,uncommon,caa57b63-bb11-45e8-8795-de92ca61f4f1,2023-11-22T06:48:24.771Z
+1,Swamp,mid,Innistrad: Midnight Hunt,382,foil,$0.10,common,2f4b9030-f04a-4f42-8dd8-2eae0ce7e420,2023-11-22T06:48:24.771Z
+1,Swamp,mid,Innistrad: Midnight Hunt,273,foil,$1.12,common,38fef662-993c-4522-8b3f-7c1d3bb1d946,2023-11-22T06:48:24.771Z
+1,Sunrise Cavalier,mid,Innistrad: Midnight Hunt,244,foil,$0.08,uncommon,3d0081b1-40fd-44ad-b154-efe2f27fed6b,2023-11-22T06:48:24.771Z
+1,Forest,mid,Innistrad: Midnight Hunt,277,foil,$0.39,common,122b5548-5ff5-43e4-b799-75c709b1c32d,2023-11-22T06:48:24.771Z
+1,Forest,mid,Innistrad: Midnight Hunt,384,foil,$0.14,common,ec8de02c-7954-4424-8b95-a21d8e104bd4,2023-11-22T06:48:24.771Z
+1,Mountain,mid,Innistrad: Midnight Hunt,383,foil,$0.19,common,f92e9e94-e5e9-4b2c-b9e5-35de42ca7b8e,2023-11-22T06:48:24.771Z
+1,Island,mid,Innistrad: Midnight Hunt,270,foil,$0.73,common,8dc3bd34-4d12-4728-a53a-b5ae434d74b0,2023-12-31T11:43:25.880Z
+1,Island,mid,Innistrad: Midnight Hunt,381,foil,$0.12,common,60e6b919-e7c0-4844-a65c-d8b83b3e5287,2023-11-22T06:48:24.771Z
 1,Mourning Patrol // Morning Apparition,mid,Innistrad: Midnight Hunt,28,foil,$0.02,common,2d3687e2-09e0-4753-aa02-88a19bde3330,2023-12-31T11:42:06.514Z
-1,Electric Revelation,mid,Innistrad: Midnight Hunt,135,foil,$0.11,common,20ff3289-00fb-4e91-b34f-6255e9de8e9e,2023-12-31T11:42:58.364Z
+1,Electric Revelation,mid,Innistrad: Midnight Hunt,135,foil,$0.14,common,20ff3289-00fb-4e91-b34f-6255e9de8e9e,2023-12-31T11:42:58.364Z
 1,Abandon the Post,mid,Innistrad: Midnight Hunt,127,foil,$0.01,common,983da138-f0f5-46c4-90c2-d3c34cc37d1f,2023-12-31T11:43:19.397Z
-1,Arrogant Outlaw,mid,Innistrad: Midnight Hunt,84,foil,$0.02,common,496a9d45-6197-44b6-b0fc-17aeae281b2f,2023-11-22T06:48:24.771Z
-1,Triskaidekaphile,mid,Innistrad: Midnight Hunt,386,foil,$0.29,rare,b6db2d37-3533-4830-ab63-6724ece6fbea,2023-11-22T06:48:24.771Z
-1,Burly Breaker // Dire-Strain Demolisher,mid,Innistrad: Midnight Hunt,299,foil,$0.11,uncommon,1b50c98e-6c3b-4129-ae93-10c0bf9270fc,2023-11-22T06:48:24.771Z
+1,Arrogant Outlaw,mid,Innistrad: Midnight Hunt,84,foil,$0.05,common,496a9d45-6197-44b6-b0fc-17aeae281b2f,2023-11-22T06:48:24.771Z
+1,Triskaidekaphile,mid,Innistrad: Midnight Hunt,386,foil,$0.55,rare,b6db2d37-3533-4830-ab63-6724ece6fbea,2023-11-22T06:48:24.771Z
+1,Burly Breaker // Dire-Strain Demolisher,mid,Innistrad: Midnight Hunt,299,foil,$0.13,uncommon,1b50c98e-6c3b-4129-ae93-10c0bf9270fc,2023-11-22T06:48:24.771Z
 1,Obsessive Astronomer,mid,Innistrad: Midnight Hunt,152,foil,$0.01,uncommon,4f6e0cb6-283b-448e-89c6-8b6e8e21e38b,2023-12-31T11:41:38.804Z
 1,Evolving Wilds,mid,Innistrad: Midnight Hunt,261,foil,$0.14,common,cb471f90-46f2-4037-87fc-f523fc9d004f,2023-11-22T06:48:24.771Z
-1,Unblinking Observer,mid,Innistrad: Midnight Hunt,82,foil,$0.07,common,8148063c-a509-43ac-a291-c9410c30c2f2,2023-12-31T11:41:52.682Z
-1,Harvesttide Infiltrator // Harvesttide Assailant,mid,Innistrad: Midnight Hunt,293,foil,$0.03,common,28bc2848-b6fb-444d-b909-01c712696547,2023-12-31T11:41:59.564Z
+1,Unblinking Observer,mid,Innistrad: Midnight Hunt,82,foil,$0.09,common,8148063c-a509-43ac-a291-c9410c30c2f2,2023-12-31T11:41:52.682Z
+1,Harvesttide Infiltrator // Harvesttide Assailant,mid,Innistrad: Midnight Hunt,293,foil,$0.04,common,28bc2848-b6fb-444d-b909-01c712696547,2023-12-31T11:41:59.564Z
 1,Burn the Accursed,mid,Innistrad: Midnight Hunt,132,foil,$0.02,common,ff4d4e6b-564d-46da-8e32-09ed08c8ddc5,2023-11-22T06:48:24.771Z
-1,Otherworldly Gaze,mid,Innistrad: Midnight Hunt,67,foil,$1.45,common,9cebee20-869e-45ed-9ddc-843faf4032ad,2023-12-31T11:42:37.897Z
-1,Sungold Barrage,mid,Innistrad: Midnight Hunt,36,foil,$0.01,common,ee507688-9890-47c4-bb04-43c51eb48e22,2023-12-31T11:43:05.497Z
-1,Olivia's Midnight Ambush,mid,Innistrad: Midnight Hunt,118,foil,$0.05,common,9c1adede-22ad-4c1c-9501-ad731fbe1742,2023-11-22T06:48:24.771Z
-1,"Florian, Voldaren Scion",mid,Innistrad: Midnight Hunt,223,nonfoil,$0.34,rare,53289e69-74da-46d2-91c2-a11378ba76ef,2023-11-24T13:34:38.249Z
-3,Dryad's Revival,mid,Innistrad: Midnight Hunt,183,nonfoil,$0.08,uncommon,5c0aa3eb-0aa8-42da-b437-a3f336df585d,2024-01-01T16:17:24.445Z
-1,Kessig Naturalist // Lord of the Ulvenwald,mid,Innistrad: Midnight Hunt,310,nonfoil,$0.10,uncommon,3ee3f0ed-e4ea-483e-bacc-d58bcf9e07b5,2024-01-01T16:12:45.812Z
+1,Otherworldly Gaze,mid,Innistrad: Midnight Hunt,67,foil,$1.14,common,9cebee20-869e-45ed-9ddc-843faf4032ad,2023-12-31T11:42:37.897Z
+1,Sungold Barrage,mid,Innistrad: Midnight Hunt,36,foil,$0.03,common,ee507688-9890-47c4-bb04-43c51eb48e22,2023-12-31T11:43:05.497Z
+1,Olivia's Midnight Ambush,mid,Innistrad: Midnight Hunt,118,foil,$0.07,common,9c1adede-22ad-4c1c-9501-ad731fbe1742,2023-11-22T06:48:24.771Z
+1,"Florian, Voldaren Scion",mid,Innistrad: Midnight Hunt,223,nonfoil,$0.30,rare,53289e69-74da-46d2-91c2-a11378ba76ef,2023-11-24T13:34:38.249Z
+3,Dryad's Revival,mid,Innistrad: Midnight Hunt,183,nonfoil,$0.07,uncommon,5c0aa3eb-0aa8-42da-b437-a3f336df585d,2024-01-01T16:17:24.445Z
+1,Kessig Naturalist // Lord of the Ulvenwald,mid,Innistrad: Midnight Hunt,310,nonfoil,$0.06,uncommon,3ee3f0ed-e4ea-483e-bacc-d58bcf9e07b5,2024-01-01T16:12:45.812Z
 1,Loyal Gryff,mid,Innistrad: Midnight Hunt,26,nonfoil,$0.02,uncommon,b4d41ac4-3273-4722-aaa6-ceeba66cf591,2024-01-01T16:14:15.867Z
 1,Geistflame Reservoir,mid,Innistrad: Midnight Hunt,142,nonfoil,$0.09,rare,4b247ce7-9c58-404f-bed1-84abb37575ab,2024-01-01T16:17:55.556Z
 3,Brood Weaver,mid,Innistrad: Midnight Hunt,173,nonfoil,$0.10,uncommon,e24e2f49-70f9-445f-af03-2ef43798004a,2024-01-01T16:14:40.837Z
-1,Grafted Identity,mid,Innistrad: Midnight Hunt,57,nonfoil,$0.11,rare,2559846b-03d6-4a2c-97e1-c71f107e9f24,2023-11-24T13:34:38.249Z
+1,Grafted Identity,mid,Innistrad: Midnight Hunt,57,nonfoil,$0.08,rare,2559846b-03d6-4a2c-97e1-c71f107e9f24,2023-11-24T13:34:38.249Z
 1,Dawnhart Wardens,mid,Innistrad: Midnight Hunt,308,nonfoil,$0.02,uncommon,54c410dc-123c-4431-9ccb-3f17e6555d68,2024-01-01T16:13:46.792Z
-1,Vengeful Strangler // Strangling Grasp,mid,Innistrad: Midnight Hunt,126,nonfoil,$0.11,uncommon,d4054ae6-0227-4d99-8cb5-72e8b5d0b726,2023-11-24T13:34:38.249Z
-1,Old Stickfingers,mid,Innistrad: Midnight Hunt,234,nonfoil,$0.44,rare,b203be6f-c565-4d8f-b200-b537569a0292,2024-01-01T16:12:55.163Z
-1,Ambitious Farmhand // Seasoned Cathar,mid,Innistrad: Midnight Hunt,2,nonfoil,$0.26,uncommon,54d4e7c3-294d-4900-8b70-faafda17cc33,2023-11-24T13:34:38.249Z
-2,Dawnhart Mentor,mid,Innistrad: Midnight Hunt,300,nonfoil,$0.02,uncommon,ac558d9d-5c7d-4671-ae0b-94c099e1b111,2023-11-24T13:34:38.249Z
-1,Hound Tamer // Untamed Pup,mid,Innistrad: Midnight Hunt,187,nonfoil,$0.14,uncommon,28e2119b-ed78-4b98-a956-f2b453d0b164,2023-11-24T13:34:38.249Z
-2,Hound Tamer // Untamed Pup,mid,Innistrad: Midnight Hunt,302,nonfoil,$0.04,uncommon,83218607-240e-4473-8b0b-6b4670b010e6,2024-01-01T16:14:11.502Z
+1,Vengeful Strangler // Strangling Grasp,mid,Innistrad: Midnight Hunt,126,nonfoil,$0.09,uncommon,d4054ae6-0227-4d99-8cb5-72e8b5d0b726,2023-11-24T13:34:38.249Z
+1,Old Stickfingers,mid,Innistrad: Midnight Hunt,234,nonfoil,$0.39,rare,b203be6f-c565-4d8f-b200-b537569a0292,2024-01-01T16:12:55.163Z
+1,Ambitious Farmhand // Seasoned Cathar,mid,Innistrad: Midnight Hunt,2,nonfoil,$0.23,uncommon,54d4e7c3-294d-4900-8b70-faafda17cc33,2023-11-24T13:34:38.249Z
+2,Dawnhart Mentor,mid,Innistrad: Midnight Hunt,300,nonfoil,$0.03,uncommon,ac558d9d-5c7d-4671-ae0b-94c099e1b111,2023-11-24T13:34:38.249Z
+1,Hound Tamer // Untamed Pup,mid,Innistrad: Midnight Hunt,187,nonfoil,$0.17,uncommon,28e2119b-ed78-4b98-a956-f2b453d0b164,2023-11-24T13:34:38.249Z
+2,Hound Tamer // Untamed Pup,mid,Innistrad: Midnight Hunt,302,nonfoil,$0.05,uncommon,83218607-240e-4473-8b0b-6b4670b010e6,2024-01-01T16:14:11.502Z
 2,Duelcraft Trainer,mid,Innistrad: Midnight Hunt,16,nonfoil,$0.02,uncommon,6b75855c-88dc-4491-8045-080debfeb7b5,2024-01-01T16:14:50.621Z
-1,"Katilda, Dawnhart Prime",mid,Innistrad: Midnight Hunt,309,nonfoil,$0.36,rare,3ef98a2c-4b48-45e3-bbcb-9fd338f5a05a,2023-11-24T13:34:38.249Z
-1,Village Watch // Village Reavers,mid,Innistrad: Midnight Hunt,297,nonfoil,$0.05,uncommon,a622635e-482d-4621-8874-3945af74e9ca,2023-11-24T13:34:38.249Z
-1,Borrowed Time,mid,Innistrad: Midnight Hunt,6,nonfoil,$0.07,uncommon,3eeef24b-b937-408e-a32e-1a546d3e7b0f,2024-01-01T16:16:33.768Z
+1,"Katilda, Dawnhart Prime",mid,Innistrad: Midnight Hunt,309,nonfoil,$0.34,rare,3ef98a2c-4b48-45e3-bbcb-9fd338f5a05a,2023-11-24T13:34:38.249Z
+1,Village Watch // Village Reavers,mid,Innistrad: Midnight Hunt,297,nonfoil,$0.03,uncommon,a622635e-482d-4621-8874-3945af74e9ca,2023-11-24T13:34:38.249Z
+1,Borrowed Time,mid,Innistrad: Midnight Hunt,6,nonfoil,$0.09,uncommon,3eeef24b-b937-408e-a32e-1a546d3e7b0f,2024-01-01T16:16:33.768Z
 1,Flame Channeler // Embodiment of Flame,mid,Innistrad: Midnight Hunt,141,nonfoil,$0.04,uncommon,be91fcba-4599-4ecb-824d-55112096c34a,2024-01-01T16:03:51.972Z
-1,Overgrown Farmland,mid,Innistrad: Midnight Hunt,265,nonfoil,$5.59,rare,84a76e0f-49fc-4087-8859-98f4a4deacdf,2023-11-24T13:34:38.249Z
-3,Rise of the Ants,mid,Innistrad: Midnight Hunt,196,nonfoil,$0.03,uncommon,3143fadd-0162-4e0c-89fc-89dc3501d13c,2024-01-01T16:17:18.814Z
-1,Morbid Opportunist,mid,Innistrad: Midnight Hunt,113,nonfoil,$1.66,uncommon,5a53982e-3d66-4808-bcb5-46ff40567872,2023-11-24T13:34:38.249Z
+1,Overgrown Farmland,mid,Innistrad: Midnight Hunt,265,nonfoil,$5.02,rare,84a76e0f-49fc-4087-8859-98f4a4deacdf,2023-11-24T13:34:38.249Z
+3,Rise of the Ants,mid,Innistrad: Midnight Hunt,196,nonfoil,$0.04,uncommon,3143fadd-0162-4e0c-89fc-89dc3501d13c,2024-01-01T16:17:18.814Z
+1,Morbid Opportunist,mid,Innistrad: Midnight Hunt,113,nonfoil,$2.84,uncommon,5a53982e-3d66-4808-bcb5-46ff40567872,2023-11-24T13:34:38.249Z
 1,Necrosynthesis,mid,Innistrad: Midnight Hunt,115,nonfoil,$0.10,uncommon,b75b89f1-e032-4d8c-b2b6-1b76e8644801,2023-11-24T13:34:38.249Z
-1,Smoldering Egg // Ashmouth Dragon,mid,Innistrad: Midnight Hunt,159,nonfoil,$0.36,rare,41b6381f-4ff8-49e9-bf00-cfe32851318b,2024-01-01T16:13:18.349Z
+1,Smoldering Egg // Ashmouth Dragon,mid,Innistrad: Midnight Hunt,159,nonfoil,$0.55,rare,41b6381f-4ff8-49e9-bf00-cfe32851318b,2024-01-01T16:13:18.349Z
 1,Croaking Counterpart,mid,Innistrad: Midnight Hunt,215,nonfoil,$0.31,rare,9847b22f-6660-4654-91a9-e0adb8606bab,2024-01-01T16:17:32.853Z
-1,Sigardian Savior,mid,Innistrad: Midnight Hunt,34,nonfoil,$0.29,mythic,b1a2b41a-34b0-428e-80ec-3ffd601093a2,2024-01-01T16:15:33.262Z
+1,Sigardian Savior,mid,Innistrad: Midnight Hunt,34,nonfoil,$0.26,mythic,b1a2b41a-34b0-428e-80ec-3ffd601093a2,2024-01-01T16:15:33.262Z
 2,Ominous Roost,mid,Innistrad: Midnight Hunt,65,nonfoil,$0.04,uncommon,daf2b49a-56f9-4093-960f-9ec7af8983b5,2024-01-01T16:16:42.046Z
-1,Wake to Slaughter,mid,Innistrad: Midnight Hunt,250,nonfoil,$0.07,rare,7f02a544-716c-4f09-8ae9-dbfe7ef136d7,2023-11-24T13:34:38.249Z
-2,"Rem Karolus, Stalwart Slayer",mid,Innistrad: Midnight Hunt,235,nonfoil,$0.26,rare,b31e307a-9689-4e11-8c5f-96b7a4b50bed,2024-01-01T16:14:22.366Z
+1,Wake to Slaughter,mid,Innistrad: Midnight Hunt,250,nonfoil,$0.09,rare,7f02a544-716c-4f09-8ae9-dbfe7ef136d7,2023-11-24T13:34:38.249Z
+2,"Rem Karolus, Stalwart Slayer",mid,Innistrad: Midnight Hunt,235,nonfoil,$0.25,rare,b31e307a-9689-4e11-8c5f-96b7a4b50bed,2024-01-01T16:14:22.366Z
 1,Vivisection,mid,Innistrad: Midnight Hunt,83,nonfoil,$0.03,uncommon,91be6a06-9c36-45a3-a591-183cb5c0f800,2023-11-24T13:34:38.249Z
 3,Rootcoil Creeper,mid,Innistrad: Midnight Hunt,238,nonfoil,$0.08,uncommon,3743cf9c-226f-43a3-b385-375a25414792,2023-11-24T13:34:38.249Z
-2,Burly Breaker // Dire-Strain Demolisher,mid,Innistrad: Midnight Hunt,299,nonfoil,$0.03,uncommon,1b50c98e-6c3b-4129-ae93-10c0bf9270fc,2023-11-24T13:34:38.249Z
-2,Winterthorn Blessing,mid,Innistrad: Midnight Hunt,251,nonfoil,$0.04,uncommon,f1e9edd3-151d-4bf6-b491-03db9db32234,2024-01-01T16:17:28.882Z
+2,Burly Breaker // Dire-Strain Demolisher,mid,Innistrad: Midnight Hunt,299,nonfoil,$0.04,uncommon,1b50c98e-6c3b-4129-ae93-10c0bf9270fc,2023-11-24T13:34:38.249Z
+2,Winterthorn Blessing,mid,Innistrad: Midnight Hunt,251,nonfoil,$0.02,uncommon,f1e9edd3-151d-4bf6-b491-03db9db32234,2024-01-01T16:17:28.882Z
 1,Beloved Beggar // Generous Soul,mid,Innistrad: Midnight Hunt,3,nonfoil,$0.02,uncommon,6109b54e-56c5-4014-9f6d-d5f7a0fd725d,2024-01-01T16:03:38.593Z
-1,Skaab Wrangler,mid,Innistrad: Midnight Hunt,75,nonfoil,$0.03,uncommon,9771d9e8-97d5-44af-8612-dc5c44d65ceb,2023-11-24T13:34:38.249Z
-3,Outland Liberator // Frenzied Trapbreaker,mid,Innistrad: Midnight Hunt,303,nonfoil,$0.28,uncommon,f86b7c7e-825a-4634-8a85-3b56f112188c,2024-01-01T16:13:00.741Z
-2,Turn the Earth,mid,Innistrad: Midnight Hunt,205,nonfoil,$0.07,uncommon,34076a93-9e8f-45d4-a1d7-31f40210a5b6,2024-01-01T16:15:50.904Z
+1,Skaab Wrangler,mid,Innistrad: Midnight Hunt,75,nonfoil,$0.04,uncommon,9771d9e8-97d5-44af-8612-dc5c44d65ceb,2023-11-24T13:34:38.249Z
+3,Outland Liberator // Frenzied Trapbreaker,mid,Innistrad: Midnight Hunt,303,nonfoil,$0.17,uncommon,f86b7c7e-825a-4634-8a85-3b56f112188c,2024-01-01T16:13:00.741Z
+2,Turn the Earth,mid,Innistrad: Midnight Hunt,205,nonfoil,$0.09,uncommon,34076a93-9e8f-45d4-a1d7-31f40210a5b6,2024-01-01T16:15:50.904Z
 3,Phantom Carriage,mid,Innistrad: Midnight Hunt,70,nonfoil,$0.03,uncommon,1990ed41-3739-40f6-8797-359f88af05f9,2023-11-24T13:34:38.249Z
-2,Fading Hope,mid,Innistrad: Midnight Hunt,51,nonfoil,$0.78,uncommon,c2fb1fff-12be-4bd5-8dba-c36e84d49651,2023-11-24T13:34:38.249Z
-2,Faithful Mending,mid,Innistrad: Midnight Hunt,221,nonfoil,$0.50,uncommon,50752ca9-ea85-4c4b-9bf5-4f8759a7dcec,2024-01-01T16:16:51.334Z
-1,Triskaidekaphile,mid,Innistrad: Midnight Hunt,386,foil,$0.29,rare,b6db2d37-3533-4830-ab63-6724ece6fbea,2024-01-01T16:13:27.268Z
-1,Fangblade Brigand // Fangblade Eviscerator,mid,Innistrad: Midnight Hunt,139,nonfoil,$0.05,uncommon,d2feb859-bfae-4bc4-8181-5737dd5c3b08,2024-01-01T16:14:55.593Z
-2,"Tovolar, Dire Overlord // Tovolar, the Midnight Scourge",mid,Innistrad: Midnight Hunt,246,nonfoil,$0.37,rare,f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2,2024-01-01T16:14:35.044Z
-1,Brutal Cathar // Moonrage Brute,mid,Innistrad: Midnight Hunt,7,nonfoil,$2.00,rare,0dbac7ce-a6fa-466e-b6ba-173cf2dec98e,2023-11-24T13:34:38.249Z
+2,Fading Hope,mid,Innistrad: Midnight Hunt,51,nonfoil,$0.74,uncommon,c2fb1fff-12be-4bd5-8dba-c36e84d49651,2023-11-24T13:34:38.249Z
+2,Faithful Mending,mid,Innistrad: Midnight Hunt,221,nonfoil,$0.71,uncommon,50752ca9-ea85-4c4b-9bf5-4f8759a7dcec,2024-01-01T16:16:51.334Z
+1,Triskaidekaphile,mid,Innistrad: Midnight Hunt,386,foil,$0.55,rare,b6db2d37-3533-4830-ab63-6724ece6fbea,2024-01-01T16:13:27.268Z
+1,Fangblade Brigand // Fangblade Eviscerator,mid,Innistrad: Midnight Hunt,139,nonfoil,$0.06,uncommon,d2feb859-bfae-4bc4-8181-5737dd5c3b08,2024-01-01T16:14:55.593Z
+2,"Tovolar, Dire Overlord // Tovolar, the Midnight Scourge",mid,Innistrad: Midnight Hunt,246,nonfoil,$0.54,rare,f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2,2024-01-01T16:14:35.044Z
+1,Brutal Cathar // Moonrage Brute,mid,Innistrad: Midnight Hunt,7,nonfoil,$1.44,rare,0dbac7ce-a6fa-466e-b6ba-173cf2dec98e,2023-11-24T13:34:38.249Z
 1,Defend the Celestus,mid,Innistrad: Midnight Hunt,182,nonfoil,$0.02,uncommon,c11e4420-06f3-48e2-91d1-a9199483add2,2024-01-01T16:17:05.414Z
 1,Curse of Surveillance,mid,Innistrad: Midnight Hunt,46,nonfoil,$0.13,rare,d6a5b3b2-4f27-4c97-9d87-d7bdcc06d36a,2024-01-01T16:16:17.305Z
-1,The Meathook Massacre,mid,Innistrad: Midnight Hunt,112,nonfoil,$30.46,mythic,08950015-eee5-4327-888c-82dfd13bb9ad,2023-11-26T13:27:10.071Z
+1,The Meathook Massacre,mid,Innistrad: Midnight Hunt,112,nonfoil,$36.62,mythic,08950015-eee5-4327-888c-82dfd13bb9ad,2023-11-26T13:27:10.071Z
 1,Iridescent Blademaster,mom,March of the Machine,195,foil,$0.03,common,3fee189f-539f-48fa-b217-4b2599375364,2023-11-23T18:13:49.183Z
 1,Glistening Deluge,mom,March of the Machine,107,nonfoil,$0.10,uncommon,83ca46ac-0698-4651-940d-3fd20c266b74,2023-11-24T13:34:38.249Z
 1,Mutagen Connoisseur,mom,March of the Machine,248,nonfoil,$0.01,uncommon,4a84b6d7-3944-4223-ac16-aa5e59ac84cb,2023-12-19T18:30:23.647Z
-1,Invasion of Moag // Bloomwielder Dryads,mom,March of the Machine,237,nonfoil,$0.02,uncommon,e454bf31-5aa0-4109-a3f5-c3f9cc838682,2023-11-24T13:34:38.249Z
+1,Invasion of Moag // Bloomwielder Dryads,mom,March of the Machine,237,nonfoil,$0.04,uncommon,e454bf31-5aa0-4109-a3f5-c3f9cc838682,2023-11-24T13:34:38.249Z
 1,Oracle of Tragedy,mom,March of the Machine,71,nonfoil,$0.03,uncommon,e1d2aa39-b876-4136-8e16-5272a8083235,2023-12-19T18:31:30.218Z
-1,Phyrexian Awakening,mom,March of the Machine,30,nonfoil,$0.09,uncommon,6b9ed068-b6bb-4c9e-a8c9-56aa9b62037a,2023-11-24T13:34:38.249Z
-1,Joyful Stormsculptor,mom,March of the Machine,243,nonfoil,$0.01,uncommon,c4dabe69-a88f-4e61-a5fb-c4b9ef1c7569,2023-12-19T18:30:53.196Z
-1,Stoke the Flames,mom,March of the Machine,166,nonfoil,$0.08,uncommon,04113b3c-cc8f-4b15-9091-f82ea3df2e7c,2023-11-24T13:34:38.249Z
-1,Invasion of Kaldheim // Pyre of the World Tree,mom,March of the Machine,145,nonfoil,$0.43,rare,f7cedd62-efc8-464d-8387-220bb55e07e9,2023-12-19T18:33:14.513Z
-1,Elesh Norn // The Argent Etchings,mom,March of the Machine,12,nonfoil,$6.25,mythic,d8999135-ddb1-4e4c-b885-e25f23dac3d3,2023-11-23T18:30:02.972Z
-1,"Kwende, Pride of Femeref",mul,Multiverse Legends,5,nonfoil,$0.04,uncommon,427cf253-71c1-40cf-bdc3-eeb0431ae37f,2023-12-19T18:31:57.353Z
-1,"Reyav, Master Smith",mul,Multiverse Legends,57,nonfoil,$0.07,uncommon,d44478d2-20eb-4dba-8008-687a293444f5,2023-11-24T13:34:38.249Z
-1,Thundering Raiju,neo,Kamigawa: Neon Dynasty,472,foil,$1.25,rare,d49d17cf-242b-4f44-8ea0-125d9d18139c,2023-11-22T06:48:24.771Z
-1,Noxious Ghoul,plist,The List,475,nonfoil,$5.40,uncommon,f83c17b6-9990-409c-85cc-709ad2201b29,2023-11-22T06:51:12.669Z
-1,Blight Sickle,plist,The List,245,nonfoil,$0.11,common,b3f07615-b945-4a61-a4e9-2872346de38b,2023-12-31T11:35:25.177Z
-1,Worn Powerstone,plist,The List,281,nonfoil,$0.67,uncommon,3012fb07-75d9-4fe2-a233-b471e5a65981,2023-12-31T11:38:16.536Z
-1,Toils of Night and Day,plist,The List,520,nonfoil,$0.09,common,ffbafa33-e9c5-4507-a560-1b8a2f454fca,2023-11-27T18:44:21.980Z
-1,Topiary Stomper,snc,Streets of New Capenna,160,nonfoil,$3.43,rare,87bb2699-280f-4e1e-b3f8-73efe6088f31,2023-11-24T13:34:38.249Z
-1,Extraction Specialist,snc,Streets of New Capenna,12,nonfoil,$0.70,rare,b404d6c7-0b65-4c6a-b141-9dffbeb120db,2023-11-24T13:34:38.249Z
-1,Regrowth,sta,Strixhaven Mystical Archive,56,foil,$2.16,rare,af727601-5251-48b6-b5e3-b68ca0608bc9,2023-11-22T06:48:24.771Z
-1,Brainstorm,sta,Strixhaven Mystical Archive,13,nonfoil,$3.97,rare,11d27509-07c2-4445-a1d5-e56523fb8566,2023-12-10T14:24:34.543Z
+1,Phyrexian Awakening,mom,March of the Machine,30,nonfoil,$0.11,uncommon,6b9ed068-b6bb-4c9e-a8c9-56aa9b62037a,2023-11-24T13:34:38.249Z
+1,Joyful Stormsculptor,mom,March of the Machine,243,nonfoil,$0.02,uncommon,c4dabe69-a88f-4e61-a5fb-c4b9ef1c7569,2023-12-19T18:30:53.196Z
+1,Stoke the Flames,mom,March of the Machine,166,nonfoil,$0.05,uncommon,04113b3c-cc8f-4b15-9091-f82ea3df2e7c,2023-11-24T13:34:38.249Z
+1,Invasion of Kaldheim // Pyre of the World Tree,mom,March of the Machine,145,nonfoil,$0.32,rare,f7cedd62-efc8-464d-8387-220bb55e07e9,2023-12-19T18:33:14.513Z
+1,Elesh Norn // The Argent Etchings,mom,March of the Machine,12,nonfoil,$7.00,mythic,d8999135-ddb1-4e4c-b885-e25f23dac3d3,2023-11-23T18:30:02.972Z
+1,"Kwende, Pride of Femeref",mul,Multiverse Legends,5,nonfoil,$0.03,uncommon,427cf253-71c1-40cf-bdc3-eeb0431ae37f,2023-12-19T18:31:57.353Z
+1,"Reyav, Master Smith",mul,Multiverse Legends,57,nonfoil,$0.05,uncommon,d44478d2-20eb-4dba-8008-687a293444f5,2023-11-24T13:34:38.249Z
+1,Thundering Raiju,neo,Kamigawa: Neon Dynasty,472,foil,$2.14,rare,d49d17cf-242b-4f44-8ea0-125d9d18139c,2023-11-22T06:48:24.771Z
+1,Nezumi Prowler,neo,Kamigawa: Neon Dynasty,116,nonfoil,$0.12,uncommon,ca911e9a-bd04-4531-a81e-3485e9cbe89e,Thu Feb 01 2024 18:09:54 GMT+0300 (Москва
+1,Sunblade Samurai,neo,Kamigawa: Neon Dynasty,315,nonfoil,$0.04,common,a32e2ad3-c5fb-4072-aabf-6cb9538db3ca,Thu Feb 01 2024 18:10:03 GMT+0300 (Москва
+1,Mirrorshell Crab,neo,Kamigawa: Neon Dynasty,63,nonfoil,$0.10,common,0394c8df-2e8a-4477-93b7-569934d7b936,Thu Feb 01 2024 18:10:09 GMT+0300 (Москва
+1,March of Wretched Sorrow,neo,Kamigawa: Neon Dynasty,111,nonfoil,$0.27,rare,050a604e-6146-4e2e-88a5-863ecb3dfa1f,Thu Feb 01 2024 18:10:15 GMT+0300 (Москва
+1,Discover the Impossible,neo,Kamigawa: Neon Dynasty,50,nonfoil,$0.02,uncommon,8c201117-9850-4e92-9ecc-e4d71a70a959,Thu Feb 01 2024 18:10:20 GMT+0300 (Москва
+1,Thirst for Knowledge,neo,Kamigawa: Neon Dynasty,85,nonfoil,$0.05,uncommon,6b927837-8252-4ea7-b2d0-ab624de65bd7,Thu Feb 01 2024 18:10:25 GMT+0300 (Москва
+1,Noxious Ghoul,plst,The List,LGN-77,nonfoil,$5.58,uncommon,f83c17b6-9990-409c-85cc-709ad2201b29,2023-11-22T06:51:12.669Z
+1,Blight Sickle,plst,The List,SHM-247,nonfoil,$0.07,common,b3f07615-b945-4a61-a4e9-2872346de38b,2023-12-31T11:35:25.177Z
+1,Worn Powerstone,plst,The List,USG-318,nonfoil,$0.72,uncommon,3012fb07-75d9-4fe2-a233-b471e5a65981,2023-12-31T11:38:16.536Z
+1,Toils of Night and Day,plst,The List,BOK-57,nonfoil,$0.10,common,ffbafa33-e9c5-4507-a560-1b8a2f454fca,2023-11-27T18:44:21.980Z
+1,Topiary Stomper,snc,Streets of New Capenna,160,nonfoil,$2.41,rare,87bb2699-280f-4e1e-b3f8-73efe6088f31,2023-11-24T13:34:38.249Z
+1,Extraction Specialist,snc,Streets of New Capenna,12,nonfoil,$0.44,rare,b404d6c7-0b65-4c6a-b141-9dffbeb120db,2023-11-24T13:34:38.249Z
+1,Regrowth,sta,Strixhaven Mystical Archive,56,foil,$4.31,rare,af727601-5251-48b6-b5e3-b68ca0608bc9,2023-11-22T06:48:24.771Z
+1,Brainstorm,sta,Strixhaven Mystical Archive,13,nonfoil,$3.74,rare,11d27509-07c2-4445-a1d5-e56523fb8566,2023-12-10T14:24:34.543Z
 2,Defiant Strike,sta,Strixhaven Mystical Archive,3,nonfoil,$0.09,uncommon,ade8f339-4afb-477a-9434-e6cd9126cd10,2023-12-10T14:24:29.177Z
-1,Cultivate,sta,Strixhaven Mystical Archive,51,nonfoil,$1.04,uncommon,b3896717-1e46-4aa2-88b7-1c4fe76edde1,2023-11-24T13:34:38.249Z
-1,Mind's Desire,sta,Strixhaven Mystical Archive,17,nonfoil,$0.91,mythic,95f4e609-7fb7-4903-8d4c-45d38cf743be,2023-11-24T13:34:38.249Z
-1,Snakeskin Veil,sta,Strixhaven Mystical Archive,57,nonfoil,$0.17,uncommon,d9849b22-1fba-4f6a-bd94-df1bc1764e6b,2023-12-10T14:24:17.493Z
-1,Divine Gambit,sta,Strixhaven Mystical Archive,4,nonfoil,$0.03,uncommon,5ae3b199-92a0-4d94-819c-fbf24a87d353,2023-11-24T13:34:38.249Z
-2,Infuriate,sta,Strixhaven Mystical Archive,41,nonfoil,$0.09,uncommon,71a5dfad-c8b4-46cc-9a06-73d23b269df8,2023-12-10T14:24:23.827Z
-1,Agonizing Remorse,sta,Strixhaven Mystical Archive,24,nonfoil,$0.03,uncommon,57b7f7bd-6db3-4716-b1c3-015b0a6d37e3,2023-11-24T13:34:38.249Z
-1,Negate,sta,Strixhaven Mystical Archive,18,nonfoil,$1.06,uncommon,5bfe3a17-3349-4fcc-a9b5-418faa55cc43,2023-11-24T13:34:38.249Z
-1,Doom Blade,sta,Strixhaven Mystical Archive,28,nonfoil,$0.23,rare,7e6c0fe2-a82b-42cb-8629-b9f00b7f08e9,2023-11-24T13:34:38.249Z
-2,Opt,sta,Strixhaven Mystical Archive,19,nonfoil,$0.14,uncommon,ab59ac4f-2a77-4566-85c0-32666447dcf2,2023-12-10T14:24:12.093Z
-1,Lightning Helix,sta,Strixhaven Mystical Archive,62,nonfoil,$0.66,rare,227ac87a-7196-40d0-ab00-98ebafcca09a,2023-11-24T13:34:38.249Z
-1,Shock,sta,Strixhaven Mystical Archive,44,nonfoil,$0.13,uncommon,60eeb025-704c-4a82-90b2-f91202ae30d9,2023-11-24T13:34:38.249Z
-2,Whirlwind Denial,sta,Strixhaven Mystical Archive,23,nonfoil,$0.08,uncommon,f7a0c25a-8760-44ea-a418-fcd4a9761632,2023-11-24T13:34:38.249Z
-1,Claim the Firstborn,sta,Strixhaven Mystical Archive,37,nonfoil,$0.13,uncommon,e3cb6157-ea56-4921-b803-59e3fbef0b94,2023-11-24T13:34:38.249Z
-1,Adventurous Impulse,sta,Strixhaven Mystical Archive,49,nonfoil,$0.04,uncommon,e7b44893-e6d1-48d0-ba69-06b9569e1e38,2023-11-24T13:34:38.249Z
-2,Inquisition of Kozilek,sta,Strixhaven Mystical Archive,31,nonfoil,$0.45,rare,d47df2c2-437d-4b8e-82cc-1707e3efd5b5,2023-12-10T14:23:29.210Z
-1,Electrolyze,sta,Strixhaven Mystical Archive,60,nonfoil,$0.24,rare,08a4d142-b98b-4027-94cb-314f67fb1d4a,2023-11-24T13:34:38.249Z
+1,Cultivate,sta,Strixhaven Mystical Archive,51,nonfoil,$0.81,uncommon,b3896717-1e46-4aa2-88b7-1c4fe76edde1,2023-11-24T13:34:38.249Z
+1,Mind's Desire,sta,Strixhaven Mystical Archive,17,nonfoil,$1.01,mythic,95f4e609-7fb7-4903-8d4c-45d38cf743be,2023-11-24T13:34:38.249Z
+1,Snakeskin Veil,sta,Strixhaven Mystical Archive,57,nonfoil,$0.24,uncommon,d9849b22-1fba-4f6a-bd94-df1bc1764e6b,2023-12-10T14:24:17.493Z
+1,Divine Gambit,sta,Strixhaven Mystical Archive,4,nonfoil,$0.06,uncommon,5ae3b199-92a0-4d94-819c-fbf24a87d353,2023-11-24T13:34:38.249Z
+2,Infuriate,sta,Strixhaven Mystical Archive,41,nonfoil,$0.18,uncommon,71a5dfad-c8b4-46cc-9a06-73d23b269df8,2023-12-10T14:24:23.827Z
+1,Agonizing Remorse,sta,Strixhaven Mystical Archive,24,nonfoil,$0.08,uncommon,57b7f7bd-6db3-4716-b1c3-015b0a6d37e3,2023-11-24T13:34:38.249Z
+1,Negate,sta,Strixhaven Mystical Archive,18,nonfoil,$1.52,uncommon,5bfe3a17-3349-4fcc-a9b5-418faa55cc43,2023-11-24T13:34:38.249Z
+1,Doom Blade,sta,Strixhaven Mystical Archive,28,nonfoil,$0.33,rare,7e6c0fe2-a82b-42cb-8629-b9f00b7f08e9,2023-11-24T13:34:38.249Z
+2,Opt,sta,Strixhaven Mystical Archive,19,nonfoil,$0.25,uncommon,ab59ac4f-2a77-4566-85c0-32666447dcf2,2023-12-10T14:24:12.093Z
+1,Lightning Helix,sta,Strixhaven Mystical Archive,62,nonfoil,$1.16,rare,227ac87a-7196-40d0-ab00-98ebafcca09a,2023-11-24T13:34:38.249Z
+1,Shock,sta,Strixhaven Mystical Archive,44,nonfoil,$0.12,uncommon,60eeb025-704c-4a82-90b2-f91202ae30d9,2023-11-24T13:34:38.249Z
+2,Whirlwind Denial,sta,Strixhaven Mystical Archive,23,nonfoil,$0.06,uncommon,f7a0c25a-8760-44ea-a418-fcd4a9761632,2023-11-24T13:34:38.249Z
+1,Claim the Firstborn,sta,Strixhaven Mystical Archive,37,nonfoil,$0.12,uncommon,e3cb6157-ea56-4921-b803-59e3fbef0b94,2023-11-24T13:34:38.249Z
+1,Adventurous Impulse,sta,Strixhaven Mystical Archive,49,nonfoil,$0.07,uncommon,e7b44893-e6d1-48d0-ba69-06b9569e1e38,2023-11-24T13:34:38.249Z
+2,Inquisition of Kozilek,sta,Strixhaven Mystical Archive,31,nonfoil,$0.53,rare,d47df2c2-437d-4b8e-82cc-1707e3efd5b5,2023-12-10T14:23:29.210Z
+1,Electrolyze,sta,Strixhaven Mystical Archive,60,nonfoil,$0.31,rare,08a4d142-b98b-4027-94cb-314f67fb1d4a,2023-11-24T13:34:38.249Z
 1,Hall Monitor,stx,Strixhaven: School of Mages,105,nonfoil,$0.03,uncommon,02fdc551-0b22-49f4-8765-143ad82f16a3,2023-11-24T13:34:38.249Z
-1,Professor of Symbology,stx,Strixhaven: School of Mages,24,nonfoil,$0.05,uncommon,f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57,2023-11-24T13:34:38.249Z
-1,Daemogoth Titan,stx,Strixhaven: School of Mages,174,nonfoil,$0.21,rare,c2f18828-ade7-4b99-97b2-e34bc2fdb68c,2023-12-10T14:25:24.993Z
-3,Eyetwitch,stx,Strixhaven: School of Mages,70,nonfoil,$0.13,uncommon,1f4d1bb6-cb8f-4d01-9879-0b3a0585cbf4,2023-12-10T14:21:31.934Z
-2,Lorehold Excavation,stx,Strixhaven: School of Mages,200,nonfoil,$0.03,uncommon,43105beb-46f3-4914-8222-4907bd76d48f,2023-11-24T13:34:38.249Z
-1,"Kasmina, Enigma Sage",stx,Strixhaven: School of Mages,279,nonfoil,$1.90,mythic,fed5f87d-3bca-44fc-a1ea-fc01e36ba092,2023-11-24T13:34:38.249Z
+1,Professor of Symbology,stx,Strixhaven: School of Mages,24,nonfoil,$0.06,uncommon,f427cf73-9f5e-4ef5-bc4f-29ffbfda9d57,2023-11-24T13:34:38.249Z
+1,Daemogoth Titan,stx,Strixhaven: School of Mages,174,nonfoil,$0.23,rare,c2f18828-ade7-4b99-97b2-e34bc2fdb68c,2023-12-10T14:25:24.993Z
+3,Eyetwitch,stx,Strixhaven: School of Mages,70,nonfoil,$0.12,uncommon,1f4d1bb6-cb8f-4d01-9879-0b3a0585cbf4,2023-12-10T14:21:31.934Z
+2,Lorehold Excavation,stx,Strixhaven: School of Mages,200,nonfoil,$0.04,uncommon,43105beb-46f3-4914-8222-4907bd76d48f,2023-11-24T13:34:38.249Z
+1,"Kasmina, Enigma Sage",stx,Strixhaven: School of Mages,279,nonfoil,$1.93,mythic,fed5f87d-3bca-44fc-a1ea-fc01e36ba092,2023-11-24T13:34:38.249Z
 1,Mercurial Transformation,stx,Strixhaven: School of Mages,47,nonfoil,$0.03,uncommon,adcbe115-5482-4e5a-95bb-8ccbb01d3547,2023-12-10T14:23:16.178Z
-1,Show of Confidence,stx,Strixhaven: School of Mages,28,nonfoil,$0.16,uncommon,65837f39-deb7-4a4b-8b67-125a71cd0d45,2023-11-24T13:34:38.249Z
-1,Karok Wrangler,stx,Strixhaven: School of Mages,135,nonfoil,$0.03,uncommon,74729320-f6ee-4176-9463-397d6e477d7a,2023-11-24T13:34:38.249Z
+1,Show of Confidence,stx,Strixhaven: School of Mages,28,nonfoil,$0.13,uncommon,65837f39-deb7-4a4b-8b67-125a71cd0d45,2023-11-24T13:34:38.249Z
+1,Karok Wrangler,stx,Strixhaven: School of Mages,135,nonfoil,$0.05,uncommon,74729320-f6ee-4176-9463-397d6e477d7a,2023-11-24T13:34:38.249Z
 1,Aether Helix,stx,Strixhaven: School of Mages,162,nonfoil,$0.02,uncommon,7d1c653e-f629-4105-a52c-379c5cd78208,2023-11-24T13:34:38.249Z
 1,Igneous Inspiration,stx,Strixhaven: School of Mages,107,nonfoil,$0.03,uncommon,5781ad7b-dc1b-4cc1-9e72-6e714b9ba1de,2023-11-24T13:34:38.249Z
-1,Sedgemoor Witch,stx,Strixhaven: School of Mages,86,nonfoil,$1.57,rare,e900c1eb-968b-4046-b824-c167a7a5b682,2023-11-24T13:34:38.249Z
-1,Reflective Golem,stx,Strixhaven: School of Mages,257,nonfoil,$0.02,uncommon,c01770c4-8848-495d-8af4-26152d45e9d3,2023-12-10T14:22:16.197Z
-1,"Extus, Oriq Overlord // Awaken the Blood Avatar",stx,Strixhaven: School of Mages,149,nonfoil,$0.32,mythic,ba09360a-067e-48a5-bdc5-a19fd066a785,2023-11-24T13:34:38.249Z
-1,Shadewing Laureate,stx,Strixhaven: School of Mages,229,nonfoil,$0.03,uncommon,64795a8b-8cf2-436e-8f95-9e8bb40c0d7d,2023-11-24T13:34:38.249Z
-1,Maelstrom Muse,stx,Strixhaven: School of Mages,202,nonfoil,$0.01,uncommon,5516e81e-16ea-411c-9df0-ed3b03670220,2023-11-24T13:34:38.249Z
-2,Access Tunnel,stx,Strixhaven: School of Mages,262,nonfoil,$1.21,uncommon,edf8eb51-9643-4c54-b38e-e7abea92bbe1,2023-11-24T13:34:38.249Z
+1,Sedgemoor Witch,stx,Strixhaven: School of Mages,86,nonfoil,$3.80,rare,e900c1eb-968b-4046-b824-c167a7a5b682,2023-11-24T13:34:38.249Z
+1,Reflective Golem,stx,Strixhaven: School of Mages,257,nonfoil,$0.03,uncommon,c01770c4-8848-495d-8af4-26152d45e9d3,2023-12-10T14:22:16.197Z
+1,"Extus, Oriq Overlord // Awaken the Blood Avatar",stx,Strixhaven: School of Mages,149,nonfoil,$0.43,mythic,ba09360a-067e-48a5-bdc5-a19fd066a785,2023-11-24T13:34:38.249Z
+1,Shadewing Laureate,stx,Strixhaven: School of Mages,229,nonfoil,$0.05,uncommon,64795a8b-8cf2-436e-8f95-9e8bb40c0d7d,2023-11-24T13:34:38.249Z
+1,Maelstrom Muse,stx,Strixhaven: School of Mages,202,nonfoil,$0.03,uncommon,5516e81e-16ea-411c-9df0-ed3b03670220,2023-11-24T13:34:38.249Z
+2,Access Tunnel,stx,Strixhaven: School of Mages,262,nonfoil,$1.32,uncommon,edf8eb51-9643-4c54-b38e-e7abea92bbe1,2023-11-24T13:34:38.249Z
 1,Pestilent Cauldron // Restorative Burst,stx,Strixhaven: School of Mages,154,nonfoil,$0.09,rare,aaa1e6be-08cc-4ccc-b2de-3511613e4fd0,2023-11-24T13:34:38.249Z
-1,"Mavinda, Students' Advocate",stx,Strixhaven: School of Mages,21,nonfoil,$0.50,mythic,8b3d521f-31cd-4bd2-b6b6-771c79252789,2023-11-24T13:34:38.249Z
+1,"Mavinda, Students' Advocate",stx,Strixhaven: School of Mages,21,nonfoil,$0.54,mythic,8b3d521f-31cd-4bd2-b6b6-771c79252789,2023-11-24T13:34:38.249Z
 1,Rip Apart,stx,Strixhaven: School of Mages,225,nonfoil,$0.16,uncommon,b3b5b510-fd5c-415d-98b0-386e7508f7af,2023-11-24T13:34:38.249Z
 1,Fortifying Draught,stx,Strixhaven: School of Mages,132,nonfoil,$0.03,uncommon,6789b717-a000-464a-a39b-32c1aeefe560,2023-11-24T13:34:38.249Z
-1,Augmenter Pugilist // Echoing Equation,stx,Strixhaven: School of Mages,147,nonfoil,$0.12,rare,d9131fc3-018a-4975-8795-47be3956160d,2023-11-24T13:34:38.249Z
-1,Tenured Inkcaster,stx,Strixhaven: School of Mages,88,nonfoil,$0.04,uncommon,92eba33e-efea-4e58-a832-1c6049fb211f,2023-12-10T14:24:39.327Z
-1,Kelpie Guide,stx,Strixhaven: School of Mages,45,nonfoil,$0.19,uncommon,0112ebfb-55ad-401c-9dc5-ffd829f5b5bf,2023-12-10T14:22:09.696Z
+1,Augmenter Pugilist // Echoing Equation,stx,Strixhaven: School of Mages,147,nonfoil,$0.16,rare,d9131fc3-018a-4975-8795-47be3956160d,2023-11-24T13:34:38.249Z
+1,Tenured Inkcaster,stx,Strixhaven: School of Mages,88,nonfoil,$0.06,uncommon,92eba33e-efea-4e58-a832-1c6049fb211f,2023-12-10T14:24:39.327Z
+1,Kelpie Guide,stx,Strixhaven: School of Mages,45,nonfoil,$0.17,uncommon,0112ebfb-55ad-401c-9dc5-ffd829f5b5bf,2023-12-10T14:22:09.696Z
 1,Symmetry Sage,stx,Strixhaven: School of Mages,56,nonfoil,$0.04,uncommon,3e726fc7-36cf-405c-9b7c-d1e41cd6c68f,2023-11-24T13:34:38.249Z
-1,Manifestation Sage,stx,Strixhaven: School of Mages,205,nonfoil,$0.05,rare,76fc5cd2-fbb0-4d13-9089-0292b356de48,2023-11-24T13:34:38.249Z
-2,"Dina, Soul Steeper",stx,Strixhaven: School of Mages,178,nonfoil,$0.12,uncommon,9cd2b567-0cf7-4441-b3ce-e31141dd91c8,2023-11-24T13:34:38.249Z
+1,Manifestation Sage,stx,Strixhaven: School of Mages,205,nonfoil,$0.07,rare,76fc5cd2-fbb0-4d13-9089-0292b356de48,2023-11-24T13:34:38.249Z
+2,"Dina, Soul Steeper",stx,Strixhaven: School of Mages,178,nonfoil,$0.11,uncommon,9cd2b567-0cf7-4441-b3ce-e31141dd91c8,2023-11-24T13:34:38.249Z
 1,Dragonsguard Elite,stx,Strixhaven: School of Mages,127,nonfoil,$0.10,rare,658ec634-3eb2-4967-b938-d20d31ab77e3,2023-11-24T13:34:38.249Z
-1,Go Blank,stx,Strixhaven: School of Mages,72,nonfoil,$0.31,uncommon,846e8657-7435-44c6-a997-b8b156d0cd2c,2023-11-24T13:34:38.249Z
-1,Tend the Pests,stx,Strixhaven: School of Mages,242,nonfoil,$0.19,uncommon,8f43ed93-008d-44db-8204-ef2cc3b7cf8a,2023-12-10T14:24:01.427Z
-1,Mortality Spear,stx,Strixhaven: School of Mages,207,nonfoil,$0.17,uncommon,f1f39fe7-dc12-49c9-80ac-4135dc1f8f08,2023-11-24T13:34:38.249Z
-1,Stonebinder's Familiar,stx,Strixhaven: School of Mages,31,nonfoil,$0.02,uncommon,21de4a01-98d3-4af3-9c6e-29e16d2c1767,2023-11-24T13:34:38.249Z
-3,Test of Talents,stx,Strixhaven: School of Mages,59,nonfoil,$0.10,uncommon,6e2b6236-b40c-430c-98b0-7940b942657a,2023-11-24T13:34:38.249Z
-1,Gnarled Professor,stx,Strixhaven: School of Mages,133,nonfoil,$0.09,rare,a32338e8-1f6a-49b9-bd93-26578adab6b3,2023-12-10T14:23:55.943Z
-2,Honor Troll,stx,Strixhaven: School of Mages,134,nonfoil,$0.06,uncommon,a9c6a6b9-f00c-46a5-8dab-796483e3a262,2023-11-24T13:34:38.249Z
-1,Divide by Zero,stx,Strixhaven: School of Mages,41,nonfoil,$0.06,uncommon,1958d96e-ec44-48ab-80b1-5b01a24ac7b8,2023-12-10T14:24:06.810Z
+1,Go Blank,stx,Strixhaven: School of Mages,72,nonfoil,$0.27,uncommon,846e8657-7435-44c6-a997-b8b156d0cd2c,2023-11-24T13:34:38.249Z
+1,Tend the Pests,stx,Strixhaven: School of Mages,242,nonfoil,$0.20,uncommon,8f43ed93-008d-44db-8204-ef2cc3b7cf8a,2023-12-10T14:24:01.427Z
+1,Mortality Spear,stx,Strixhaven: School of Mages,207,nonfoil,$0.19,uncommon,f1f39fe7-dc12-49c9-80ac-4135dc1f8f08,2023-11-24T13:34:38.249Z
+1,Stonebinder's Familiar,stx,Strixhaven: School of Mages,31,nonfoil,$0.04,uncommon,21de4a01-98d3-4af3-9c6e-29e16d2c1767,2023-11-24T13:34:38.249Z
+3,Test of Talents,stx,Strixhaven: School of Mages,59,nonfoil,$0.13,uncommon,6e2b6236-b40c-430c-98b0-7940b942657a,2023-11-24T13:34:38.249Z
+1,Gnarled Professor,stx,Strixhaven: School of Mages,133,nonfoil,$0.11,rare,a32338e8-1f6a-49b9-bd93-26578adab6b3,2023-12-10T14:23:55.943Z
+2,Honor Troll,stx,Strixhaven: School of Mages,134,nonfoil,$0.04,uncommon,a9c6a6b9-f00c-46a5-8dab-796483e3a262,2023-11-24T13:34:38.249Z
+1,Divide by Zero,stx,Strixhaven: School of Mages,41,nonfoil,$0.05,uncommon,1958d96e-ec44-48ab-80b1-5b01a24ac7b8,2023-12-10T14:24:06.810Z
 1,Mentor's Guidance,stx,Strixhaven: School of Mages,46,nonfoil,$0.04,uncommon,0dbb1230-a465-4499-bb9c-35a06712a08b,2023-11-24T13:34:38.249Z
 3,Silverquill Apprentice,stx,Strixhaven: School of Mages,231,nonfoil,$0.02,uncommon,42d0770e-9084-4aa7-b543-2b6ba18378dc,2023-11-24T13:34:38.249Z
-1,Academic Dispute,stx,Strixhaven: School of Mages,91,nonfoil,$0.03,uncommon,4620cc3b-e401-4096-b310-fed080806344,2023-11-24T13:34:38.249Z
-1,Emergent Sequence,stx,Strixhaven: School of Mages,129,nonfoil,$0.10,uncommon,04a81975-5f0e-4593-a2da-b9689f9a985f,2023-12-10T14:23:24.011Z
-1,Thunderous Orator,stx,Strixhaven: School of Mages,35,nonfoil,$0.04,uncommon,ef3b2961-559f-42b1-be13-ff3d03e62809,2023-11-24T13:34:38.249Z
-1,Conspiracy Theorist,stx,Strixhaven: School of Mages,94,nonfoil,$0.25,rare,742a7487-70a2-448b-8e66-c33cba798a32,2023-11-24T13:34:38.249Z
+1,Academic Dispute,stx,Strixhaven: School of Mages,91,nonfoil,$0.02,uncommon,4620cc3b-e401-4096-b310-fed080806344,2023-11-24T13:34:38.249Z
+1,Emergent Sequence,stx,Strixhaven: School of Mages,129,nonfoil,$0.11,uncommon,04a81975-5f0e-4593-a2da-b9689f9a985f,2023-12-10T14:23:24.011Z
+1,Thunderous Orator,stx,Strixhaven: School of Mages,35,nonfoil,$0.06,uncommon,ef3b2961-559f-42b1-be13-ff3d03e62809,2023-11-24T13:34:38.249Z
+1,Conspiracy Theorist,stx,Strixhaven: School of Mages,94,nonfoil,$0.18,rare,742a7487-70a2-448b-8e66-c33cba798a32,2023-11-24T13:34:38.249Z
 1,Practical Research,stx,Strixhaven: School of Mages,212,nonfoil,$0.03,uncommon,74edd3e3-b2de-4ba0-a508-0418b0151d87,2023-12-10T14:23:43.910Z
 2,Draconic Intervention,stx,Strixhaven: School of Mages,96,nonfoil,$0.15,rare,657de246-b9fc-47b1-b932-091e9500bb82,2023-11-24T13:34:38.249Z
-1,Storm-Kiln Artist,stx,Strixhaven: School of Mages,115,nonfoil,$0.77,uncommon,fa96b8dc-233a-4884-ab84-235cbc7df0b6,2023-12-10T14:24:57.293Z
+1,Storm-Kiln Artist,stx,Strixhaven: School of Mages,115,nonfoil,$1.31,uncommon,fa96b8dc-233a-4884-ab84-235cbc7df0b6,2023-12-10T14:24:57.293Z
 1,Teachings of the Archaics,stx,Strixhaven: School of Mages,57,nonfoil,$0.06,rare,967148b1-2bb6-4bc0-95e6-c45fcf99afd2,2023-11-24T13:34:38.249Z
 1,Closing Statement,stx,Strixhaven: School of Mages,169,nonfoil,$0.03,uncommon,785e6d07-fe40-4723-b963-02da0a0987c7,2023-11-24T13:34:38.249Z
 1,Umbral Juke,stx,Strixhaven: School of Mages,89,nonfoil,$0.02,uncommon,3fbd0921-e953-492b-ad73-c8a8bfaa750b,2023-11-24T13:34:38.249Z
-1,Hofri Ghostforge,stx,Strixhaven: School of Mages,192,nonfoil,$1.33,mythic,bd8deecf-eded-418b-ac4c-5c3e8f54e86d,2023-12-10T14:24:49.943Z
-1,Dueling Coach,stx,Strixhaven: School of Mages,15,nonfoil,$0.02,uncommon,45b3dbb0-0d68-4351-bfc9-a09c50454bf7,2023-11-24T13:34:38.249Z
-1,Returned Pastcaller,stx,Strixhaven: School of Mages,224,nonfoil,$0.03,uncommon,7aa0e762-0fec-4f6b-b3d7-ad8295bf557d,2023-11-24T13:34:38.249Z
-1,Ardent Dustspeaker,stx,Strixhaven: School of Mages,92,nonfoil,$0.04,uncommon,7ff4832a-26c0-4da5-abbb-1941e7084e72,2023-11-24T13:34:38.249Z
-2,Plumb the Forbidden,stx,Strixhaven: School of Mages,81,nonfoil,$2.68,uncommon,5034227f-3b8a-45bf-917c-c2cbd98f2192,2023-12-10T14:23:50.094Z
-1,Shineshadow Snarl,stx,Strixhaven: School of Mages,272,nonfoil,$0.35,rare,84a46ebf-6938-4100-8f5f-0605ad2be4fc,2023-12-10T14:22:34.179Z
-1,Explosive Welcome,stx,Strixhaven: School of Mages,100,nonfoil,$0.04,uncommon,122c01e6-38a6-456e-971e-9004df85ac1c,2023-11-24T13:34:38.249Z
-1,Rushed Rebirth,stx,Strixhaven: School of Mages,228,nonfoil,$0.20,rare,07b7c952-5ab7-4546-8369-4d213bf868bf,2023-11-24T13:34:38.249Z
-1,Grinning Ignus,stx,Strixhaven: School of Mages,104,nonfoil,$0.05,uncommon,cfa04897-6438-45e5-a10b-2e8afaf2b9eb,2023-12-10T14:22:00.015Z
-1,Ecological Appreciation,stx,Strixhaven: School of Mages,128,nonfoil,$0.41,mythic,115f3d72-1aaf-4237-91b9-389256e5e5c8,2023-11-24T13:34:38.249Z
+1,Hofri Ghostforge,stx,Strixhaven: School of Mages,192,nonfoil,$1.02,mythic,bd8deecf-eded-418b-ac4c-5c3e8f54e86d,2023-12-10T14:24:49.943Z
+1,Dueling Coach,stx,Strixhaven: School of Mages,15,nonfoil,$0.03,uncommon,45b3dbb0-0d68-4351-bfc9-a09c50454bf7,2023-11-24T13:34:38.249Z
+1,Returned Pastcaller,stx,Strixhaven: School of Mages,224,nonfoil,$0.02,uncommon,7aa0e762-0fec-4f6b-b3d7-ad8295bf557d,2023-11-24T13:34:38.249Z
+1,Ardent Dustspeaker,stx,Strixhaven: School of Mages,92,nonfoil,$0.06,uncommon,7ff4832a-26c0-4da5-abbb-1941e7084e72,2023-11-24T13:34:38.249Z
+2,Plumb the Forbidden,stx,Strixhaven: School of Mages,81,nonfoil,$4.41,uncommon,5034227f-3b8a-45bf-917c-c2cbd98f2192,2023-12-10T14:23:50.094Z
+1,Shineshadow Snarl,stx,Strixhaven: School of Mages,272,nonfoil,$0.38,rare,84a46ebf-6938-4100-8f5f-0605ad2be4fc,2023-12-10T14:22:34.179Z
+1,Explosive Welcome,stx,Strixhaven: School of Mages,100,nonfoil,$0.03,uncommon,122c01e6-38a6-456e-971e-9004df85ac1c,2023-11-24T13:34:38.249Z
+1,Rushed Rebirth,stx,Strixhaven: School of Mages,228,nonfoil,$0.26,rare,07b7c952-5ab7-4546-8369-4d213bf868bf,2023-11-24T13:34:38.249Z
+1,Grinning Ignus,stx,Strixhaven: School of Mages,104,nonfoil,$0.06,uncommon,cfa04897-6438-45e5-a10b-2e8afaf2b9eb,2023-12-10T14:22:00.015Z
+1,Ecological Appreciation,stx,Strixhaven: School of Mages,128,nonfoil,$0.47,mythic,115f3d72-1aaf-4237-91b9-389256e5e5c8,2023-11-24T13:34:38.249Z
 1,Lorehold Apprentice,stx,Strixhaven: School of Mages,198,nonfoil,$0.03,uncommon,048157c6-4626-4881-ba19-deddd13622dc,2023-11-24T13:34:38.249Z
 2,Bookwurm,stx,Strixhaven: School of Mages,123,nonfoil,$0.07,uncommon,57d230fc-d382-40b4-bdbd-5fe880fa16bf,2023-11-24T13:34:38.249Z
-1,Secret Rendezvous,stx,Strixhaven: School of Mages,26,nonfoil,$0.34,uncommon,39528cf0-343e-499b-a69f-c5c3c2898c25,2023-11-24T13:34:38.249Z
+1,Secret Rendezvous,stx,Strixhaven: School of Mages,26,nonfoil,$0.26,uncommon,39528cf0-343e-499b-a69f-c5c3c2898c25,2023-11-24T13:34:38.249Z
 3,Necrotic Fumes,stx,Strixhaven: School of Mages,78,nonfoil,$0.02,uncommon,5e1b68a4-fb8d-4b59-b049-73505296f775,2023-11-24T13:34:38.249Z
-1,Creative Outburst,stx,Strixhaven: School of Mages,171,nonfoil,$0.08,uncommon,eab58d87-bf01-45dc-8958-e2b3375f914b,2023-11-24T13:34:38.249Z
-1,Leonin Lightscribe,stx,Strixhaven: School of Mages,20,nonfoil,$0.23,rare,2a465d7b-398c-444b-9eae-331ea2513f6d,2023-11-24T13:34:38.249Z
-2,Witherbloom Apprentice,stx,Strixhaven: School of Mages,247,nonfoil,$0.25,uncommon,7f80a11b-188b-464c-b00d-c9d1cfb8ddee,2023-11-24T13:34:38.249Z
-1,Deadly Brew,stx,Strixhaven: School of Mages,176,nonfoil,$0.14,uncommon,87d33e48-90fc-4aac-b09a-68050bc053b5,2023-11-24T13:34:38.249Z
-1,"Quintorius, Field Historian",stx,Strixhaven: School of Mages,220,nonfoil,$0.07,uncommon,06c55ef1-8e62-4d43-bd4c-b2c3c5203338,2023-11-24T13:34:38.249Z
-1,Zephyr Boots,stx,Strixhaven: School of Mages,261,nonfoil,$0.21,uncommon,4d0566fd-3775-48f1-ba22-6e659558c3d3,2023-11-24T13:34:38.249Z
+1,Creative Outburst,stx,Strixhaven: School of Mages,171,nonfoil,$0.07,uncommon,eab58d87-bf01-45dc-8958-e2b3375f914b,2023-11-24T13:34:38.249Z
+1,Leonin Lightscribe,stx,Strixhaven: School of Mages,20,nonfoil,$0.33,rare,2a465d7b-398c-444b-9eae-331ea2513f6d,2023-11-24T13:34:38.249Z
+2,Witherbloom Apprentice,stx,Strixhaven: School of Mages,247,nonfoil,$0.29,uncommon,7f80a11b-188b-464c-b00d-c9d1cfb8ddee,2023-11-24T13:34:38.249Z
+1,Deadly Brew,stx,Strixhaven: School of Mages,176,nonfoil,$0.19,uncommon,87d33e48-90fc-4aac-b09a-68050bc053b5,2023-11-24T13:34:38.249Z
+1,"Quintorius, Field Historian",stx,Strixhaven: School of Mages,220,nonfoil,$0.09,uncommon,06c55ef1-8e62-4d43-bd4c-b2c3c5203338,2023-11-24T13:34:38.249Z
+1,Zephyr Boots,stx,Strixhaven: School of Mages,261,nonfoil,$0.22,uncommon,4d0566fd-3775-48f1-ba22-6e659558c3d3,2023-11-24T13:34:38.249Z
 2,Efreet Flamepainter,stx,Strixhaven: School of Mages,98,nonfoil,$0.11,rare,d9f0731c-2a3d-4613-bffa-8b967e4f142e,2023-12-10T14:22:24.863Z
-1,Team Pennant,stx,Strixhaven: School of Mages,260,nonfoil,$0.06,uncommon,be294c4e-712b-459c-a36c-e26ed5c27edb,2023-12-10T14:22:52.846Z
-1,Venerable Warsinger,stx,Strixhaven: School of Mages,246,nonfoil,$0.14,rare,006313f8-cc60-4a4e-8ec6-953cdf1c16e3,2023-11-24T13:34:38.249Z
-1,Beledros Witherbloom,stx,Strixhaven: School of Mages,282,nonfoil,$9.69,mythic,e34dd2ef-a52d-48b6-becc-825f0e78eb75,2023-11-22T06:51:12.669Z
-2,Zombie,tafr,Adventures in the Forgotten Realms Tokens,9,nonfoil,$0.19,common,0b08d210-01cb-46c5-9150-4dfb47f50ae7,2024-01-01T17:42:52.240Z
-1,Dog Illusion,tafr,Adventures in the Forgotten Realms Tokens,3,nonfoil,$0.38,common,ce3c0bd9-8a37-4164-9937-f35d1c210fe8,2024-01-01T17:39:28.139Z
-1,Treasure,tafr,Adventures in the Forgotten Realms Tokens,15,nonfoil,$0.13,common,a3a684b7-27e0-4d9e-a064-9e03c6e50c89,2024-01-01T17:42:28.907Z
+1,Team Pennant,stx,Strixhaven: School of Mages,260,nonfoil,$0.07,uncommon,be294c4e-712b-459c-a36c-e26ed5c27edb,2023-12-10T14:22:52.846Z
+1,Venerable Warsinger,stx,Strixhaven: School of Mages,246,nonfoil,$0.16,rare,006313f8-cc60-4a4e-8ec6-953cdf1c16e3,2023-11-24T13:34:38.249Z
+1,Beledros Witherbloom,stx,Strixhaven: School of Mages,282,nonfoil,$9.74,mythic,e34dd2ef-a52d-48b6-becc-825f0e78eb75,2023-11-22T06:51:12.669Z
+2,Zombie,tafr,Adventures in the Forgotten Realms Tokens,9,nonfoil,$0.20,common,0b08d210-01cb-46c5-9150-4dfb47f50ae7,2024-01-01T17:42:52.240Z
+1,Dog Illusion,tafr,Adventures in the Forgotten Realms Tokens,3,nonfoil,$0.41,common,ce3c0bd9-8a37-4164-9937-f35d1c210fe8,2024-01-01T17:39:28.139Z
+1,Treasure,tafr,Adventures in the Forgotten Realms Tokens,15,nonfoil,$0.19,common,a3a684b7-27e0-4d9e-a064-9e03c6e50c89,2024-01-01T17:42:28.907Z
 3,The Atropal,tafr,Adventures in the Forgotten Realms Tokens,5,nonfoil,$0.25,common,65f8e40f-fb5e-4ab8-add3-a8b87e7bcdd9,2024-01-01T17:41:56.327Z
-2,Faerie Dragon,tafr,Adventures in the Forgotten Realms Tokens,4,nonfoil,$0.49,common,78eb6e0c-3630-46bf-b124-1ff2ddddf63e,2024-01-01T17:40:18.261Z
+2,Faerie Dragon,tafr,Adventures in the Forgotten Realms Tokens,4,nonfoil,$0.54,common,78eb6e0c-3630-46bf-b124-1ff2ddddf63e,2024-01-01T17:40:18.261Z
 4,Goblin,tafr,Adventures in the Forgotten Realms Tokens,12,nonfoil,$0.25,common,1425e965-7eea-419c-a7ec-c8169fa9edbf,2024-01-01T17:40:39.226Z
 1,Wolf,tafr,Adventures in the Forgotten Realms Tokens,14,nonfoil,$0.14,common,1864d5b9-7151-42f0-8d37-8c319c3ab264,2024-01-01T17:42:39.828Z
-1,Devil,tafr,Adventures in the Forgotten Realms Tokens,11,nonfoil,$0.11,common,efbc2ca1-4aad-4dfa-9eab-e783f5802078,2024-01-01T17:39:19.472Z
+1,Devil,tafr,Adventures in the Forgotten Realms Tokens,11,nonfoil,$0.10,common,efbc2ca1-4aad-4dfa-9eab-e783f5802078,2024-01-01T17:39:19.472Z
 2,Skeleton,tafr,Adventures in the Forgotten Realms Tokens,6,nonfoil,$0.25,common,fa6fdb57-82f3-4695-b1fa-1f301ea4ef83,2024-01-01T17:41:37.317Z
-1,"Icingdeath, Frost Tongue",tafr,Adventures in the Forgotten Realms Tokens,2,nonfoil,$1.47,common,a9c981c9-3376-4f6e-b30d-859e5fc7347e,2024-01-01T17:40:51.972Z
+1,"Icingdeath, Frost Tongue",tafr,Adventures in the Forgotten Realms Tokens,2,nonfoil,$1.51,common,a9c981c9-3376-4f6e-b30d-859e5fc7347e,2024-01-01T17:40:51.972Z
+1,Saproling,tdom,Dominaria Tokens,13,nonfoil,$0.10,common,a49da8fe-559f-4c34-b904-c285188fb98d,Mon Jan 29 2024 19:06:16 GMT+0300 (Москва
 1,On an Adventure,teld,Throne of Eldraine Tokens,20,nonfoil,$0.25,common,a8d50cf9-03e6-467a-aadf-84a24106ffa9,Sat Jan 27 2024 23:14:28 GMT+0300 (Москва
 1,Plains,thb,Theros Beyond Death,279,foil,$0.23,common,db68b6a3-10e5-42d1-9325-94a4a821782a,2023-11-23T18:13:49.184Z
-1,Plains,thb,Theros Beyond Death,278,foil,$0.19,common,40aca5ca-a37b-4919-aef6-2510b4779161,2023-11-23T18:13:49.184Z
-1,Swamp,thb,Theros Beyond Death,283,foil,$0.20,common,e54a44f2-70bf-4782-bd13-9d03e109d60d,2023-11-23T18:13:49.184Z
-1,Swamp,thb,Theros Beyond Death,282,foil,$0.12,common,66bb5192-58bc-4efe-a145-2e804fd3483d,2023-11-23T18:13:49.184Z
-1,Swamp,thb,Theros Beyond Death,252,foil,$2.27,common,02cb5cfd-018e-4c5e-bef1-166262aa5f1d,2023-11-23T18:13:49.184Z
-1,Forest,thb,Theros Beyond Death,286,foil,$0.08,common,c4be31c4-9cb3-4a07-865b-5621127df660,2023-11-23T18:13:49.183Z
-1,Forest,thb,Theros Beyond Death,287,foil,$0.20,common,6af0c659-f182-4ad4-bca7-e6c3377f808d,2023-11-23T18:13:49.183Z
-1,Mountain,thb,Theros Beyond Death,284,foil,$0.14,common,dc3f4154-9347-4ceb-8744-9f1ace90d33f,2023-11-23T18:13:49.184Z
-1,Mountain,thb,Theros Beyond Death,285,foil,$0.16,common,d10d759b-db5b-4a59-840c-05bcbf2381f3,2023-11-23T18:13:49.183Z
-1,Island,thb,Theros Beyond Death,281,foil,$0.20,common,b82c12c2-2ebf-470b-b0d2-92ccc5faa056,2023-11-23T18:13:49.183Z
-1,Island,thb,Theros Beyond Death,280,foil,$0.17,common,92daaa39-cd2f-4c03-8f41-92d99d0a3366,2023-11-23T18:13:49.183Z
-1,"Tymaret, Chosen from Death",thb,Theros Beyond Death,263,foil,$0.13,uncommon,1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0,2023-11-23T18:13:49.183Z
-1,Arasta of the Endless Web,thb,Theros Beyond Death,352,foil,$0.47,rare,55a5ea68-b77d-4fe0-a277-b20d55bc78a6,2023-11-23T18:13:49.183Z
-1,Dream Trawler,thb,Theros Beyond Death,214,nonfoil,$0.23,rare,7d3e97d8-92c7-43c4-bdaf-7b0a6ce7cb5f,2023-11-24T13:34:38.249Z
+1,Plains,thb,Theros Beyond Death,278,foil,$0.20,common,40aca5ca-a37b-4919-aef6-2510b4779161,2023-11-23T18:13:49.184Z
+1,Swamp,thb,Theros Beyond Death,283,foil,$0.31,common,e54a44f2-70bf-4782-bd13-9d03e109d60d,2023-11-23T18:13:49.184Z
+1,Swamp,thb,Theros Beyond Death,282,foil,$0.17,common,66bb5192-58bc-4efe-a145-2e804fd3483d,2023-11-23T18:13:49.184Z
+1,Swamp,thb,Theros Beyond Death,252,foil,$2.55,common,02cb5cfd-018e-4c5e-bef1-166262aa5f1d,2023-11-23T18:13:49.184Z
+1,Forest,thb,Theros Beyond Death,286,foil,$0.16,common,c4be31c4-9cb3-4a07-865b-5621127df660,2023-11-23T18:13:49.183Z
+1,Forest,thb,Theros Beyond Death,287,foil,$0.24,common,6af0c659-f182-4ad4-bca7-e6c3377f808d,2023-11-23T18:13:49.183Z
+1,Mountain,thb,Theros Beyond Death,284,foil,$0.24,common,dc3f4154-9347-4ceb-8744-9f1ace90d33f,2023-11-23T18:13:49.184Z
+1,Mountain,thb,Theros Beyond Death,285,foil,$0.19,common,d10d759b-db5b-4a59-840c-05bcbf2381f3,2023-11-23T18:13:49.183Z
+1,Island,thb,Theros Beyond Death,281,foil,$0.23,common,b82c12c2-2ebf-470b-b0d2-92ccc5faa056,2023-11-23T18:13:49.183Z
+1,Island,thb,Theros Beyond Death,280,foil,$0.19,common,92daaa39-cd2f-4c03-8f41-92d99d0a3366,2023-11-23T18:13:49.183Z
+1,"Tymaret, Chosen from Death",thb,Theros Beyond Death,263,foil,$0.12,uncommon,1bcb02d3-dcf4-41a6-8b9a-f8ad477faea0,2023-11-23T18:13:49.183Z
+1,Arasta of the Endless Web,thb,Theros Beyond Death,352,foil,$0.42,rare,55a5ea68-b77d-4fe0-a277-b20d55bc78a6,2023-11-23T18:13:49.183Z
+1,Dream Trawler,thb,Theros Beyond Death,214,nonfoil,$0.27,rare,7d3e97d8-92c7-43c4-bdaf-7b0a6ce7cb5f,2023-11-24T13:34:38.249Z
 1,Mischievous Chimera,thb,Theros Beyond Death,223,nonfoil,$0.05,uncommon,f8a3df0e-4ee8-458b-adf5-56aca20493e9,2023-11-24T13:34:38.249Z
-1,Medomai's Prophecy,thb,Theros Beyond Death,53,nonfoil,$0.07,uncommon,3d2bd7b4-28de-4d9e-86c5-a46bd608cb02,2023-11-24T13:34:38.249Z
-1,The Birth of Meletis,thb,Theros Beyond Death,5,nonfoil,$0.23,uncommon,d824f8bd-58f8-4796-80b5-5cd3033d35e8,2023-11-24T13:34:38.249Z
-1,Stinging Lionfish,thb,Theros Beyond Death,69,nonfoil,$0.05,uncommon,0162a0b8-a2d1-4664-a445-331aee6d5175,2023-11-24T13:34:38.249Z
+1,Medomai's Prophecy,thb,Theros Beyond Death,53,nonfoil,$0.11,uncommon,3d2bd7b4-28de-4d9e-86c5-a46bd608cb02,2023-11-24T13:34:38.249Z
+1,The Birth of Meletis,thb,Theros Beyond Death,5,nonfoil,$0.18,uncommon,d824f8bd-58f8-4796-80b5-5cd3033d35e8,2023-11-24T13:34:38.249Z
+1,Stinging Lionfish,thb,Theros Beyond Death,69,nonfoil,$0.06,uncommon,0162a0b8-a2d1-4664-a445-331aee6d5175,2023-11-24T13:34:38.249Z
 1,Sea God's Scorn,thb,Theros Beyond Death,63,nonfoil,$0.04,uncommon,9504dc26-f5d8-4b9d-9eb1-51a12b893beb,2023-11-24T13:34:38.249Z
-1,Chainweb Aracnir,thb,Theros Beyond Death,167,nonfoil,$0.17,uncommon,874afaad-546a-4cb2-ad01-2b4a4862b219,2023-11-24T13:34:38.249Z
+1,Chainweb Aracnir,thb,Theros Beyond Death,167,nonfoil,$0.16,uncommon,874afaad-546a-4cb2-ad01-2b4a4862b219,2023-11-24T13:34:38.249Z
 1,"Atris, Oracle of Half-Truths",thb,Theros Beyond Death,209,nonfoil,$0.08,rare,db6c91ec-df14-460f-967c-f182562fe7d8,2023-11-24T13:34:38.249Z
-1,Acolyte of Affliction,thb,Theros Beyond Death,206,nonfoil,$0.05,uncommon,a14afed6-ca42-442d-ba86-621179e6957c,2023-11-24T13:34:38.249Z
-1,One with the Stars,thb,Theros Beyond Death,59,nonfoil,$0.02,uncommon,98b7070d-4b09-4390-aa21-1bc0aa2b629c,2023-11-24T13:34:38.249Z
-1,Commanding Presence,thb,Theros Beyond Death,7,nonfoil,$0.05,uncommon,24e2f681-918e-4f1f-afb1-0f9587c0d7bf,2023-11-24T13:34:38.249Z
-1,Hero of the Nyxborn,thb,Theros Beyond Death,219,nonfoil,$0.05,uncommon,9854e673-1816-4a76-b9db-bb399ac7489f,2023-11-24T13:34:38.249Z
-1,Gravebreaker Lamia,thb,Theros Beyond Death,98,nonfoil,$0.32,rare,408a2073-d068-44bc-b596-5a3a3a446ee1,2023-11-24T13:34:38.249Z
-1,Underworld Dreams,thb,Theros Beyond Death,121,nonfoil,$0.89,uncommon,03919c86-1c4a-43b0-a2db-54ca6ae1ac57,2023-11-24T13:34:38.249Z
-1,Escape Velocity,thb,Theros Beyond Death,132,nonfoil,$0.04,uncommon,90c2a3da-2458-4921-8574-9eb9d5925ae8,2023-11-24T13:34:38.249Z
-1,Agonizing Remorse,thb,Theros Beyond Death,83,nonfoil,$0.04,uncommon,09270c65-546e-4737-a6b7-402cbb87917a,2023-11-24T13:34:38.249Z
-1,The First Iroan Games,thb,Theros Beyond Death,170,nonfoil,$0.34,rare,4b05ada5-8e5f-4158-bd28-e6c24e4a2299,2023-11-24T13:34:38.249Z
-1,Cling to Dust,thb,Theros Beyond Death,87,nonfoil,$0.18,uncommon,52c2de5f-e486-4cfe-9fb6-be0078ce5f93,2023-11-24T13:34:38.249Z
-1,Reverent Hoplite,thb,Theros Beyond Death,33,nonfoil,$0.25,uncommon,54153b9c-483e-4e5c-a1ab-b1c8a7a657d4,2023-11-24T13:34:38.249Z
+1,Acolyte of Affliction,thb,Theros Beyond Death,206,nonfoil,$0.06,uncommon,a14afed6-ca42-442d-ba86-621179e6957c,2023-11-24T13:34:38.249Z
+1,One with the Stars,thb,Theros Beyond Death,59,nonfoil,$0.04,uncommon,98b7070d-4b09-4390-aa21-1bc0aa2b629c,2023-11-24T13:34:38.249Z
+1,Commanding Presence,thb,Theros Beyond Death,7,nonfoil,$0.06,uncommon,24e2f681-918e-4f1f-afb1-0f9587c0d7bf,2023-11-24T13:34:38.249Z
+1,Hero of the Nyxborn,thb,Theros Beyond Death,219,nonfoil,$0.03,uncommon,9854e673-1816-4a76-b9db-bb399ac7489f,2023-11-24T13:34:38.249Z
+1,Gravebreaker Lamia,thb,Theros Beyond Death,98,nonfoil,$0.33,rare,408a2073-d068-44bc-b596-5a3a3a446ee1,2023-11-24T13:34:38.249Z
+1,Underworld Dreams,thb,Theros Beyond Death,121,nonfoil,$0.74,uncommon,03919c86-1c4a-43b0-a2db-54ca6ae1ac57,2023-11-24T13:34:38.249Z
+1,Escape Velocity,thb,Theros Beyond Death,132,nonfoil,$0.02,uncommon,90c2a3da-2458-4921-8574-9eb9d5925ae8,2023-11-24T13:34:38.249Z
+1,Agonizing Remorse,thb,Theros Beyond Death,83,nonfoil,$0.03,uncommon,09270c65-546e-4737-a6b7-402cbb87917a,2023-11-24T13:34:38.249Z
+1,The First Iroan Games,thb,Theros Beyond Death,170,nonfoil,$0.37,rare,4b05ada5-8e5f-4158-bd28-e6c24e4a2299,2023-11-24T13:34:38.249Z
+1,Cling to Dust,thb,Theros Beyond Death,87,nonfoil,$0.22,uncommon,52c2de5f-e486-4cfe-9fb6-be0078ce5f93,2023-11-24T13:34:38.249Z
+1,Reverent Hoplite,thb,Theros Beyond Death,33,nonfoil,$0.24,uncommon,54153b9c-483e-4e5c-a1ab-b1c8a7a657d4,2023-11-24T13:34:38.249Z
 1,Wavebreak Hippocamp,thb,Theros Beyond Death,80,nonfoil,$0.48,rare,d900dff5-1196-443f-b9b0-b8e75c67c868,2023-11-24T13:34:38.249Z
-1,Storm Herald,thb,Theros Beyond Death,156,nonfoil,$0.09,rare,e0594aa2-1c53-4271-a0d0-9002c07f3697,2023-11-24T13:34:38.249Z
-1,Soul-Guide Lantern,thb,Theros Beyond Death,237,nonfoil,$0.10,uncommon,7c850b94-75c9-4457-8b5e-1193352d6fcb,2023-11-24T13:34:38.249Z
-1,Pheres-Band Brawler,thb,Theros Beyond Death,193,nonfoil,$0.02,uncommon,10ac20a9-6b10-4165-ad81-a47587b64d1e,2023-11-24T13:34:38.249Z
-1,Mirror Shield,thb,Theros Beyond Death,234,nonfoil,$0.40,uncommon,e7624e84-93ce-4983-8624-ebc934cab67f,2023-11-24T13:34:38.249Z
+1,Storm Herald,thb,Theros Beyond Death,156,nonfoil,$0.11,rare,e0594aa2-1c53-4271-a0d0-9002c07f3697,2023-11-24T13:34:38.249Z
+1,Soul-Guide Lantern,thb,Theros Beyond Death,237,nonfoil,$0.25,uncommon,7c850b94-75c9-4457-8b5e-1193352d6fcb,2023-11-24T13:34:38.249Z
+1,Pheres-Band Brawler,thb,Theros Beyond Death,193,nonfoil,$0.06,uncommon,10ac20a9-6b10-4165-ad81-a47587b64d1e,2023-11-24T13:34:38.249Z
+1,Mirror Shield,thb,Theros Beyond Death,234,nonfoil,$0.44,uncommon,e7624e84-93ce-4983-8624-ebc934cab67f,2023-11-24T13:34:38.249Z
 1,Thundering Chariot,thb,Theros Beyond Death,239,nonfoil,$0.04,uncommon,cd2fa92d-5521-421c-b3f8-7c14bbef3080,2023-11-24T13:34:38.249Z
 1,Inevitable End,thb,Theros Beyond Death,102,nonfoil,$0.07,uncommon,a6522f01-ae7a-467e-9a05-530a5ccd304d,2023-11-24T13:34:38.249Z
-1,Elspeth Conquers Death,thb,Theros Beyond Death,13,nonfoil,$0.84,rare,ea20208b-1939-4c69-8cfd-c0a42f9dc427,2023-11-24T13:34:38.249Z
-1,Staggering Insight,thb,Theros Beyond Death,228,nonfoil,$0.20,uncommon,125b8be1-76b9-434e-a505-5099d950767c,2023-11-24T13:34:38.249Z
+1,Elspeth Conquers Death,thb,Theros Beyond Death,13,nonfoil,$0.65,rare,ea20208b-1939-4c69-8cfd-c0a42f9dc427,2023-11-24T13:34:38.249Z
+1,Staggering Insight,thb,Theros Beyond Death,228,nonfoil,$0.23,uncommon,125b8be1-76b9-434e-a505-5099d950767c,2023-11-24T13:34:38.249Z
 1,Nessian Hornbeetle,thb,Theros Beyond Death,182,nonfoil,$0.02,uncommon,8200fcda-e30c-460f-9964-47e657b7c758,2023-11-24T13:34:38.249Z
-1,"Kroxa, Titan of Death's Hunger",thb,Theros Beyond Death,221,nonfoil,$2.60,mythic,cee0459b-9aac-4d2f-abe4-4d5fedde7eb8,2023-11-24T13:34:38.249Z
-1,Nyx Herald,thb,Theros Beyond Death,189,nonfoil,$0.02,uncommon,866dcef0-8d3e-4126-963a-05598d8a9e79,2023-11-24T13:34:38.249Z
+1,"Kroxa, Titan of Death's Hunger",thb,Theros Beyond Death,221,nonfoil,$3.36,mythic,cee0459b-9aac-4d2f-abe4-4d5fedde7eb8,2023-11-24T13:34:38.249Z
+1,Nyx Herald,thb,Theros Beyond Death,189,nonfoil,$0.05,uncommon,866dcef0-8d3e-4126-963a-05598d8a9e79,2023-11-24T13:34:38.249Z
 1,Fateful End,thb,Theros Beyond Death,133,nonfoil,$0.03,uncommon,56455067-92c0-45b5-ac2e-525c35b41215,2023-11-24T13:34:38.249Z
-1,Gray Merchant of Asphodel,thb,Theros Beyond Death,99,nonfoil,$0.71,uncommon,7c1a7dd8-8034-4f59-a351-33666b26ff5a,2023-11-24T13:34:38.249Z
+1,Gray Merchant of Asphodel,thb,Theros Beyond Death,99,nonfoil,$0.84,uncommon,7c1a7dd8-8034-4f59-a351-33666b26ff5a,2023-11-24T13:34:38.249Z
 1,Pharika's Spawn,thb,Theros Beyond Death,112,nonfoil,$0.03,uncommon,a2c8244b-7d86-4dff-9419-3945beb2a7b7,2023-11-24T13:34:38.249Z
-1,The Binding of the Titans,thb,Theros Beyond Death,166,nonfoil,$0.10,uncommon,46fb94ad-f9be-48b4-b65a-4e736e5ffdbb,2023-11-24T13:34:38.249Z
+1,The Binding of the Titans,thb,Theros Beyond Death,166,nonfoil,$0.07,uncommon,46fb94ad-f9be-48b4-b65a-4e736e5ffdbb,2023-11-24T13:34:38.249Z
 1,Heroes of the Revel,thb,Theros Beyond Death,138,nonfoil,$0.03,uncommon,dfdfb481-3446-42f4-a1c3-a88b69f2189a,2023-11-24T13:34:38.249Z
-1,"Renata, Called to the Hunt",thb,Theros Beyond Death,267,nonfoil,$0.13,uncommon,97ce113d-6757-45ac-8517-5fd531079ff9,2023-11-24T13:34:38.249Z
-1,Idyllic Tutor,thb,Theros Beyond Death,24,nonfoil,$6.07,rare,f06edd53-f3ac-44b0-a087-5670ba8f0fa5,2023-11-23T18:32:29.324Z
-1,Shadowspear,thb,Theros Beyond Death,236,nonfoil,$19.70,rare,939c6e19-4b27-4023-bb9c-ae440f91e21c,2023-11-23T18:31:30.711Z
-1,"Heliod, Sun-Crowned",thb,Theros Beyond Death,259,foil,$15.48,mythic,e11cf760-da35-41f2-8cf5-a5141103eeb3,2023-11-23T18:09:49.073Z
-1,Bird,tkhm,Kaldheim Tokens,5,nonfoil,$0.15,common,1a0cb299-057d-4c39-9d73-3a3512526e4a,2024-01-01T17:37:20.164Z
-2,Dwarf Berserker,tkhm,Kaldheim Tokens,12,nonfoil,$0.08,common,142bbbe1-4446-4d80-b82d-0df8ef17eac1,2024-01-01T17:39:35.902Z
+1,"Renata, Called to the Hunt",thb,Theros Beyond Death,267,nonfoil,$0.12,uncommon,97ce113d-6757-45ac-8517-5fd531079ff9,2023-11-24T13:34:38.249Z
+1,Idyllic Tutor,thb,Theros Beyond Death,24,nonfoil,$5.88,rare,f06edd53-f3ac-44b0-a087-5670ba8f0fa5,2023-11-23T18:32:29.324Z
+1,Shadowspear,thb,Theros Beyond Death,236,nonfoil,$21.00,rare,939c6e19-4b27-4023-bb9c-ae440f91e21c,2023-11-23T18:31:30.711Z
+1,"Heliod, Sun-Crowned",thb,Theros Beyond Death,259,foil,$16.22,mythic,e11cf760-da35-41f2-8cf5-a5141103eeb3,2023-11-23T18:09:49.073Z
+1,Human Soldier,tiko,Ikoria: Lair of Behemoths Tokens,3,nonfoil,$0.06,common,90de6d1e-e654-4f4a-8014-061ce69e540f,Thu Mar 07 2024 08:11:58 GMT+0300 (Москва
+1,Bird,tkhm,Kaldheim Tokens,5,nonfoil,$0.14,common,1a0cb299-057d-4c39-9d73-3a3512526e4a,2024-01-01T17:37:20.164Z
+2,Dwarf Berserker,tkhm,Kaldheim Tokens,12,nonfoil,$0.06,common,142bbbe1-4446-4d80-b82d-0df8ef17eac1,2024-01-01T17:39:35.902Z
 1,Giant Wizard,tkhm,Kaldheim Tokens,6,nonfoil,$0.09,common,a40a0cb8-0caf-4dd1-b7d0-abbc626985d2,2024-01-01T17:40:32.328Z
-1,Zombie Berserker,tkhm,Kaldheim Tokens,9,nonfoil,$0.17,common,e4bbd379-6728-4c6b-b375-295926fe6b00,2024-01-01T17:43:21.210Z
-3,Treasure,tkhm,Kaldheim Tokens,19,nonfoil,$0.18,common,4ae9f454-4f8c-4123-9886-674bc439dfe7,2024-01-01T17:42:10.287Z
+1,Zombie Berserker,tkhm,Kaldheim Tokens,9,nonfoil,$0.15,common,e4bbd379-6728-4c6b-b375-295926fe6b00,2024-01-01T17:43:21.210Z
+3,Treasure,tkhm,Kaldheim Tokens,19,nonfoil,$0.16,common,4ae9f454-4f8c-4123-9886-674bc439dfe7,2024-01-01T17:42:10.287Z
 2,Foretell,tkhm,Kaldheim Tokens,23,nonfoil,$0.10,common,fb02637f-1385-4d3d-8dc0-de513db7633a,2024-01-01T17:43:33.479Z
-1,Spirit,tkhm,Kaldheim Tokens,4,nonfoil,$0.13,common,95694c03-2b3b-455c-8361-0799c078bf04,2024-01-01T17:41:43.503Z
+1,Spirit,tkhm,Kaldheim Tokens,4,nonfoil,$0.14,common,95694c03-2b3b-455c-8361-0799c078bf04,2024-01-01T17:41:43.503Z
 1,Troll Warrior,tkhm,Kaldheim Tokens,16,nonfoil,$0.27,common,8869a8cc-d196-417f-bba5-5ed31bae6a18,2024-01-01T17:42:22.890Z
-1,Demon Berserker,tkhm,Kaldheim Tokens,10,nonfoil,$0.13,common,c58def55-f2ca-4c41-b891-c32e5220fc66,2024-01-01T17:39:10.773Z
-1,Orc Army,tltr,Tales of Middle-earth Tokens,6,nonfoil,$0.11,common,db598f33-2ff9-4e0b-a067-05fecc03435f,2024-01-16T19:48:00.738Z
-2,Zombie,tmid,Innistrad: Midnight Hunt Tokens,5,nonfoil,$0.27,common,6adb8607-1066-451d-a719-74ad32358278,2024-01-01T17:42:59.230Z
+1,Demon Berserker,tkhm,Kaldheim Tokens,10,nonfoil,$0.14,common,c58def55-f2ca-4c41-b891-c32e5220fc66,2024-01-01T17:39:10.773Z
+1,Orc Army,tltr,Tales of Middle-earth Tokens,6,nonfoil,$0.16,common,db598f33-2ff9-4e0b-a067-05fecc03435f,2024-01-16T19:48:00.738Z
+2,Zombie,tmid,Innistrad: Midnight Hunt Tokens,5,nonfoil,$0.37,common,6adb8607-1066-451d-a719-74ad32358278,2024-01-01T17:42:59.230Z
 1,Elemental,tmid,Innistrad: Midnight Hunt Tokens,7,nonfoil,$0.11,common,c4052aed-981b-41d0-85f0-20c2599811ba,2024-01-01T17:40:05.079Z
-1,Wolf,tmid,Innistrad: Midnight Hunt Tokens,13,nonfoil,$0.19,common,364e04d9-9a8a-49df-921c-7a9bf62dc731,2024-01-01T17:42:45.505Z
+1,Wolf,tmid,Innistrad: Midnight Hunt Tokens,13,nonfoil,$0.24,common,364e04d9-9a8a-49df-921c-7a9bf62dc731,2024-01-01T17:42:45.505Z
 1,Zombie,tmid,Innistrad: Midnight Hunt Tokens,15,nonfoil,$0.11,common,eb5fb489-6e46-4359-9c3c-ef1702526e5a,2024-01-01T17:43:15.167Z
 1,Treasure,tmom,March of the Machine Tokens,20,nonfoil,$0.08,common,86e82686-0574-4fb3-8c3b-c6dbe3b24c8d,2024-01-01T17:42:16.760Z
-4,Elemental,tstx,Strixhaven: School of Mages Tokens,2,nonfoil,$0.12,common,3d0b9b88-705e-4df0-8a93-3e240b81355b,2024-01-01T17:39:50.934Z
-4,Treasure,tstx,Strixhaven: School of Mages Tokens,7,nonfoil,$0.13,common,1a2d027f-8996-4761-a776-47cd428f6779,2024-01-01T17:42:03.468Z
-4,Inkling,tstx,Strixhaven: School of Mages Tokens,4,nonfoil,$0.19,common,c9deae5c-80d4-4701-b425-91853b7ee03b,2024-01-01T17:40:58.636Z
+1,Construct,tneo,Kamigawa: Neon Dynasty Tokens,15,nonfoil,$0.06,common,2770f887-7e96-44d1-864a-8c0504a39785,Thu Feb 01 2024 18:09:45 GMT+0300 (Москва
+4,Elemental,tstx,Strixhaven: School of Mages Tokens,2,nonfoil,$0.16,common,3d0b9b88-705e-4df0-8a93-3e240b81355b,2024-01-01T17:39:50.934Z
+4,Treasure,tstx,Strixhaven: School of Mages Tokens,7,nonfoil,$0.18,common,1a2d027f-8996-4761-a776-47cd428f6779,2024-01-01T17:42:03.468Z
+4,Inkling,tstx,Strixhaven: School of Mages Tokens,4,nonfoil,$0.18,common,c9deae5c-80d4-4701-b425-91853b7ee03b,2024-01-01T17:40:58.636Z
 3,Spirit,tstx,Strixhaven: School of Mages Tokens,6,nonfoil,$0.05,common,f98c0167-7434-4607-87c4-315fa8b6972e,2024-01-01T17:41:49.963Z
-3,Fractal,tstx,Strixhaven: School of Mages Tokens,3,nonfoil,$0.16,common,910f48ab-b04e-4874-b31d-a86a7bc5af14,2024-01-01T17:40:25.103Z
-3,Satyr,tthb,Theros Beyond Death Tokens,9,nonfoil,$0.06,common,903e30f3-580e-4a14-989b-ae0632363407,2024-01-01T17:41:20.952Z
-1,Zombie,tthb,Theros Beyond Death Tokens,7,nonfoil,$0.17,common,6b3e6b4d-d798-4c6a-8a09-255be2a6df2c,2024-01-01T17:43:07.201Z
-3,Human Soldier,tthb,Theros Beyond Death Tokens,2,nonfoil,$0.09,common,1e76f0e3-9411-401d-ab38-9c3c64769483,2024-01-01T17:40:45.708Z
-1,Nightmare,tthb,Theros Beyond Death Tokens,12,nonfoil,$0.76,common,c528581f-f671-45ae-8d7a-ae26a4e62ceb,2024-01-01T17:41:05.949Z
-1,Wall,tthb,Theros Beyond Death Tokens,14,nonfoil,$0.08,common,dbdd5d53-65e7-42c3-a325-791f11335e62,2024-01-01T17:42:34.414Z
-1,Elemental,tthb,Theros Beyond Death Tokens,8,nonfoil,$0.17,common,60466c78-155e-442b-8022-795e1e9de8df,2024-01-01T17:39:57.990Z
-1,Welcoming Vampire,vow,Innistrad: Crimson Vow,46,foil,$2.15,rare,d8f69cea-823c-482b-a605-8138b3d950e6,2023-11-22T06:48:24.771Z
-1,Ascendant Packleader,vow,Innistrad: Crimson Vow,186,nonfoil,$0.17,rare,142c5b67-5de9-41da-b57f-7ce771457a3e,2023-11-24T13:34:38.249Z
-1,Glorious Sunrise,vow,Innistrad: Crimson Vow,200,nonfoil,$0.65,rare,a2caf73e-c3eb-4fa8-996a-d3d18b2ffaeb,2023-11-24T13:34:38.249Z
-1,Hullbreaker Horror,vow,Innistrad: Crimson Vow,63,nonfoil,$3.00,rare,4b546bcf-2e86-42af-bf32-81c7fd36ef8c,2023-11-24T13:34:38.249Z
+3,Fractal,tstx,Strixhaven: School of Mages Tokens,3,nonfoil,$0.17,common,910f48ab-b04e-4874-b31d-a86a7bc5af14,2024-01-01T17:40:25.103Z
+3,Satyr,tthb,Theros Beyond Death Tokens,9,nonfoil,$0.05,common,903e30f3-580e-4a14-989b-ae0632363407,2024-01-01T17:41:20.952Z
+1,Zombie,tthb,Theros Beyond Death Tokens,7,nonfoil,$0.15,common,6b3e6b4d-d798-4c6a-8a09-255be2a6df2c,2024-01-01T17:43:07.201Z
+3,Human Soldier,tthb,Theros Beyond Death Tokens,2,nonfoil,$0.11,common,1e76f0e3-9411-401d-ab38-9c3c64769483,2024-01-01T17:40:45.708Z
+1,Nightmare,tthb,Theros Beyond Death Tokens,12,nonfoil,$0.68,common,c528581f-f671-45ae-8d7a-ae26a4e62ceb,2024-01-01T17:41:05.949Z
+1,Wall,tthb,Theros Beyond Death Tokens,14,nonfoil,$0.11,common,dbdd5d53-65e7-42c3-a325-791f11335e62,2024-01-01T17:42:34.414Z
+1,Elemental,tthb,Theros Beyond Death Tokens,8,nonfoil,$0.18,common,60466c78-155e-442b-8022-795e1e9de8df,2024-01-01T17:39:57.990Z
+1,Welcoming Vampire,vow,Innistrad: Crimson Vow,46,foil,$2.18,rare,d8f69cea-823c-482b-a605-8138b3d950e6,2023-11-22T06:48:24.771Z
+1,Ascendant Packleader,vow,Innistrad: Crimson Vow,186,nonfoil,$0.22,rare,142c5b67-5de9-41da-b57f-7ce771457a3e,2023-11-24T13:34:38.249Z
+1,Glorious Sunrise,vow,Innistrad: Crimson Vow,200,nonfoil,$0.60,rare,a2caf73e-c3eb-4fa8-996a-d3d18b2ffaeb,2023-11-24T13:34:38.249Z
+1,Hullbreaker Horror,vow,Innistrad: Crimson Vow,63,nonfoil,$3.36,rare,4b546bcf-2e86-42af-bf32-81c7fd36ef8c,2023-11-24T13:34:38.249Z
 1,Creepy Puppeteer,vow,Innistrad: Crimson Vow,151,nonfoil,$0.04,rare,0bd17b9f-fd93-47d4-9cc4-cd333d0004f5,2023-11-24T13:34:38.249Z
-1,Dreamshackle Geist,vow,Innistrad: Crimson Vow,58,nonfoil,$0.24,rare,1b81d90b-708a-48c9-a478-e3b0a3d7e982,2023-11-24T13:34:38.249Z
-1,Consuming Tide,vow,Innistrad: Crimson Vow,53,nonfoil,$0.32,rare,5865f0f1-28a6-49ac-b61e-135845075d1f,2023-11-24T13:34:38.249Z
+1,Dreamshackle Geist,vow,Innistrad: Crimson Vow,58,nonfoil,$0.22,rare,1b81d90b-708a-48c9-a478-e3b0a3d7e982,2023-11-24T13:34:38.249Z
+1,Consuming Tide,vow,Innistrad: Crimson Vow,53,nonfoil,$0.42,rare,5865f0f1-28a6-49ac-b61e-135845075d1f,2023-11-24T13:34:38.249Z
