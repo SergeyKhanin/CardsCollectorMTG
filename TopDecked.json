@@ -264,6 +264,12 @@
     "Name": "Aegar, the Freezing Flame"
   },
   {
+    "Name": "Scion of the Swarm"
+  },
+  {
+    "Name": "Delina, Wild Mage"
+  },
+  {
     "Name": "Dream Trawler"
   },
   {
@@ -328,9 +334,6 @@
   },
   {
     "Name": "The Birth of Meletis"
-  },
-  {
-    "Name": "Delina, Wild Mage"
   },
   {
     "Name": "Delina, Wild Mage"
@@ -1362,6 +1365,24 @@
     "Name": "Exuberant Wolfbear"
   },
   {
+    "Name": "Lithoform Blight"
+  },
+  {
+    "Name": "Canyon Jerboa"
+  },
+  {
+    "Name": "Inscription of Ruin"
+  },
+  {
+    "Name": "Shatterskull Minotaur"
+  },
+  {
+    "Name": "Veteran Adventurer"
+  },
+  {
+    "Name": "Zof Consumption // Zof Bloodbog"
+  },
+  {
     "Name": "Satyr"
   },
   {
@@ -1458,6 +1479,9 @@
     "Name": "Plant"
   },
   {
+    "Name": "Plant"
+  },
+  {
     "Name": "Demon"
   },
   {
@@ -1537,5 +1561,11 @@
   },
   {
     "Name": "Toils of Night and Day"
+  },
+  {
+    "Name": "Moraug, Fury of Akoum"
+  },
+  {
+    "Name": "Malakir Rebirth // Malakir Mire"
   }
 ]
