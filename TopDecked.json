@@ -66,6 +66,9 @@
     "Name": "Swamp"
   },
   {
+    "Name": "Delina, Wild Mage"
+  },
+  {
     "Name": "Sunrise Cavalier"
   },
   {
@@ -204,6 +207,9 @@
     "Name": "Obsessive Astronomer"
   },
   {
+    "Name": "Scion of the Swarm"
+  },
+  {
     "Name": "Evolving Wilds"
   },
   {
@@ -264,10 +270,10 @@
     "Name": "Aegar, the Freezing Flame"
   },
   {
-    "Name": "Scion of the Swarm"
+    "Name": "Guild Summit"
   },
   {
-    "Name": "Delina, Wild Mage"
+    "Name": "Flame-Blessed Bolt"
   },
   {
     "Name": "Dream Trawler"
@@ -339,10 +345,16 @@
     "Name": "Delina, Wild Mage"
   },
   {
+    "Name": "Mysterious Pathlighter"
+  },
+  {
     "Name": "Rune of Speed"
   },
   {
     "Name": "Barbarian Class"
+  },
+  {
+    "Name": "Nezumi Prowler"
   },
   {
     "Name": "Cultivate"
@@ -408,6 +420,9 @@
     "Name": "Dawnhart Wardens"
   },
   {
+    "Name": "Dawnhart Wardens"
+  },
+  {
     "Name": "Aether Helix"
   },
   {
@@ -444,6 +459,9 @@
     "Name": "Avalanche Caller"
   },
   {
+    "Name": "Rally for the Throne"
+  },
+  {
     "Name": "Old Stickfingers"
   },
   {
@@ -465,6 +483,9 @@
     "Name": "Dawnhart Mentor"
   },
   {
+    "Name": "March of Wretched Sorrow"
+  },
+  {
     "Name": "Extus, Oriq Overlord // Awaken the Blood Avatar"
   },
   {
@@ -483,6 +504,9 @@
     "Name": "Hound Tamer // Untamed Pup"
   },
   {
+    "Name": "Sunblade Samurai"
+  },
+  {
     "Name": "Duelcraft Trainer"
   },
   {
@@ -499,6 +523,9 @@
   },
   {
     "Name": "Trelasarra, Moon Dancer"
+  },
+  {
+    "Name": "Shatterskull Minotaur"
   },
   {
     "Name": "Port of Karfell"
@@ -541,6 +568,9 @@
   },
   {
     "Name": "Snakeskin Veil"
+  },
+  {
+    "Name": "Thirst for Knowledge"
   },
   {
     "Name": "Divine Gambit"
@@ -594,6 +624,9 @@
     "Name": "Frost Augur"
   },
   {
+    "Name": "Lithoform Blight"
+  },
+  {
     "Name": "Skullport Merchant"
   },
   {
@@ -625,6 +658,9 @@
   },
   {
     "Name": "Hullbreaker Horror"
+  },
+  {
+    "Name": "Amaranthine Wall"
   },
   {
     "Name": "Infuriate"
@@ -693,6 +729,9 @@
     "Name": "Rally Maneuver"
   },
   {
+    "Name": "Yorvo, Lord of Garenbrig"
+  },
+  {
     "Name": "Quest for the Gravelord"
   },
   {
@@ -736,6 +775,9 @@
   },
   {
     "Name": "Search for Glory"
+  },
+  {
+    "Name": "Zof Consumption // Zof Bloodbog"
   },
   {
     "Name": "Bruenor Battlehammer"
@@ -846,6 +888,9 @@
     "Name": "Joyful Stormsculptor"
   },
   {
+    "Name": "Zirda, the Dawnwaker"
+  },
+  {
     "Name": "Koll, the Forgemaster"
   },
   {
@@ -906,6 +951,9 @@
     "Name": "The Blackstaff of Waterdeep"
   },
   {
+    "Name": "Exuberant Wolfbear"
+  },
+  {
     "Name": "Mosswort Bridge"
   },
   {
@@ -930,10 +978,19 @@
     "Name": "Wight"
   },
   {
+    "Name": "Wight"
+  },
+  {
     "Name": "Vivisection"
   },
   {
+    "Name": "Inscription of Ruin"
+  },
+  {
     "Name": "Niko Defies Destiny"
+  },
+  {
+    "Name": "Discover the Impossible"
   },
   {
     "Name": "Fynn, the Fangbearer"
@@ -960,6 +1017,9 @@
     "Name": "Winterthorn Blessing"
   },
   {
+    "Name": "Footfall Crater"
+  },
+  {
     "Name": "Storm-Kiln Artist"
   },
   {
@@ -979,6 +1039,9 @@
   },
   {
     "Name": "Teachings of the Archaics"
+  },
+  {
+    "Name": "Evra, Halcyon Witness"
   },
   {
     "Name": "Lightning Helix"
@@ -1017,6 +1080,9 @@
     "Name": "Yuan-Ti Malison"
   },
   {
+    "Name": "Veteran Adventurer"
+  },
+  {
     "Name": "Oran-Rief Hydra"
   },
   {
@@ -1050,7 +1116,13 @@
     "Name": "Dueling Coach"
   },
   {
+    "Name": "Canyon Jerboa"
+  },
+  {
     "Name": "Shock"
+  },
+  {
+    "Name": "Charge of the Forever-Beast"
   },
   {
     "Name": "Returned Pastcaller"
@@ -1063,6 +1135,9 @@
   },
   {
     "Name": "You Find Some Prisoners"
+  },
+  {
+    "Name": "Rat Colony"
   },
   {
     "Name": "Ardent Dustspeaker"
@@ -1125,6 +1200,9 @@
     "Name": "Grinning Ignus"
   },
   {
+    "Name": "Final Parting"
+  },
+  {
     "Name": "Hand of Vecna"
   },
   {
@@ -1176,6 +1254,9 @@
     "Name": "Leonin Lightscribe"
   },
   {
+    "Name": "Goblin Warchief"
+  },
+  {
     "Name": "Elven Bow"
   },
   {
@@ -1206,7 +1287,13 @@
     "Name": "Inquisition of Kozilek"
   },
   {
+    "Name": "Mirrorshell Crab"
+  },
+  {
     "Name": "The Binding of the Titans"
+  },
+  {
+    "Name": "Keeper of Fables"
   },
   {
     "Name": "Dungeon Descent"
@@ -1308,79 +1395,226 @@
     "Name": "Farideh, Devil's Chosen"
   },
   {
-    "Name": "Mysterious Pathlighter"
+    "Name": "Sludge Monster"
   },
   {
-    "Name": "Yorvo, Lord of Garenbrig"
+    "Name": "Forging the Tyrite Sword"
   },
   {
-    "Name": "Keeper of Fables"
+    "Name": "Alluring Siren"
   },
   {
-    "Name": "Rally for the Throne"
+    "Name": "Alluring Siren"
   },
   {
-    "Name": "Rat Colony"
+    "Name": "Glint-Nest Crane"
   },
   {
-    "Name": "Final Parting"
+    "Name": "Honored Crop-Captain"
   },
   {
-    "Name": "Goblin Warchief"
+    "Name": "Runed Servitor"
   },
   {
-    "Name": "Evra, Halcyon Witness"
+    "Name": "War Priest of Thune"
   },
   {
-    "Name": "Amaranthine Wall"
+    "Name": "Emancipation Angel"
   },
   {
-    "Name": "Nezumi Prowler"
+    "Name": "Renegade Rallier"
   },
   {
-    "Name": "Sunblade Samurai"
+    "Name": "Roc Egg"
   },
   {
-    "Name": "Mirrorshell Crab"
+    "Name": "Roc Egg"
   },
   {
-    "Name": "March of Wretched Sorrow"
+    "Name": "Rogue Refiner"
   },
   {
-    "Name": "Discover the Impossible"
+    "Name": "Tandem Lookout"
   },
   {
-    "Name": "Thirst for Knowledge"
+    "Name": "Kapsho Kitefins"
   },
   {
-    "Name": "Zirda, the Dawnwaker"
+    "Name": "Stingerfling Spider"
   },
   {
-    "Name": "Footfall Crater"
+    "Name": "Wall of Frost"
   },
   {
-    "Name": "Charge of the Forever-Beast"
+    "Name": "Wall of Limbs"
   },
   {
-    "Name": "Exuberant Wolfbear"
+    "Name": "Brood Keeper"
   },
   {
-    "Name": "Lithoform Blight"
+    "Name": "Dragonloft Idol"
   },
   {
-    "Name": "Canyon Jerboa"
+    "Name": "Enthralling Victor"
   },
   {
-    "Name": "Inscription of Ruin"
+    "Name": "Entomber Exarch"
   },
   {
-    "Name": "Shatterskull Minotaur"
+    "Name": "Roaring Primadox"
   },
   {
-    "Name": "Veteran Adventurer"
+    "Name": "Water Servant"
   },
   {
-    "Name": "Zof Consumption // Zof Bloodbog"
+    "Name": "Air Servant"
+  },
+  {
+    "Name": "Dazzling Ramparts"
+  },
+  {
+    "Name": "Crumbling Colossus"
+  },
+  {
+    "Name": "Hellkite Whelp"
+  },
+  {
+    "Name": "Mardu Roughrider"
+  },
+  {
+    "Name": "Moritte of the Frost"
+  },
+  {
+    "Name": "Ancient Silverback"
+  },
+  {
+    "Name": "Buried Ruin"
+  },
+  {
+    "Name": "Gates of Istfell"
+  },
+  {
+    "Name": "Gnottvold Slumbermound"
+  },
+  {
+    "Name": "Surtland Frostpyre"
+  },
+  {
+    "Name": "Ravaging Blaze"
+  },
+  {
+    "Name": "Wurm's Tooth"
+  },
+  {
+    "Name": "Feral Incarnation"
+  },
+  {
+    "Name": "Dragon's Claw"
+  },
+  {
+    "Name": "Crown of Empires"
+  },
+  {
+    "Name": "Kite Shield"
+  },
+  {
+    "Name": "Blood Mist"
+  },
+  {
+    "Name": "Mind Control"
+  },
+  {
+    "Name": "Mind Control"
+  },
+  {
+    "Name": "Sacred Fire"
+  },
+  {
+    "Name": "Barter in Blood"
+  },
+  {
+    "Name": "Furious Reprisal"
+  },
+  {
+    "Name": "Sleep"
+  },
+  {
+    "Name": "Jace's Ingenuity"
+  },
+  {
+    "Name": "Dromoka Monument"
+  },
+  {
+    "Name": "Civic Saber"
+  },
+  {
+    "Name": "Engineered Might"
+  },
+  {
+    "Name": "Corrupt"
+  },
+  {
+    "Name": "Rise from the Grave"
+  },
+  {
+    "Name": "Hazardous Conditions"
+  },
+  {
+    "Name": "Start // Finish"
+  },
+  {
+    "Name": "Krydle of Baldur's Gate"
+  },
+  {
+    "Name": "Wintermoor Commander"
+  },
+  {
+    "Name": "Nadir Kraken"
+  },
+  {
+    "Name": "Ancient Lumberknot"
+  },
+  {
+    "Name": "Edgar, Charmed Groom // Edgar Markov's Coffin"
+  },
+  {
+    "Name": "Wedding Security"
+  },
+  {
+    "Name": "Swathcutter Giant"
+  },
+  {
+    "Name": "Ray of Enfeeblement"
+  },
+  {
+    "Name": "Wash Away"
+  },
+  {
+    "Name": "Bounty of Might"
+  },
+  {
+    "Name": "Into the Story"
+  },
+  {
+    "Name": "Sprouting Renewal"
+  },
+  {
+    "Name": "Sorcerous Spyglass"
+  },
+  {
+    "Name": "Deafening Silence"
+  },
+  {
+    "Name": "Ray of Frost"
+  },
+  {
+    "Name": "Guild Summit"
+  },
+  {
+    "Name": "Impending Doom"
+  },
+  {
+    "Name": "Doom Foretold"
   },
   {
     "Name": "Satyr"
@@ -1390,6 +1624,12 @@
   },
   {
     "Name": "Zombie"
+  },
+  {
+    "Name": "Plant"
+  },
+  {
+    "Name": "Plant"
   },
   {
     "Name": "Bird"
@@ -1443,7 +1683,13 @@
     "Name": "The Atropal"
   },
   {
+    "Name": "On an Adventure"
+  },
+  {
     "Name": "Faerie Dragon"
+  },
+  {
+    "Name": "Construct"
   },
   {
     "Name": "Eldrazi Scion"
@@ -1461,6 +1707,9 @@
     "Name": "Human Soldier"
   },
   {
+    "Name": "Saproling"
+  },
+  {
     "Name": "Goblin"
   },
   {
@@ -1474,12 +1723,6 @@
   },
   {
     "Name": "Wall"
-  },
-  {
-    "Name": "Plant"
-  },
-  {
-    "Name": "Plant"
   },
   {
     "Name": "Demon"
@@ -1515,13 +1758,13 @@
     "Name": "Ob Nixilis Reignited Emblem"
   },
   {
-    "Name": "On an Adventure"
+    "Name": "Goat"
   },
   {
-    "Name": "Saproling"
+    "Name": "Insect"
   },
   {
-    "Name": "Construct"
+    "Name": "Wolf"
   },
   {
     "Name": "Noxious Ghoul"
@@ -1531,6 +1774,12 @@
   },
   {
     "Name": "Acererak the Archlich"
+  },
+  {
+    "Name": "Malakir Rebirth // Malakir Mire"
+  },
+  {
+    "Name": "Moraug, Fury of Akoum"
   },
   {
     "Name": "Shadowspear"
@@ -1561,11 +1810,5 @@
   },
   {
     "Name": "Toils of Night and Day"
-  },
-  {
-    "Name": "Moraug, Fury of Akoum"
-  },
-  {
-    "Name": "Malakir Rebirth // Malakir Mire"
   }
 ]
